@@ -1,0 +1,703 @@
+{
+  "qq_number": "863098479",
+  "group_number": "514692838",
+  "updated_at": "2026-02-13T23:42:12.619873",
+  "skins": [
+    {
+      "name": "婷-蚀纹烛",
+      "file": "婷-蚀纹烛闷.bdi",
+      "thumb": "婷-蚀纹烛闷.bdi_py_26_light_thumb.png",
+      "full": "婷-蚀纹烛闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-蚀纹烛",
+      "file": "婷-蚀纹烛单.bdi",
+      "thumb": "婷-蚀纹烛单.bdi_py_26_light_thumb.png",
+      "full": "婷-蚀纹烛单.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-蚀纹烛",
+      "file": "婷-蚀纹烛脆.bdi",
+      "thumb": "婷-蚀纹烛脆.bdi_py_26_light_thumb.png",
+      "full": "婷-蚀纹烛脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-蚀纹烛",
+      "file": "婷-蚀纹烛混闷.bdi",
+      "thumb": "婷-蚀纹烛混闷.bdi_py_26_light_thumb.png",
+      "full": "婷-蚀纹烛混闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-天真",
+      "file": "婷-天真闷2.bdi",
+      "thumb": "婷-天真闷2.bdi_py_26_light_thumb.png",
+      "full": "婷-天真闷2.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-天真",
+      "file": "婷-天真脆.bdi",
+      "thumb": "婷-天真脆.bdi_py_26_light_thumb.png",
+      "full": "婷-天真脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-天真",
+      "file": "婷-天真单.bdi",
+      "thumb": "婷-天真单.bdi_py_26_light_thumb.png",
+      "full": "婷-天真单.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-天真",
+      "file": "婷-天真闷.bdi",
+      "thumb": "婷-天真闷.bdi_py_26_light_thumb.png",
+      "full": "婷-天真闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-soft",
+      "file": "婷-soft闷.bdi",
+      "thumb": "婷-soft闷.bdi_py_26_light_thumb.png",
+      "full": "婷-soft闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-soft",
+      "file": "婷-soft脆.bdi",
+      "thumb": "婷-soft脆.bdi_py_26_light_thumb.png",
+      "full": "婷-soft脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-soft",
+      "file": "婷-soft单.bdi",
+      "thumb": "婷-soft单.bdi_py_26_light_thumb.png",
+      "full": "婷-soft单.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "婷-冬夜暖舍脆.bdi",
+      "thumb": "婷-冬夜暖舍脆.bdi_py_26_light_thumb.png",
+      "full": "婷-冬夜暖舍脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "婷-冬夜暖舍闷.bdi",
+      "thumb": "婷-冬夜暖舍闷.bdi_py_26_light_thumb.png",
+      "full": "婷-冬夜暖舍闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "婷-冬夜暖舍单.bdi",
+      "thumb": "婷-冬夜暖舍单.bdi_py_26_light_thumb.png",
+      "full": "婷-冬夜暖舍单.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "婷-冬夜暖舍闷脆.bdi",
+      "thumb": "婷-冬夜暖舍闷脆.bdi_py_26_light_thumb.png",
+      "full": "婷-冬夜暖舍闷脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "咩·找补",
+      "file": "咩找补闷.bdi",
+      "thumb": "咩找补闷.bdi_py_26_light_thumb.png",
+      "full": "咩找补闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "咩·找补",
+      "file": "咩找补单.bdi",
+      "thumb": "咩找补单.bdi_py_26_light_thumb.png",
+      "full": "咩找补单.bdi_py_26_light.png"
+    },
+    {
+      "name": "咩·找补",
+      "file": "咩找补脆.bdi",
+      "thumb": "咩找补脆.bdi_py_26_light_thumb.png",
+      "full": "咩找补脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-复古",
+      "file": "婷-复古默认.bdi",
+      "thumb": "婷-复古默认.bdi_py_26_light_thumb.png",
+      "full": "婷-复古默认.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-复古",
+      "file": "婷-复古闷.bdi",
+      "thumb": "婷-复古闷.bdi_py_26_light_thumb.png",
+      "full": "婷-复古闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-复古",
+      "file": "婷-复古脆.bdi",
+      "thumb": "婷-复古脆.bdi_py_26_light_thumb.png",
+      "full": "婷-复古脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-复古",
+      "file": "婷-复古单.bdi",
+      "thumb": "婷-复古单.bdi_py_26_light_thumb.png",
+      "full": "婷-复古单.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-陌寻",
+      "file": "婷-陌寻闷.bdi",
+      "thumb": "婷-陌寻闷.bdi_py_26_light_thumb.png",
+      "full": "婷-陌寻闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-陌寻",
+      "file": "婷-陌寻脆.bdi",
+      "thumb": "婷-陌寻脆.bdi_py_26_light_thumb.png",
+      "full": "婷-陌寻脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-陌寻",
+      "file": "婷-陌寻单.bdi",
+      "thumb": "婷-陌寻单.bdi_py_26_light_thumb.png",
+      "full": "婷-陌寻单.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-陌寻",
+      "file": "婷-陌寻单2.bdi",
+      "thumb": "婷-陌寻单2.bdi_py_26_light_thumb.png",
+      "full": "婷-陌寻单2.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-陌寻",
+      "file": "婷-陌寻闷2.bdi",
+      "thumb": "婷-陌寻闷2.bdi_py_26_light_thumb.png",
+      "full": "婷-陌寻闷2.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-讯息",
+      "file": "婷-讯息闷.bdi",
+      "thumb": "婷-讯息闷.bdi_py_26_light_thumb.png",
+      "full": "婷-讯息闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-讯息",
+      "file": "婷-讯息脆.bdi",
+      "thumb": "婷-讯息脆.bdi_py_26_light_thumb.png",
+      "full": "婷-讯息脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-讯息",
+      "file": "婷-讯息单.bdi",
+      "thumb": "婷-讯息单.bdi_py_26_light_thumb.png",
+      "full": "婷-讯息单.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-讯息",
+      "file": "婷-讯息单2.bdi",
+      "thumb": "婷-讯息单2.bdi_py_26_light_thumb.png",
+      "full": "婷-讯息单2.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-雪停林静时",
+      "file": "婷-雪停林静时脆.bdi",
+      "thumb": "婷-雪停林静时脆.bdi_py_26_light_thumb.png",
+      "full": "婷-雪停林静时脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-雪停林静时",
+      "file": "婷-雪停林静时单.bdi",
+      "thumb": "婷-雪停林静时单.bdi_py_26_light_thumb.png",
+      "full": "婷-雪停林静时单.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-雪停林静时",
+      "file": "婷-雪停林静时闷.bdi",
+      "thumb": "婷-雪停林静时闷.bdi_py_26_light_thumb.png",
+      "full": "婷-雪停林静时闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-雪停林静时",
+      "file": "婷-雪停林静时闷脆.bdi",
+      "thumb": "婷-雪停林静时闷脆.bdi_py_26_light_thumb.png",
+      "full": "婷-雪停林静时闷脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "咩·偏执",
+      "file": "咩偏执闷.bdi",
+      "thumb": "咩偏执闷.bdi_py_26_light_thumb.png",
+      "full": "咩偏执闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "咩·偏执",
+      "file": "咩偏执单.bdi",
+      "thumb": "咩偏执单.bdi_py_26_light_thumb.png",
+      "full": "咩偏执单.bdi_py_26_light.png"
+    },
+    {
+      "name": "咩·偏执",
+      "file": "咩偏执脆.bdi",
+      "thumb": "咩偏执脆.bdi_py_26_light_thumb.png",
+      "full": "咩偏执脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-小丸子",
+      "file": "婷-小团子可爱.bdi",
+      "thumb": "婷-小团子可爱.bdi_py_26_light_thumb.png",
+      "full": "婷-小团子可爱.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-小丸子",
+      "file": "婷-小团子闷.bdi",
+      "thumb": "婷-小团子闷.bdi_py_26_light_thumb.png",
+      "full": "婷-小团子闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-小丸子",
+      "file": "婷-小团子单.bdi",
+      "thumb": "婷-小团子单.bdi_py_26_light_thumb.png",
+      "full": "婷-小团子单.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-小丸子",
+      "file": "婷-小团子脆.bdi",
+      "thumb": "婷-小团子脆.bdi_py_26_light_thumb.png",
+      "full": "婷-小团子脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-客服08",
+      "file": "婷-客服08闷脆.bdi",
+      "thumb": "婷-客服08闷脆.bdi_py_26_light_thumb.png",
+      "full": "婷-客服08闷脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-客服08",
+      "file": "婷-客服08单.bdi",
+      "thumb": "婷-客服08单.bdi_py_26_light_thumb.png",
+      "full": "婷-客服08单.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-客服08",
+      "file": "婷-客服08脆.bdi",
+      "thumb": "婷-客服08脆.bdi_py_26_light_thumb.png",
+      "full": "婷-客服08脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-客服08",
+      "file": "婷-客服08闷.bdi",
+      "thumb": "婷-客服08闷.bdi_py_26_light_thumb.png",
+      "full": "婷-客服08闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-冷雨季",
+      "file": "婷-冷色系单.bdi",
+      "thumb": "婷-冷色系单.bdi_py_26_light_thumb.png",
+      "full": "婷-冷色系单.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-冷雨季",
+      "file": "婷-冷色系脆.bdi",
+      "thumb": "婷-冷色系脆.bdi_py_26_light_thumb.png",
+      "full": "婷-冷色系脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-冷雨季",
+      "file": "婷-冷色系单2.bdi",
+      "thumb": "婷-冷色系单2.bdi_py_26_light_thumb.png",
+      "full": "婷-冷色系单2.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-冷雨季",
+      "file": "婷-冷色系闷.bdi",
+      "thumb": "婷-冷色系闷.bdi_py_26_light_thumb.png",
+      "full": "婷-冷色系闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-我的日记",
+      "file": "婷-我的日记闷脆.bdi",
+      "thumb": "婷-我的日记闷脆.bdi_py_26_light_thumb.png",
+      "full": "婷-我的日记闷脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-我的日记",
+      "file": "婷-我的日记闷.bdi",
+      "thumb": "婷-我的日记闷.bdi_py_26_light_thumb.png",
+      "full": "婷-我的日记闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-我的日记",
+      "file": "婷-我的日记脆.bdi",
+      "thumb": "婷-我的日记脆.bdi_py_26_light_thumb.png",
+      "full": "婷-我的日记脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-我的日记",
+      "file": "婷-我的日记单.bdi",
+      "thumb": "婷-我的日记单.bdi_py_26_light_thumb.png",
+      "full": "婷-我的日记单.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-约会日常",
+      "file": "婷-约会日常脆.bdi",
+      "thumb": "婷-约会日常脆.bdi_py_26_light_thumb.png",
+      "full": "婷-约会日常脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-约会日常",
+      "file": "婷-约会日常闷2.bdi",
+      "thumb": "婷-约会日常闷2.bdi_py_26_light_thumb.png",
+      "full": "婷-约会日常闷2.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-约会日常",
+      "file": "婷-约会日常闷.bdi",
+      "thumb": "婷-约会日常闷.bdi_py_26_light_thumb.png",
+      "full": "婷-约会日常闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-约会日常",
+      "file": "婷-约会日常单.bdi",
+      "thumb": "婷-约会日常单.bdi_py_26_light_thumb.png",
+      "full": "婷-约会日常单.bdi_py_26_light.png"
+    },
+    {
+      "name": "婷-蚀纹烛",
+      "file": "婷-蚀纹烛混闷.bds",
+      "thumb": "婷-蚀纹烛混闷.bds_py_26_light_thumb.png",
+      "full": "婷-蚀纹烛混闷.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-蚀纹烛",
+      "file": "婷-蚀纹烛脆.bds",
+      "thumb": "婷-蚀纹烛脆.bds_py_26_light_thumb.png",
+      "full": "婷-蚀纹烛脆.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-蚀纹烛",
+      "file": "婷-蚀纹烛单.bds",
+      "thumb": "婷-蚀纹烛单.bds_py_26_light_thumb.png",
+      "full": "婷-蚀纹烛单.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-蚀纹烛",
+      "file": "婷-蚀纹烛闷.bds",
+      "thumb": "婷-蚀纹烛闷.bds_py_26_light_thumb.png",
+      "full": "婷-蚀纹烛闷.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-天真",
+      "file": "婷-天真闷.bds",
+      "thumb": "婷-天真闷.bds_py_26_light_thumb.png",
+      "full": "婷-天真闷.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-天真",
+      "file": "婷-天真闷2.bds",
+      "thumb": "婷-天真闷2.bds_py_26_light_thumb.png",
+      "full": "婷-天真闷2.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-天真",
+      "file": "婷-天真单.bds",
+      "thumb": "婷-天真单.bds_py_26_light_thumb.png",
+      "full": "婷-天真单.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-天真",
+      "file": "婷-天真脆.bds",
+      "thumb": "婷-天真脆.bds_py_26_light_thumb.png",
+      "full": "婷-天真脆.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-soft",
+      "file": "婷-soft单.bds",
+      "thumb": "婷-soft单.bds_py_26_light_thumb.png",
+      "full": "婷-soft单.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-soft",
+      "file": "婷-soft闷.bds",
+      "thumb": "婷-soft闷.bds_py_26_light_thumb.png",
+      "full": "婷-soft闷.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-soft",
+      "file": "婷-soft脆.bds",
+      "thumb": "婷-soft脆.bds_py_26_light_thumb.png",
+      "full": "婷-soft脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "婷-冬夜暖舍单.bds",
+      "thumb": "婷-冬夜暖舍单.bds_py_26_light_thumb.png",
+      "full": "婷-冬夜暖舍单.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "婷-冬夜暖舍脆.bds",
+      "thumb": "婷-冬夜暖舍脆.bds_py_26_light_thumb.png",
+      "full": "婷-冬夜暖舍脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "婷-冬夜暖舍闷脆.bds",
+      "thumb": "婷-冬夜暖舍闷脆.bds_py_26_light_thumb.png",
+      "full": "婷-冬夜暖舍闷脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "婷-冬夜暖舍闷.bds",
+      "thumb": "婷-冬夜暖舍闷.bds_py_26_light_thumb.png",
+      "full": "婷-冬夜暖舍闷.bds_py_26_light.png"
+    },
+    {
+      "name": "咩·找补",
+      "file": "咩找补单.bds",
+      "thumb": "咩找补单.bds_py_26_light_thumb.png",
+      "full": "咩找补单.bds_py_26_light.png"
+    },
+    {
+      "name": "咩·找补",
+      "file": "咩找补闷.bds",
+      "thumb": "咩找补闷.bds_py_26_light_thumb.png",
+      "full": "咩找补闷.bds_py_26_light.png"
+    },
+    {
+      "name": "咩·找补",
+      "file": "咩找补脆.bds",
+      "thumb": "咩找补脆.bds_py_26_light_thumb.png",
+      "full": "咩找补脆.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-复古",
+      "file": "婷-复古单.bds",
+      "thumb": "婷-复古单.bds_py_26_light_thumb.png",
+      "full": "婷-复古单.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-复古",
+      "file": "婷-复古闷.bds",
+      "thumb": "婷-复古闷.bds_py_26_light_thumb.png",
+      "full": "婷-复古闷.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-复古",
+      "file": "婷-复古默认.bds",
+      "thumb": "婷-复古默认.bds_py_26_light_thumb.png",
+      "full": "婷-复古默认.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-复古",
+      "file": "婷-复古脆.bds",
+      "thumb": "婷-复古脆.bds_py_26_light_thumb.png",
+      "full": "婷-复古脆.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-陌寻",
+      "file": "婷-陌寻单.bds",
+      "thumb": "婷-陌寻单.bds_py_26_light_thumb.png",
+      "full": "婷-陌寻单.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-陌寻",
+      "file": "婷-陌寻单2.bds",
+      "thumb": "婷-陌寻单2.bds_py_26_light_thumb.png",
+      "full": "婷-陌寻单2.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-陌寻",
+      "file": "婷-陌寻闷2.bds",
+      "thumb": "婷-陌寻闷2.bds_py_26_light_thumb.png",
+      "full": "婷-陌寻闷2.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-陌寻",
+      "file": "婷-陌寻脆.bds",
+      "thumb": "婷-陌寻脆.bds_py_26_light_thumb.png",
+      "full": "婷-陌寻脆.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-陌寻",
+      "file": "婷-陌寻闷.bds",
+      "thumb": "婷-陌寻闷.bds_py_26_light_thumb.png",
+      "full": "婷-陌寻闷.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-讯息",
+      "file": "婷-讯息闷.bds",
+      "thumb": "婷-讯息闷.bds_py_26_light_thumb.png",
+      "full": "婷-讯息闷.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-讯息",
+      "file": "婷-讯息单2.bds",
+      "thumb": "婷-讯息单2.bds_py_26_light_thumb.png",
+      "full": "婷-讯息单2.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-讯息",
+      "file": "婷-讯息单.bds",
+      "thumb": "婷-讯息单.bds_py_26_light_thumb.png",
+      "full": "婷-讯息单.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-讯息",
+      "file": "婷-讯息脆.bds",
+      "thumb": "婷-讯息脆.bds_py_26_light_thumb.png",
+      "full": "婷-讯息脆.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-雪停林静时",
+      "file": "婷-雪停林静时闷脆.bds",
+      "thumb": "婷-雪停林静时闷脆.bds_py_26_light_thumb.png",
+      "full": "婷-雪停林静时闷脆.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-雪停林静时",
+      "file": "婷-雪停林静时单.bds",
+      "thumb": "婷-雪停林静时单.bds_py_26_light_thumb.png",
+      "full": "婷-雪停林静时单.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-雪停林静时",
+      "file": "婷-雪停林静时闷.bds",
+      "thumb": "婷-雪停林静时闷.bds_py_26_light_thumb.png",
+      "full": "婷-雪停林静时闷.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-雪停林静时",
+      "file": "婷-雪停林静时脆.bds",
+      "thumb": "婷-雪停林静时脆.bds_py_26_light_thumb.png",
+      "full": "婷-雪停林静时脆.bds_py_26_light.png"
+    },
+    {
+      "name": "咩·偏执",
+      "file": "咩偏执脆.bds",
+      "thumb": "咩偏执脆.bds_py_26_light_thumb.png",
+      "full": "咩偏执脆.bds_py_26_light.png"
+    },
+    {
+      "name": "咩·偏执",
+      "file": "咩偏执单.bds",
+      "thumb": "咩偏执单.bds_py_26_light_thumb.png",
+      "full": "咩偏执单.bds_py_26_light.png"
+    },
+    {
+      "name": "咩·偏执",
+      "file": "咩偏执闷.bds",
+      "thumb": "咩偏执闷.bds_py_26_light_thumb.png",
+      "full": "咩偏执闷.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-小丸子",
+      "file": "婷-小团子可爱.bds",
+      "thumb": "婷-小团子可爱.bds_py_26_light_thumb.png",
+      "full": "婷-小团子可爱.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-小丸子",
+      "file": "婷-小团子闷.bds",
+      "thumb": "婷-小团子闷.bds_py_26_light_thumb.png",
+      "full": "婷-小团子闷.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-小丸子",
+      "file": "婷-小团子单.bds",
+      "thumb": "婷-小团子单.bds_py_26_light_thumb.png",
+      "full": "婷-小团子单.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-小丸子",
+      "file": "婷-小团子脆.bds",
+      "thumb": "婷-小团子脆.bds_py_26_light_thumb.png",
+      "full": "婷-小团子脆.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-客服08",
+      "file": "婷-客服08脆.bds",
+      "thumb": "婷-客服08脆.bds_py_26_light_thumb.png",
+      "full": "婷-客服08脆.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-客服08",
+      "file": "婷-客服08单.bds",
+      "thumb": "婷-客服08单.bds_py_26_light_thumb.png",
+      "full": "婷-客服08单.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-客服08",
+      "file": "婷-客服08闷.bds",
+      "thumb": "婷-客服08闷.bds_py_26_light_thumb.png",
+      "full": "婷-客服08闷.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-客服08",
+      "file": "婷-客服08闷脆.bds",
+      "thumb": "婷-客服08闷脆.bds_py_26_light_thumb.png",
+      "full": "婷-客服08闷脆.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-冷雨季",
+      "file": "婷-冷色系单2.bds",
+      "thumb": "婷-冷色系单2.bds_py_26_light_thumb.png",
+      "full": "婷-冷色系单2.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-冷雨季",
+      "file": "婷-冷色系脆.bds",
+      "thumb": "婷-冷色系脆.bds_py_26_light_thumb.png",
+      "full": "婷-冷色系脆.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-冷雨季",
+      "file": "婷-冷色系闷.bds",
+      "thumb": "婷-冷色系闷.bds_py_26_light_thumb.png",
+      "full": "婷-冷色系闷.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-冷雨季",
+      "file": "婷-冷色系单.bds",
+      "thumb": "婷-冷色系单.bds_py_26_light_thumb.png",
+      "full": "婷-冷色系单.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-我的日记",
+      "file": "婷-我的日记单.bds",
+      "thumb": "婷-我的日记单.bds_py_26_light_thumb.png",
+      "full": "婷-我的日记单.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-我的日记",
+      "file": "婷-我的日记脆.bds",
+      "thumb": "婷-我的日记脆.bds_py_26_light_thumb.png",
+      "full": "婷-我的日记脆.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-我的日记",
+      "file": "婷-我的日记闷脆.bds",
+      "thumb": "婷-我的日记闷脆.bds_py_26_light_thumb.png",
+      "full": "婷-我的日记闷脆.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-我的日记",
+      "file": "婷-我的日记闷.bds",
+      "thumb": "婷-我的日记闷.bds_py_26_light_thumb.png",
+      "full": "婷-我的日记闷.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-约会日常",
+      "file": "婷-约会日常单.bds",
+      "thumb": "婷-约会日常单.bds_py_26_light_thumb.png",
+      "full": "婷-约会日常单.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-约会日常",
+      "file": "婷-约会日常闷2.bds",
+      "thumb": "婷-约会日常闷2.bds_py_26_light_thumb.png",
+      "full": "婷-约会日常闷2.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-约会日常",
+      "file": "婷-约会日常脆.bds",
+      "thumb": "婷-约会日常脆.bds_py_26_light_thumb.png",
+      "full": "婷-约会日常脆.bds_py_26_light.png"
+    },
+    {
+      "name": "婷-约会日常",
+      "file": "婷-约会日常闷.bds",
+      "thumb": "婷-约会日常闷.bds_py_26_light_thumb.png",
+      "full": "婷-约会日常闷.bds_py_26_light.png"
+    }
+  ]
+}

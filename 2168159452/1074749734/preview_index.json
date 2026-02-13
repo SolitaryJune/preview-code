@@ -1,0 +1,277 @@
+{
+  "qq_number": "2168159452",
+  "group_number": "1074749734",
+  "updated_at": "2026-02-13T23:42:10.885565",
+  "skins": [
+    {
+      "name": "江野の香蕉键盘",
+      "file": "江野の香蕉键盘闷闷音效无漂浮.bdi",
+      "thumb": "江野の香蕉键盘闷闷音效无漂浮.bdi_py_26_light_thumb.png",
+      "full": "江野の香蕉键盘闷闷音效无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "江野の香蕉键盘",
+      "file": "江野の香蕉键盘闷闷音效.bdi",
+      "thumb": "江野の香蕉键盘闷闷音效.bdi_py_26_light_thumb.png",
+      "full": "江野の香蕉键盘闷闷音效.bdi_py_26_light.png"
+    },
+    {
+      "name": "江野の香蕉键盘",
+      "file": "江野の香蕉键盘脆脆音效.bdi",
+      "thumb": "江野の香蕉键盘脆脆音效.bdi_py_26_light_thumb.png",
+      "full": "江野の香蕉键盘脆脆音效.bdi_py_26_light.png"
+    },
+    {
+      "name": "江野の香蕉键盘",
+      "file": "江野の香蕉键盘脆脆音效无漂浮.bdi",
+      "thumb": "江野の香蕉键盘脆脆音效无漂浮.bdi_py_26_light_thumb.png",
+      "full": "江野の香蕉键盘脆脆音效无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "知还的粉粉棉花糖",
+      "file": "知还的粉粉棉花糖脆漂.bdi",
+      "thumb": "知还的粉粉棉花糖脆漂.bdi_py_26_light_thumb.png",
+      "full": "知还的粉粉棉花糖脆漂.bdi_py_26_light.png"
+    },
+    {
+      "name": "知还的粉粉棉花糖",
+      "file": "知还的粉粉棉花糖脆无.bdi",
+      "thumb": "知还的粉粉棉花糖脆无.bdi_py_26_light_thumb.png",
+      "full": "知还的粉粉棉花糖脆无.bdi_py_26_light.png"
+    },
+    {
+      "name": "知还的粉粉棉花糖",
+      "file": "知还的粉粉棉花糖闷漂.bdi",
+      "thumb": "知还的粉粉棉花糖闷漂.bdi_py_26_light_thumb.png",
+      "full": "知还的粉粉棉花糖闷漂.bdi_py_26_light.png"
+    },
+    {
+      "name": "知还的奶油面包",
+      "file": "知还的奶油面包脆漂.bdi",
+      "thumb": "知还的奶油面包脆漂.bdi_py_26_light_thumb.png",
+      "full": "知还的奶油面包脆漂.bdi_py_26_light.png"
+    },
+    {
+      "name": "知还的奶油面包",
+      "file": "知还的奶油面包脆无.bdi",
+      "thumb": "知还的奶油面包脆无.bdi_py_26_light_thumb.png",
+      "full": "知还的奶油面包脆无.bdi_py_26_light.png"
+    },
+    {
+      "name": "知还的奶油面包",
+      "file": "知还的奶油面包闷无.bdi",
+      "thumb": "知还的奶油面包闷无.bdi_py_26_light_thumb.png",
+      "full": "知还的奶油面包闷无.bdi_py_26_light.png"
+    },
+    {
+      "name": "江野の大白菜脆脆",
+      "file": "江野の大白菜脆脆有漂浮.bdi",
+      "thumb": "江野の大白菜脆脆有漂浮.bdi_py_26_light_thumb.png",
+      "full": "江野の大白菜脆脆有漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "江野の大白菜脆脆",
+      "file": "江野の大白菜脆脆无漂浮.bdi",
+      "thumb": "江野の大白菜脆脆无漂浮.bdi_py_26_light_thumb.png",
+      "full": "江野の大白菜脆脆无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "江野の大白菜脆脆",
+      "file": "江野の大白菜闷闷无漂浮.bdi",
+      "thumb": "江野の大白菜闷闷无漂浮.bdi_py_26_light_thumb.png",
+      "full": "江野の大白菜闷闷无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "江野の大白菜脆脆",
+      "file": "江野の大白菜闷闷有漂浮.bdi",
+      "thumb": "江野の大白菜闷闷有漂浮.bdi_py_26_light_thumb.png",
+      "full": "江野の大白菜闷闷有漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "知还的草莓牛奶冰",
+      "file": "知还的草莓牛奶冰脆漂.bdi",
+      "thumb": "知还的草莓牛奶冰脆漂.bdi_py_26_light_thumb.png",
+      "full": "知还的草莓牛奶冰脆漂.bdi_py_26_light.png"
+    },
+    {
+      "name": "知还的草莓牛奶冰",
+      "file": "知还的草莓牛奶冰脆无.bdi",
+      "thumb": "知还的草莓牛奶冰脆无.bdi_py_26_light_thumb.png",
+      "full": "知还的草莓牛奶冰脆无.bdi_py_26_light.png"
+    },
+    {
+      "name": "知还的草莓牛奶冰",
+      "file": "知还的草莓牛奶冰闷漂.bdi",
+      "thumb": "知还的草莓牛奶冰闷漂.bdi_py_26_light_thumb.png",
+      "full": "知还的草莓牛奶冰闷漂.bdi_py_26_light.png"
+    },
+    {
+      "name": "知还的草莓牛奶冰",
+      "file": "知还的草莓牛奶冰闷无.bdi",
+      "thumb": "知还的草莓牛奶冰闷无.bdi_py_26_light_thumb.png",
+      "full": "知还的草莓牛奶冰闷无.bdi_py_26_light.png"
+    },
+    {
+      "name": "知还的薄巧时间",
+      "file": "知还的薄巧时间脆无.bdi",
+      "thumb": "知还的薄巧时间脆无.bdi_py_26_light_thumb.png",
+      "full": "知还的薄巧时间脆无.bdi_py_26_light.png"
+    },
+    {
+      "name": "知还的薄巧时间",
+      "file": "知还的薄巧时间脆漂.bdi",
+      "thumb": "知还的薄巧时间脆漂.bdi_py_26_light_thumb.png",
+      "full": "知还的薄巧时间脆漂.bdi_py_26_light.png"
+    },
+    {
+      "name": "知还的薄巧时间",
+      "file": "知还的薄巧时间闷漂.bdi",
+      "thumb": "知还的薄巧时间闷漂.bdi_py_26_light_thumb.png",
+      "full": "知还的薄巧时间闷漂.bdi_py_26_light.png"
+    },
+    {
+      "name": "知还的薄巧时间",
+      "file": "知还的薄巧时间闷无.bdi",
+      "thumb": "知还的薄巧时间闷无.bdi_py_26_light_thumb.png",
+      "full": "知还的薄巧时间闷无.bdi_py_26_light.png"
+    },
+    {
+      "name": "江野の香蕉键盘",
+      "file": "江野の香蕉键盘脆脆音效.bds",
+      "thumb": "江野の香蕉键盘脆脆音效.bds_py_26_light_thumb.png",
+      "full": "江野の香蕉键盘脆脆音效.bds_py_26_light.png"
+    },
+    {
+      "name": "江野の香蕉键盘",
+      "file": "江野の香蕉键盘脆脆音效无漂浮.bds",
+      "thumb": "江野の香蕉键盘脆脆音效无漂浮.bds_py_26_light_thumb.png",
+      "full": "江野の香蕉键盘脆脆音效无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "江野の香蕉键盘",
+      "file": "江野の香蕉键盘闷闷音效无漂浮.bds",
+      "thumb": "江野の香蕉键盘闷闷音效无漂浮.bds_py_26_light_thumb.png",
+      "full": "江野の香蕉键盘闷闷音效无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "江野の香蕉键盘",
+      "file": "江野の香蕉键盘闷闷音效.bds",
+      "thumb": "江野の香蕉键盘闷闷音效.bds_py_26_light_thumb.png",
+      "full": "江野の香蕉键盘闷闷音效.bds_py_26_light.png"
+    },
+    {
+      "name": "知还的粉粉棉花糖",
+      "file": "知还的粉粉棉花糖闷漂.bds",
+      "thumb": "知还的粉粉棉花糖闷漂.bds_py_26_light_thumb.png",
+      "full": "知还的粉粉棉花糖闷漂.bds_py_26_light.png"
+    },
+    {
+      "name": "知还的粉粉棉花糖",
+      "file": "知还的粉粉棉花糖脆漂.bds",
+      "thumb": "知还的粉粉棉花糖脆漂.bds_py_26_light_thumb.png",
+      "full": "知还的粉粉棉花糖脆漂.bds_py_26_light.png"
+    },
+    {
+      "name": "知还的粉粉棉花糖",
+      "file": "知还的粉粉棉花糖脆无.bds",
+      "thumb": "知还的粉粉棉花糖脆无.bds_py_26_light_thumb.png",
+      "full": "知还的粉粉棉花糖脆无.bds_py_26_light.png"
+    },
+    {
+      "name": "知还的奶油面包",
+      "file": "知还的奶油面包脆漂.bds",
+      "thumb": "知还的奶油面包脆漂.bds_py_26_light_thumb.png",
+      "full": "知还的奶油面包脆漂.bds_py_26_light.png"
+    },
+    {
+      "name": "知还的奶油面包",
+      "file": "知还的奶油面包闷无.bds",
+      "thumb": "知还的奶油面包闷无.bds_py_26_light_thumb.png",
+      "full": "知还的奶油面包闷无.bds_py_26_light.png"
+    },
+    {
+      "name": "知还的奶油面包",
+      "file": "知还的奶油面包脆无.bds",
+      "thumb": "知还的奶油面包脆无.bds_py_26_light_thumb.png",
+      "full": "知还的奶油面包脆无.bds_py_26_light.png"
+    },
+    {
+      "name": "知还的奶油面包",
+      "file": "知还的奶油面包闷漂.bds",
+      "thumb": "知还的奶油面包闷漂.bds_py_26_light_thumb.png",
+      "full": "知还的奶油面包闷漂.bds_py_26_light.png"
+    },
+    {
+      "name": "江野の大白菜脆脆",
+      "file": "江野の大白菜脆脆有漂浮.bds",
+      "thumb": "江野の大白菜脆脆有漂浮.bds_py_26_light_thumb.png",
+      "full": "江野の大白菜脆脆有漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "江野の大白菜脆脆",
+      "file": "江野の大白菜脆脆无漂浮.bds",
+      "thumb": "江野の大白菜脆脆无漂浮.bds_py_26_light_thumb.png",
+      "full": "江野の大白菜脆脆无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "江野の大白菜脆脆",
+      "file": "江野の大白菜闷闷无漂浮.bds",
+      "thumb": "江野の大白菜闷闷无漂浮.bds_py_26_light_thumb.png",
+      "full": "江野の大白菜闷闷无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "江野の大白菜脆脆",
+      "file": "江野の大白菜闷闷有漂浮.bds",
+      "thumb": "江野の大白菜闷闷有漂浮.bds_py_26_light_thumb.png",
+      "full": "江野の大白菜闷闷有漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "知还的草莓牛奶冰",
+      "file": "知还的草莓牛奶冰脆漂.bds",
+      "thumb": "知还的草莓牛奶冰脆漂.bds_py_26_light_thumb.png",
+      "full": "知还的草莓牛奶冰脆漂.bds_py_26_light.png"
+    },
+    {
+      "name": "知还的草莓牛奶冰",
+      "file": "知还的草莓牛奶冰脆无.bds",
+      "thumb": "知还的草莓牛奶冰脆无.bds_py_26_light_thumb.png",
+      "full": "知还的草莓牛奶冰脆无.bds_py_26_light.png"
+    },
+    {
+      "name": "知还的草莓牛奶冰",
+      "file": "知还的草莓牛奶冰闷无.bds",
+      "thumb": "知还的草莓牛奶冰闷无.bds_py_26_light_thumb.png",
+      "full": "知还的草莓牛奶冰闷无.bds_py_26_light.png"
+    },
+    {
+      "name": "知还的草莓牛奶冰",
+      "file": "知还的草莓牛奶冰闷漂.bds",
+      "thumb": "知还的草莓牛奶冰闷漂.bds_py_26_light_thumb.png",
+      "full": "知还的草莓牛奶冰闷漂.bds_py_26_light.png"
+    },
+    {
+      "name": "知还的薄巧时间",
+      "file": "知还的薄巧时间闷无.bds",
+      "thumb": "知还的薄巧时间闷无.bds_py_26_light_thumb.png",
+      "full": "知还的薄巧时间闷无.bds_py_26_light.png"
+    },
+    {
+      "name": "知还的薄巧时间",
+      "file": "知还的薄巧时间闷漂.bds",
+      "thumb": "知还的薄巧时间闷漂.bds_py_26_light_thumb.png",
+      "full": "知还的薄巧时间闷漂.bds_py_26_light.png"
+    },
+    {
+      "name": "知还的薄巧时间",
+      "file": "知还的薄巧时间脆无.bds",
+      "thumb": "知还的薄巧时间脆无.bds_py_26_light_thumb.png",
+      "full": "知还的薄巧时间脆无.bds_py_26_light.png"
+    },
+    {
+      "name": "知还的薄巧时间",
+      "file": "知还的薄巧时间脆漂.bds",
+      "thumb": "知还的薄巧时间脆漂.bds_py_26_light_thumb.png",
+      "full": "知还的薄巧时间脆漂.bds_py_26_light.png"
+    }
+  ]
+}
