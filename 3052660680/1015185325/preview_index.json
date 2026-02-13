@@ -1,0 +1,67 @@
+{
+  "qq_number": "3052660680",
+  "group_number": "1015185325",
+  "updated_at": "2026-02-13T23:42:59.077518",
+  "skins": [
+    {
+      "name": "期の底包",
+      "file": "白翼祷告.bdi",
+      "thumb": "白翼祷告.bdi_py_26_light_thumb.png",
+      "full": "白翼祷告.bdi_py_26_light.png"
+    },
+    {
+      "name": "旧梦生花",
+      "file": "旧梦生花.bdi",
+      "thumb": "旧梦生花.bdi_py_26_light_thumb.png",
+      "full": "旧梦生花.bdi_py_26_light.png"
+    },
+    {
+      "name": "新年快乐",
+      "file": "新年快乐.bdi",
+      "thumb": "新年快乐.bdi_py_26_light_thumb.png",
+      "full": "新年快乐.bdi_py_26_light.png"
+    },
+    {
+      "name": "純白の誓い",
+      "file": "純白の誓い雷霆版.bdi",
+      "thumb": "純白の誓い雷霆版.bdi_py_26_light_thumb.png",
+      "full": "純白の誓い雷霆版.bdi_py_26_light.png"
+    },
+    {
+      "name": "純白の誓い",
+      "file": "純白の誓い.bdi",
+      "thumb": "純白の誓い.bdi_py_26_light_thumb.png",
+      "full": "純白の誓い.bdi_py_26_light.png"
+    },
+    {
+      "name": "白翼祷告",
+      "file": "白翼祷告.bds",
+      "thumb": "白翼祷告.bds_py_26_light_thumb.png",
+      "full": "白翼祷告.bds_py_26_light.png"
+    },
+    {
+      "name": "旧梦生花",
+      "file": "旧梦生花.bds",
+      "thumb": "旧梦生花.bds_py_26_light_thumb.png",
+      "full": "旧梦生花.bds_py_26_light.png"
+    },
+    {
+      "name": "新年快乐",
+      "file": "新年快乐.bds",
+      "thumb": "新年快乐.bds_py_26_light_thumb.png",
+      "full": "新年快乐.bds_py_26_light.png"
+    },
+    {
+      "name": "純白の誓い",
+      "file": "純白の誓い雷霆版.bds",
+      "thumb": "純白の誓い雷霆版.bds_py_26_light_thumb.png",
+      "full": "純白の誓い雷霆版.bds_py_26_light.png"
+    },
+    {
+      "name": "純白の誓い",
+      "file": "純白の誓い.bds",
+      "thumb": "純白の誓い.bds_py_26_light_thumb.png",
+      "full": "純白の誓い.bds_py_26_light.png"
+    }
+  ]
+}
