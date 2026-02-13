@@ -1,0 +1,43 @@
+{
+  "qq_number": "1276114154",
+  "group_number": "758219221",
+  "updated_at": "2026-02-13T23:42:51.846886",
+  "skins": [
+    {
+      "name": "诗涵の临舟雪 ①",
+      "file": "诗涵の临舟雪①.bdi",
+      "thumb": "诗涵の临舟雪①.bdi_py_26_light_thumb.png",
+      "full": "诗涵の临舟雪①.bdi_py_26_light.png"
+    },
+    {
+      "name": "诗涵の临舟雪 ②",
+      "file": "诗涵の临舟雪②.bdi",
+      "thumb": "诗涵の临舟雪②.bdi_py_26_light_thumb.png",
+      "full": "诗涵の临舟雪②.bdi_py_26_light.png"
+    },
+    {
+      "name": "诗涵の临舟雪 水滴音",
+      "file": "诗涵の临舟雪水滴音.bdi",
+      "thumb": "诗涵の临舟雪水滴音.bdi_py_26_light_thumb.png",
+      "full": "诗涵の临舟雪水滴音.bdi_py_26_light.png"
+    },
+    {
+      "name": "诗涵の临舟雪 ①",
+      "file": "诗涵の临舟雪①.bds",
+      "thumb": "诗涵の临舟雪①.bds_py_26_light_thumb.png",
+      "full": "诗涵の临舟雪①.bds_py_26_light.png"
+    },
+    {
+      "name": "诗涵の临舟雪 ②",
+      "file": "诗涵の临舟雪②.bds",
+      "thumb": "诗涵の临舟雪②.bds_py_26_light_thumb.png",
+      "full": "诗涵の临舟雪②.bds_py_26_light.png"
+    },
+    {
+      "name": "诗涵の临舟雪 水滴音",
+      "file": "诗涵の临舟雪水滴音.bds",
+      "thumb": "诗涵の临舟雪水滴音.bds_py_26_light_thumb.png",
+      "full": "诗涵の临舟雪水滴音.bds_py_26_light.png"
+    }
+  ]
+}

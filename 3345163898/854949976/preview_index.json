@@ -1,0 +1,55 @@
+{
+  "qq_number": "3345163898",
+  "group_number": "854949976",
+  "updated_at": "2026-02-13T23:42:51.949354",
+  "skins": [
+    {
+      "name": "椰の喵咪喵",
+      "file": "椰の喵咪喵.bdi",
+      "thumb": "椰の喵咪喵.bdi_py_26_light_thumb.png",
+      "full": "椰の喵咪喵.bdi_py_26_light.png"
+    },
+    {
+      "name": "椰の直购款01",
+      "file": "椰の直购款01.bdi",
+      "thumb": "椰の直购款01.bdi_py_26_default_thumb.png",
+      "full": "椰の直购款01.bdi_py_26_default.png"
+    },
+    {
+      "name": "简*小胖",
+      "file": "椰の简小胖.bdi",
+      "thumb": "椰の简小胖.bdi_py_26_light_thumb.png",
+      "full": "椰の简小胖.bdi_py_26_light.png"
+    },
+    {
+      "name": "椰の永辉008",
+      "file": "椰の永辉008.bdi",
+      "thumb": "椰の永辉008.bdi_py_26_default_thumb.png",
+      "full": "椰の永辉008.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰の喵咪喵",
+      "file": "椰の喵咪喵.bds",
+      "thumb": "椰の喵咪喵.bds_py_26_light_thumb.png",
+      "full": "椰の喵咪喵.bds_py_26_light.png"
+    },
+    {
+      "name": "椰の直购款01",
+      "file": "椰の直购款01.bds",
+      "thumb": "椰の直购款01.bds_py_26_default_thumb.png",
+      "full": "椰の直购款01.bds_py_26_default.png"
+    },
+    {
+      "name": "简*小胖",
+      "file": "椰の简小胖.bds",
+      "thumb": "椰の简小胖.bds_py_26_light_thumb.png",
+      "full": "椰の简小胖.bds_py_26_light.png"
+    },
+    {
+      "name": "椰の永辉008",
+      "file": "椰の永辉008.bds",
+      "thumb": "椰の永辉008.bds_py_26_default_thumb.png",
+      "full": "椰の永辉008.bds_py_26_default.png"
+    }
+  ]
+}
