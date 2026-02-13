@@ -1,0 +1,25 @@
+{
+  "qq_number": "2947369327",
+  "group_number": "1018912618",
+  "updated_at": "2026-02-13T23:41:44.132911",
+  "skins": [
+    {
+      "name": "Narrsound-01",
+      "file": "Narrsound-01融合底.bdi",
+      "thumb": "Narrsound-01融合底.bdi_py_26_light_thumb.png",
+      "full": "Narrsound-01融合底.bdi_py_26_light.png"
+    },
+    {
+      "name": "Narrsound-01",
+      "file": "Narrsound-01.bdi",
+      "thumb": "Narrsound-01.bdi_py_26_light_thumb.png",
+      "full": "Narrsound-01.bdi_py_26_light.png"
+    },
+    {
+      "name": "Narrsound-01",
+      "file": "Narrsound-01.bds",
+      "thumb": "Narrsound-01.bds_py_26_light_thumb.png",
+      "full": "Narrsound-01.bds_py_26_light.png"
+    }
+  ]
+}

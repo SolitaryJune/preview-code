@@ -1,0 +1,799 @@
+{
+  "qq_number": "2955758615",
+  "group_number": "916461807",
+  "updated_at": "2026-02-13T23:41:44.743121",
+  "skins": [
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Susuの我成为天使了哦.bdi",
+      "thumb": "Susuの我成为天使了哦.bdi_py_26_light_thumb.png",
+      "full": "Susuの我成为天使了哦.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Susuの我成为天使了哦脆.bdi",
+      "thumb": "Susuの我成为天使了哦脆.bdi_py_26_light_thumb.png",
+      "full": "Susuの我成为天使了哦脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "礼颂のhappy suger life",
+      "file": "礼颂happysugerlife.bdi",
+      "thumb": "礼颂happysugerlife.bdi_py_26_default_thumb.png",
+      "full": "礼颂happysugerlife.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂№东京猎杀企划",
+      "file": "礼颂东京猎杀企划.bdi",
+      "thumb": "礼颂东京猎杀企划.bdi_py_26_default_thumb.png",
+      "full": "礼颂东京猎杀企划.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂✉少女在第七日死",
+      "file": "礼颂少女在第七日死.bdi",
+      "thumb": "礼颂少女在第七日死.bdi_py_26_default_thumb.png",
+      "full": "礼颂少女在第七日死.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂✞天国氧气室",
+      "file": "礼颂天国氧气室.bdi",
+      "thumb": "礼颂天国氧气室.bdi_py_26_light_thumb.png",
+      "full": "礼颂天国氧气室.bdi_py_26_light.png"
+    },
+    {
+      "name": "礼颂の宅怎么啦!",
+      "file": "礼颂の宅怎么啦.bdi",
+      "thumb": "礼颂の宅怎么啦.bdi_py_26_default_thumb.png",
+      "full": "礼颂の宅怎么啦.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂♡日奈森亚梦",
+      "file": "礼颂de日奈森亚梦.bdi",
+      "thumb": "礼颂de日奈森亚梦.bdi_py_26_default_thumb.png",
+      "full": "礼颂de日奈森亚梦.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂de轻松是一种态度",
+      "file": "礼颂de轻松是一种态度.bdi",
+      "thumb": "礼颂de轻松是一种态度.bdi_py_26_default_thumb.png",
+      "full": "礼颂de轻松是一种态度.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂®宵崎奏",
+      "file": "礼颂宵崎奏.bdi",
+      "thumb": "礼颂宵崎奏.bdi_py_26_default_thumb.png",
+      "full": "礼颂宵崎奏.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂♯合成猫耳",
+      "file": "礼颂合成猫耳.bdi",
+      "thumb": "礼颂合成猫耳.bdi_py_26_default_thumb.png",
+      "full": "礼颂合成猫耳.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂✞天使报刊",
+      "file": "礼颂天使报刊.bdi",
+      "thumb": "礼颂天使报刊.bdi_py_26_default_thumb.png",
+      "full": "礼颂天使报刊.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂の康纳",
+      "file": "礼颂の康纳.bdi",
+      "thumb": "礼颂の康纳.bdi_py_26_default_thumb.png",
+      "full": "礼颂の康纳.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂の御园莓华",
+      "file": "礼颂の御园莓华.bdi",
+      "thumb": "礼颂の御园莓华.bdi_py_26_default_thumb.png",
+      "full": "礼颂の御园莓华.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂の索尼子",
+      "file": "礼颂の索尼子.bdi",
+      "thumb": "礼颂の索尼子.bdi_py_26_default_thumb.png",
+      "full": "礼颂の索尼子.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂ʚ白日梦播报",
+      "file": "礼颂ʚ白日梦播报.bdi",
+      "thumb": "礼颂ʚ白日梦播报.bdi_py_26_default_thumb.png",
+      "full": "礼颂ʚ白日梦播报.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂ʚ白日梦播报融合",
+      "file": "礼颂ʚ白日梦播报融合.bdi",
+      "thumb": "礼颂ʚ白日梦播报融合.bdi_py_26_default_thumb.png",
+      "full": "礼颂ʚ白日梦播报融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂†罪木蜜柑",
+      "file": "礼颂罪木蜜柑.bdi",
+      "thumb": "礼颂罪木蜜柑.bdi_py_26_default_thumb.png",
+      "full": "礼颂罪木蜜柑.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂▪宣告爱意死期",
+      "file": "礼颂宣告爱意死期.bdi",
+      "thumb": "礼颂宣告爱意死期.bdi_py_26_default_thumb.png",
+      "full": "礼颂宣告爱意死期.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂▪宣告爱意死期彩底",
+      "file": "礼颂宣告爱意死期彩底.bdi",
+      "thumb": "礼颂宣告爱意死期彩底.bdi_py_26_default_thumb.png",
+      "full": "礼颂宣告爱意死期彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂★凤笑梦",
+      "file": "礼颂凤笑梦.bdi",
+      "thumb": "礼颂凤笑梦.bdi_py_26_default_thumb.png",
+      "full": "礼颂凤笑梦.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂★凤笑梦",
+      "file": "礼颂凤笑梦彩底.bdi",
+      "thumb": "礼颂凤笑梦彩底.bdi_py_26_default_thumb.png",
+      "full": "礼颂凤笑梦彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂☆天马咲希",
+      "file": "礼颂天马咲希.bdi",
+      "thumb": "礼颂天马咲希.bdi_py_26_default_thumb.png",
+      "full": "礼颂天马咲希.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂☆天马咲希",
+      "file": "礼颂天马咲希彩底.bdi",
+      "thumb": "礼颂天马咲希彩底.bdi_py_26_default_thumb.png",
+      "full": "礼颂天马咲希彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂の小臆许愿的高档货",
+      "file": "礼颂の小臆许愿的高档货.bdi",
+      "thumb": "礼颂の小臆许愿的高档货.bdi_py_26_default_thumb.png",
+      "full": "礼颂の小臆许愿的高档货.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂ʚ百濑美月",
+      "file": "礼颂ʚ百濑美月.bdi",
+      "thumb": "礼颂ʚ百濑美月.bdi_py_26_default_thumb.png",
+      "full": "礼颂ʚ百濑美月.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂ʚ百濑美月彩底",
+      "file": "礼颂ʚ百濑美月彩底.bdi",
+      "thumb": "礼颂ʚ百濑美月彩底.bdi_py_26_default_thumb.png",
+      "full": "礼颂ʚ百濑美月彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂↻天使养成系统",
+      "file": "礼颂天使养成系统.bdi",
+      "thumb": "礼颂天使养成系统.bdi_py_26_default_thumb.png",
+      "full": "礼颂天使养成系统.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂↻天使养成系统彩底",
+      "file": "礼颂天使养成系统彩底.bdi",
+      "thumb": "礼颂天使养成系统彩底.bdi_py_26_default_thumb.png",
+      "full": "礼颂天使养成系统彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂╳最原终一",
+      "file": "礼颂最原终一.bdi",
+      "thumb": "礼颂最原终一.bdi_py_26_default_thumb.png",
+      "full": "礼颂最原终一.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂╳最原终一彩底",
+      "file": "礼颂最原终一彩底.bdi",
+      "thumb": "礼颂最原终一彩底.bdi_py_26_default_thumb.png",
+      "full": "礼颂最原终一彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂☆边里唯世",
+      "file": "礼颂唯世我们喜欢你.bdi",
+      "thumb": "礼颂唯世我们喜欢你.bdi_py_26_default_thumb.png",
+      "full": "礼颂唯世我们喜欢你.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂☆边里唯世彩底",
+      "file": "礼颂唯世我们喜欢你彩底.bdi",
+      "thumb": "礼颂唯世我们喜欢你彩底.bdi_py_26_default_thumb.png",
+      "full": "礼颂唯世我们喜欢你彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂の恋爱番放送",
+      "file": "礼颂の恋爱番放送.bdi",
+      "thumb": "礼颂の恋爱番放送.bdi_py_26_default_thumb.png",
+      "full": "礼颂の恋爱番放送.bdi_py_26_default.png"
+    },
+    {
+      "name": "粥天子の赞助",
+      "file": "粥天子の赞助融.bdi",
+      "thumb": "粥天子の赞助融.bdi_py_26_default_thumb.png",
+      "full": "粥天子の赞助融.bdi_py_26_default.png"
+    },
+    {
+      "name": "珍了个珠",
+      "file": "珍了个珠.bdi",
+      "thumb": "珍了个珠.bdi_py_26_default_thumb.png",
+      "full": "珍了个珠.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂の可爱研究学",
+      "file": "礼颂の可爱研究学.bdi",
+      "thumb": "礼颂の可爱研究学.bdi_py_26_default_thumb.png",
+      "full": "礼颂の可爱研究学.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂の春日野穹",
+      "file": "礼颂の春日野穹.bdi",
+      "thumb": "礼颂の春日野穹.bdi_py_26_default_thumb.png",
+      "full": "礼颂の春日野穹.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂の春日野穹彩底",
+      "file": "礼颂の春日野穹彩底.bdi",
+      "thumb": "礼颂の春日野穹彩底.bdi_py_26_default_thumb.png",
+      "full": "礼颂の春日野穹彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂の樱井桃香",
+      "file": "礼颂の樱井桃香.bdi",
+      "thumb": "礼颂の樱井桃香.bdi_py_26_default_thumb.png",
+      "full": "礼颂の樱井桃香.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂の樱井桃香彩底",
+      "file": "礼颂の樱井桃香彩底.bdi",
+      "thumb": "礼颂の樱井桃香彩底.bdi_py_26_default_thumb.png",
+      "full": "礼颂の樱井桃香彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂の水色萌感",
+      "file": "礼颂の水色萌感.bdi",
+      "thumb": "礼颂の水色萌感.bdi_py_26_default_thumb.png",
+      "full": "礼颂の水色萌感.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂の水色萌感彩底",
+      "file": "礼颂の水色萌感彩底.bdi",
+      "thumb": "礼颂の水色萌感彩底.bdi_py_26_default_thumb.png",
+      "full": "礼颂の水色萌感彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂コ尸体派对",
+      "file": "礼颂コ尸体派对.bdi",
+      "thumb": "礼颂コ尸体派对.bdi_py_26_default_thumb.png",
+      "full": "礼颂コ尸体派对.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂コ尸体派对彩底",
+      "file": "礼颂コ尸体派对彩底.bdi",
+      "thumb": "礼颂コ尸体派对彩底.bdi_py_26_default_thumb.png",
+      "full": "礼颂コ尸体派对彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂_vertin",
+      "file": "礼颂_vertin.bdi",
+      "thumb": "礼颂_vertin.bdi_py_26_default_thumb.png",
+      "full": "礼颂_vertin.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂_vertin彩底",
+      "file": "礼颂_vertin彩底.bdi",
+      "thumb": "礼颂_vertin彩底.bdi_py_26_default_thumb.png",
+      "full": "礼颂_vertin彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂の将萌进行到底!",
+      "file": "礼颂の将萌进行到底.bdi",
+      "thumb": "礼颂の将萌进行到底.bdi_py_26_default_thumb.png",
+      "full": "礼颂の将萌进行到底.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂の将萌进行到底!彩底",
+      "file": "礼颂の将萌进行到底彩底.bdi",
+      "thumb": "礼颂の将萌进行到底彩底.bdi_py_26_default_thumb.png",
+      "full": "礼颂の将萌进行到底彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂／只要saya就足够了彩底",
+      "file": "礼颂只要saya就足够了彩.bdi",
+      "thumb": "礼颂只要saya就足够了彩.bdi_py_26_default_thumb.png",
+      "full": "礼颂只要saya就足够了彩.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂／只要saya就足够了",
+      "file": "礼颂只要saya就足够了.bdi",
+      "thumb": "礼颂只要saya就足够了.bdi_py_26_default_thumb.png",
+      "full": "礼颂只要saya就足够了.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂｜眼泪药剂含量低",
+      "file": "礼颂眼泪药剂含量低.bdi",
+      "thumb": "礼颂眼泪药剂含量低.bdi_py_26_default_thumb.png",
+      "full": "礼颂眼泪药剂含量低.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂｜眼泪药剂含量低彩底",
+      "file": "礼颂眼泪药剂含量低彩底.bdi",
+      "thumb": "礼颂眼泪药剂含量低彩底.bdi_py_26_default_thumb.png",
+      "full": "礼颂眼泪药剂含量低彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "Mary｜Little Glow",
+      "file": "MaryLittleGlow彩.bdi",
+      "thumb": "MaryLittleGlow彩.bdi_py_26_light_thumb.png",
+      "full": "MaryLittleGlow彩.bdi_py_26_light.png"
+    },
+    {
+      "name": "Mary｜Little Glow",
+      "file": "MaryLittleGlow融.bdi",
+      "thumb": "MaryLittleGlow融.bdi_py_26_light_thumb.png",
+      "full": "MaryLittleGlow融.bdi_py_26_light.png"
+    },
+    {
+      "name": "礼颂✃到达happy end吧彩底",
+      "file": "礼颂到达happyend吧彩.bdi",
+      "thumb": "礼颂到达happyend吧彩.bdi_py_26_default_thumb.png",
+      "full": "礼颂到达happyend吧彩.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂✃到达happyend吧音效2",
+      "file": "礼颂到达happyend吧音效2.bdi",
+      "thumb": "礼颂到达happyend吧音效2.bdi_py_26_default_thumb.png",
+      "full": "礼颂到达happyend吧音效2.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂✃到达happyend吧音效2彩",
+      "file": "礼颂到达happyend吧音效2彩.bdi",
+      "thumb": "礼颂到达happyend吧音效2彩.bdi_py_26_default_thumb.png",
+      "full": "礼颂到达happyend吧音效2彩.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂✃到达happy end吧",
+      "file": "礼颂到达happyend吧.bdi",
+      "thumb": "礼颂到达happyend吧.bdi_py_26_default_thumb.png",
+      "full": "礼颂到达happyend吧.bdi_py_26_default.png"
+    },
+    {
+      "name": "♡桜恋の心配事日記♡",
+      "file": "桜恋の心配事日記.bdi",
+      "thumb": "桜恋の心配事日記.bdi_py_26_light_thumb.png",
+      "full": "桜恋の心配事日記.bdi_py_26_light.png"
+    },
+    {
+      "name": "巧克力「萌味番」",
+      "file": "巧克力萌味番.bdi",
+      "thumb": "巧克力萌味番.bdi_py_26_default_thumb.png",
+      "full": "巧克力萌味番.bdi_py_26_default.png"
+    },
+    {
+      "name": "巧克力「萌味番融合」",
+      "file": "巧克力萌味番融合.bdi",
+      "thumb": "巧克力萌味番融合.bdi_py_26_default_thumb.png",
+      "full": "巧克力萌味番融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "甜✩糖糖",
+      "file": "甜糖糖.bdi",
+      "thumb": "甜糖糖.bdi_py_26_light_thumb.png",
+      "full": "甜糖糖.bdi_py_26_light.png"
+    },
+    {
+      "name": "礼颂「超高校级の首脑」",
+      "file": "礼颂超高校级の首脑.bdi",
+      "thumb": "礼颂超高校级の首脑.bdi_py_26_default_thumb.png",
+      "full": "礼颂超高校级の首脑.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂「超高校级の首脑」彩",
+      "file": "礼颂超高校级の首脑彩.bdi",
+      "thumb": "礼颂超高校级の首脑彩.bdi_py_26_default_thumb.png",
+      "full": "礼颂超高校级の首脑彩.bdi_py_26_default.png"
+    },
+    {
+      "name": "礼颂ʚ草莓饼干泥",
+      "file": "礼颂ʚ草莓饼干泥.bdi",
+      "thumb": "礼颂ʚ草莓饼干泥.bdi_py_26_default_thumb.png",
+      "full": "礼颂ʚ草莓饼干泥.bdi_py_26_default.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Susuの我成为天使了哦闷.bdi",
+      "thumb": "Susuの我成为天使了哦闷.bdi_py_26_light_thumb.png",
+      "full": "Susuの我成为天使了哦闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Susuの我成为天使了哦.bds",
+      "thumb": "Susuの我成为天使了哦.bds_py_26_light_thumb.png",
+      "full": "Susuの我成为天使了哦.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Susuの我成为天使了哦脆.bds",
+      "thumb": "Susuの我成为天使了哦脆.bds_py_26_light_thumb.png",
+      "full": "Susuの我成为天使了哦脆.bds_py_26_light.png"
+    },
+    {
+      "name": "礼颂のhappy suger life",
+      "file": "礼颂happysugerlife.bds",
+      "thumb": "礼颂happysugerlife.bds_py_26_default_thumb.png",
+      "full": "礼颂happysugerlife.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂№东京猎杀企划",
+      "file": "礼颂东京猎杀企划.bds",
+      "thumb": "礼颂东京猎杀企划.bds_py_26_default_thumb.png",
+      "full": "礼颂东京猎杀企划.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂✉少女在第七日死",
+      "file": "礼颂少女在第七日死.bds",
+      "thumb": "礼颂少女在第七日死.bds_py_26_default_thumb.png",
+      "full": "礼颂少女在第七日死.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂✞天国氧气室",
+      "file": "礼颂天国氧气室.bds",
+      "thumb": "礼颂天国氧气室.bds_py_26_light_thumb.png",
+      "full": "礼颂天国氧气室.bds_py_26_light.png"
+    },
+    {
+      "name": "礼颂の宅怎么啦!",
+      "file": "礼颂の宅怎么啦.bds",
+      "thumb": "礼颂の宅怎么啦.bds_py_26_default_thumb.png",
+      "full": "礼颂の宅怎么啦.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂♡日奈森亚梦",
+      "file": "礼颂de日奈森亚梦.bds",
+      "thumb": "礼颂de日奈森亚梦.bds_py_26_default_thumb.png",
+      "full": "礼颂de日奈森亚梦.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂de轻松是一种态度",
+      "file": "礼颂de轻松是一种态度.bds",
+      "thumb": "礼颂de轻松是一种态度.bds_py_26_default_thumb.png",
+      "full": "礼颂de轻松是一种态度.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂®宵崎奏",
+      "file": "礼颂宵崎奏.bds",
+      "thumb": "礼颂宵崎奏.bds_py_26_default_thumb.png",
+      "full": "礼颂宵崎奏.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂♯合成猫耳",
+      "file": "礼颂合成猫耳.bds",
+      "thumb": "礼颂合成猫耳.bds_py_26_default_thumb.png",
+      "full": "礼颂合成猫耳.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂✞天使报刊",
+      "file": "礼颂天使报刊.bds",
+      "thumb": "礼颂天使报刊.bds_py_26_default_thumb.png",
+      "full": "礼颂天使报刊.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂の康纳",
+      "file": "礼颂の康纳.bds",
+      "thumb": "礼颂の康纳.bds_py_26_default_thumb.png",
+      "full": "礼颂の康纳.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂の御园莓华",
+      "file": "礼颂の御园莓华.bds",
+      "thumb": "礼颂の御园莓华.bds_py_26_default_thumb.png",
+      "full": "礼颂の御园莓华.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂の索尼子",
+      "file": "礼颂の索尼子.bds",
+      "thumb": "礼颂の索尼子.bds_py_26_default_thumb.png",
+      "full": "礼颂の索尼子.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂ʚ白日梦播报",
+      "file": "礼颂ʚ白日梦播报.bds",
+      "thumb": "礼颂ʚ白日梦播报.bds_py_26_default_thumb.png",
+      "full": "礼颂ʚ白日梦播报.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂†罪木蜜柑",
+      "file": "礼颂罪木蜜柑.bds",
+      "thumb": "礼颂罪木蜜柑.bds_py_26_default_thumb.png",
+      "full": "礼颂罪木蜜柑.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂▪宣告爱意死期",
+      "file": "礼颂宣告爱意死期.bds",
+      "thumb": "礼颂宣告爱意死期.bds_py_26_default_thumb.png",
+      "full": "礼颂宣告爱意死期.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂▪宣告爱意死期融合",
+      "file": "礼颂宣告爱意死期融合.bds",
+      "thumb": "礼颂宣告爱意死期融合.bds_py_26_default_thumb.png",
+      "full": "礼颂宣告爱意死期融合.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂★凤笑梦",
+      "file": "礼颂凤笑梦.bds",
+      "thumb": "礼颂凤笑梦.bds_py_26_default_thumb.png",
+      "full": "礼颂凤笑梦.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂☆天马咲希",
+      "file": "礼颂天马咲希.bds",
+      "thumb": "礼颂天马咲希.bds_py_26_default_thumb.png",
+      "full": "礼颂天马咲希.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂☆天马咲希",
+      "file": "礼颂天马咲希融合.bds",
+      "thumb": "礼颂天马咲希融合.bds_py_26_default_thumb.png",
+      "full": "礼颂天马咲希融合.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂の小臆许愿的高档货",
+      "file": "礼颂の小臆许愿的高档货.bds",
+      "thumb": "礼颂の小臆许愿的高档货.bds_py_26_default_thumb.png",
+      "full": "礼颂の小臆许愿的高档货.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂ʚ百濑美月",
+      "file": "礼颂ʚ百濑美月.bds",
+      "thumb": "礼颂ʚ百濑美月.bds_py_26_default_thumb.png",
+      "full": "礼颂ʚ百濑美月.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂ʚ百濑美月融合",
+      "file": "礼颂ʚ百濑美月融合.bds",
+      "thumb": "礼颂ʚ百濑美月融合.bds_py_26_default_thumb.png",
+      "full": "礼颂ʚ百濑美月融合.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂↻天使养成系统",
+      "file": "礼颂天使养成系统.bds",
+      "thumb": "礼颂天使养成系统.bds_py_26_default_thumb.png",
+      "full": "礼颂天使养成系统.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂↻天使养成系统融合",
+      "file": "礼颂天使养成系统融合.bds",
+      "thumb": "礼颂天使养成系统融合.bds_py_26_default_thumb.png",
+      "full": "礼颂天使养成系统融合.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂╳最原终一",
+      "file": "礼颂最原终一.bds",
+      "thumb": "礼颂最原终一.bds_py_26_default_thumb.png",
+      "full": "礼颂最原终一.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂╳最原终一融合",
+      "file": "礼颂最原终一融合.bds",
+      "thumb": "礼颂最原终一融合.bds_py_26_default_thumb.png",
+      "full": "礼颂最原终一融合.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂☆边里唯世",
+      "file": "礼颂唯世我们喜欢你.bds",
+      "thumb": "礼颂唯世我们喜欢你.bds_py_26_default_thumb.png",
+      "full": "礼颂唯世我们喜欢你.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂☆边里唯世融合",
+      "file": "礼颂唯世我们喜欢你融合.bds",
+      "thumb": "礼颂唯世我们喜欢你融合.bds_py_26_default_thumb.png",
+      "full": "礼颂唯世我们喜欢你融合.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂の恋爱番放送",
+      "file": "礼颂の恋爱番放送.bds",
+      "thumb": "礼颂の恋爱番放送.bds_py_26_default_thumb.png",
+      "full": "礼颂の恋爱番放送.bds_py_26_default.png"
+    },
+    {
+      "name": "粥天子の赞助",
+      "file": "粥天子の赞助.bds",
+      "thumb": "粥天子の赞助.bds_py_26_default_thumb.png",
+      "full": "粥天子の赞助.bds_py_26_default.png"
+    },
+    {
+      "name": "Author=",
+      "file": "珍了个珠.bds",
+      "thumb": "珍了个珠.bds_py_26_default_thumb.png",
+      "full": "珍了个珠.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂の可爱研究学",
+      "file": "礼颂の可爱研究学.bds",
+      "thumb": "礼颂の可爱研究学.bds_py_26_default_thumb.png",
+      "full": "礼颂の可爱研究学.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂の春日野穹",
+      "file": "礼颂の春日野穹.bds",
+      "thumb": "礼颂の春日野穹.bds_py_26_default_thumb.png",
+      "full": "礼颂の春日野穹.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂の春日野穹融合",
+      "file": "礼颂の春日野穹融合.bds",
+      "thumb": "礼颂の春日野穹融合.bds_py_26_default_thumb.png",
+      "full": "礼颂の春日野穹融合.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂の樱井桃香",
+      "file": "礼颂の樱井桃香.bds",
+      "thumb": "礼颂の樱井桃香.bds_py_26_default_thumb.png",
+      "full": "礼颂の樱井桃香.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂の樱井桃香融合",
+      "file": "礼颂の樱井桃香融合.bds",
+      "thumb": "礼颂の樱井桃香融合.bds_py_26_default_thumb.png",
+      "full": "礼颂の樱井桃香融合.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂の水色萌感",
+      "file": "礼颂の水色萌感.bds",
+      "thumb": "礼颂の水色萌感.bds_py_26_default_thumb.png",
+      "full": "礼颂の水色萌感.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂の水色萌感融合",
+      "file": "礼颂の水色萌感融合.bds",
+      "thumb": "礼颂の水色萌感融合.bds_py_26_default_thumb.png",
+      "full": "礼颂の水色萌感融合.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂コ尸体派对",
+      "file": "礼颂コ尸体派对.bds",
+      "thumb": "礼颂コ尸体派对.bds_py_26_default_thumb.png",
+      "full": "礼颂コ尸体派对.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂コ尸体派对融合",
+      "file": "礼颂コ尸体派对融合.bds",
+      "thumb": "礼颂コ尸体派对融合.bds_py_26_default_thumb.png",
+      "full": "礼颂コ尸体派对融合.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂_vertin",
+      "file": "礼颂_vertin.bds",
+      "thumb": "礼颂_vertin.bds_py_26_default_thumb.png",
+      "full": "礼颂_vertin.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂_vertin融合",
+      "file": "礼颂_vertin融合.bds",
+      "thumb": "礼颂_vertin融合.bds_py_26_default_thumb.png",
+      "full": "礼颂_vertin融合.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂の将萌进行到底!",
+      "file": "礼颂の将萌进行到底.bds",
+      "thumb": "礼颂の将萌进行到底.bds_py_26_default_thumb.png",
+      "full": "礼颂の将萌进行到底.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂の将萌进行到底!融合",
+      "file": "礼颂の将萌进行到底融合.bds",
+      "thumb": "礼颂の将萌进行到底融合.bds_py_26_default_thumb.png",
+      "full": "礼颂の将萌进行到底融合.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂／只要saya就足够了融合",
+      "file": "礼颂只要saya就足够了融.bds",
+      "thumb": "礼颂只要saya就足够了融.bds_py_26_default_thumb.png",
+      "full": "礼颂只要saya就足够了融.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂／只要saya就足够了",
+      "file": "礼颂只要saya就足够了.bds",
+      "thumb": "礼颂只要saya就足够了.bds_py_26_default_thumb.png",
+      "full": "礼颂只要saya就足够了.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂｜眼泪药剂含量低",
+      "file": "礼颂眼泪药剂含量低.bds",
+      "thumb": "礼颂眼泪药剂含量低.bds_py_26_default_thumb.png",
+      "full": "礼颂眼泪药剂含量低.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂｜眼泪药剂含量低融合",
+      "file": "礼颂眼泪药剂含量低融合.bds",
+      "thumb": "礼颂眼泪药剂含量低融合.bds_py_26_default_thumb.png",
+      "full": "礼颂眼泪药剂含量低融合.bds_py_26_default.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "MaryLittleGlow彩.bds",
+      "thumb": "MaryLittleGlow彩.bds_py_26_light_thumb.png",
+      "full": "MaryLittleGlow彩.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "MaryLittleGlow融.bds",
+      "thumb": "MaryLittleGlow融.bds_py_26_light_thumb.png",
+      "full": "MaryLittleGlow融.bds_py_26_light.png"
+    },
+    {
+      "name": "礼颂✃到达happy end吧融合",
+      "file": "礼颂到达happyend吧融.bds",
+      "thumb": "礼颂到达happyend吧融.bds_py_26_default_thumb.png",
+      "full": "礼颂到达happyend吧融.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂✃到达happyend吧音效2",
+      "file": "礼颂到达happyend吧音效2.bds",
+      "thumb": "礼颂到达happyend吧音效2.bds_py_26_default_thumb.png",
+      "full": "礼颂到达happyend吧音效2.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂✃到达happyend吧音效2融",
+      "file": "礼颂到达happyend吧音效2融.bds",
+      "thumb": "礼颂到达happyend吧音效2融.bds_py_26_default_thumb.png",
+      "full": "礼颂到达happyend吧音效2融.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂✃到达happy end吧",
+      "file": "礼颂到达happyend吧.bds",
+      "thumb": "礼颂到达happyend吧.bds_py_26_default_thumb.png",
+      "full": "礼颂到达happyend吧.bds_py_26_default.png"
+    },
+    {
+      "name": "♡桜恋の心配事日記♡",
+      "file": "桜恋の心配事日記.bds",
+      "thumb": "桜恋の心配事日記.bds_py_26_light_thumb.png",
+      "full": "桜恋の心配事日記.bds_py_26_light.png"
+    },
+    {
+      "name": "巧克力「萌味番」",
+      "file": "巧克力萌味番.bds",
+      "thumb": "巧克力萌味番.bds_py_26_default_thumb.png",
+      "full": "巧克力萌味番.bds_py_26_default.png"
+    },
+    {
+      "name": "巧克力「萌味番融合」",
+      "file": "巧克力萌味番融合.bds",
+      "thumb": "巧克力萌味番融合.bds_py_26_default_thumb.png",
+      "full": "巧克力萌味番融合.bds_py_26_default.png"
+    },
+    {
+      "name": "甜✩糖糖",
+      "file": "甜糖糖.bds",
+      "thumb": "甜糖糖.bds_py_26_light_thumb.png",
+      "full": "甜糖糖.bds_py_26_light.png"
+    },
+    {
+      "name": "礼颂「超高校级の首脑」",
+      "file": "礼颂超高校级の首脑.bds",
+      "thumb": "礼颂超高校级の首脑.bds_py_26_default_thumb.png",
+      "full": "礼颂超高校级の首脑.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂ʚ草莓饼干泥",
+      "file": "礼颂ʚ草莓饼干泥.bds",
+      "thumb": "礼颂ʚ草莓饼干泥.bds_py_26_default_thumb.png",
+      "full": "礼颂ʚ草莓饼干泥.bds_py_26_default.png"
+    },
+    {
+      "name": "礼颂「超高校级の首脑」融",
+      "file": "礼颂超高校级の首脑融.bds",
+      "thumb": "礼颂超高校级の首脑融.bds_py_26_default_thumb.png",
+      "full": "礼颂超高校级の首脑融.bds_py_26_default.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Susuの我成为天使了哦闷.bds",
+      "thumb": "Susuの我成为天使了哦闷.bds_py_26_light_thumb.png",
+      "full": "Susuの我成为天使了哦闷.bds_py_26_light.png"
+    }
+  ]
+}
