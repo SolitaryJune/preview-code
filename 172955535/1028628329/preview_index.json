@@ -1,0 +1,31 @@
+{
+  "qq_number": "172955535",
+  "group_number": "1028628329",
+  "updated_at": "2026-02-13T23:42:17.647713",
+  "skins": [
+    {
+      "name": "青尘の掉落1",
+      "file": "青尘の掉落1.bdi",
+      "thumb": "青尘の掉落1.bdi_py_26_default_thumb.png",
+      "full": "青尘の掉落1.bdi_py_26_default.png"
+    },
+    {
+      "name": "青尘の掉落2",
+      "file": "青尘の掉落2.bdi",
+      "thumb": "青尘の掉落2.bdi_py_26_default_thumb.png",
+      "full": "青尘の掉落2.bdi_py_26_default.png"
+    },
+    {
+      "name": "青尘の掉落1",
+      "file": "青尘の掉落1.bds",
+      "thumb": "青尘の掉落1.bds_py_26_default_thumb.png",
+      "full": "青尘の掉落1.bds_py_26_default.png"
+    },
+    {
+      "name": "青尘の掉落2",
+      "file": "青尘の掉落2.bds",
+      "thumb": "青尘の掉落2.bds_py_26_default_thumb.png",
+      "full": "青尘の掉落2.bds_py_26_default.png"
+    }
+  ]
+}

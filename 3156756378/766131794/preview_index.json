@@ -1,0 +1,67 @@
+{
+  "qq_number": "3156756378",
+  "group_number": "766131794",
+  "updated_at": "2026-02-13T23:42:54.024259",
+  "skins": [
+    {
+      "name": "星雾绒崽",
+      "file": "星雾绒崽.bdi",
+      "thumb": "星雾绒崽.bdi_py_26_light_thumb.png",
+      "full": "星雾绒崽.bdi_py_26_light.png"
+    },
+    {
+      "name": "软糖面包",
+      "file": "软糖面包无漂浮.bdi",
+      "thumb": "软糖面包无漂浮.bdi_py_26_light_thumb.png",
+      "full": "软糖面包无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "软糖面包",
+      "file": "软糖面包.bdi",
+      "thumb": "软糖面包.bdi_py_26_light_thumb.png",
+      "full": "软糖面包.bdi_py_26_light.png"
+    },
+    {
+      "name": "鼠鼠我呀",
+      "file": "鼠鼠我呀.bdi",
+      "thumb": "鼠鼠我呀.bdi_py_26_light_thumb.png",
+      "full": "鼠鼠我呀.bdi_py_26_light.png"
+    },
+    {
+      "name": "韩",
+      "file": "韩.bdi",
+      "thumb": "韩.bdi_py_26_light_thumb.png",
+      "full": "韩.bdi_py_26_light.png"
+    },
+    {
+      "name": "星雾绒崽",
+      "file": "星雾绒崽.bds",
+      "thumb": "星雾绒崽.bds_py_26_light_thumb.png",
+      "full": "星雾绒崽.bds_py_26_light.png"
+    },
+    {
+      "name": "软糖面包",
+      "file": "软糖面包无漂浮.bds",
+      "thumb": "软糖面包无漂浮.bds_py_26_light_thumb.png",
+      "full": "软糖面包无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "软糖面包",
+      "file": "软糖面包.bds",
+      "thumb": "软糖面包.bds_py_26_light_thumb.png",
+      "full": "软糖面包.bds_py_26_light.png"
+    },
+    {
+      "name": "鼠鼠我呀",
+      "file": "鼠鼠我呀.bds",
+      "thumb": "鼠鼠我呀.bds_py_26_light_thumb.png",
+      "full": "鼠鼠我呀.bds_py_26_light.png"
+    },
+    {
+      "name": "韩",
+      "file": "韩.bds",
+      "thumb": "韩.bds_py_26_light_thumb.png",
+      "full": "韩.bds_py_26_light.png"
+    }
+  ]
+}
