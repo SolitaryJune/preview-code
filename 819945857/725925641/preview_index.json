@@ -1,0 +1,19 @@
+{
+  "qq_number": "819945857",
+  "group_number": "725925641",
+  "updated_at": "2026-02-13T23:42:32.471111",
+  "skins": [
+    {
+      "name": "Lianyiの忘羡曲",
+      "file": "Lianyiの忘羡曲.bdi",
+      "thumb": "Lianyiの忘羡曲.bdi_py_26_light_thumb.png",
+      "full": "Lianyiの忘羡曲.bdi_py_26_light.png"
+    },
+    {
+      "name": "Lianyiの忘羡曲",
+      "file": "Lianyiの忘羡曲.bds",
+      "thumb": "Lianyiの忘羡曲.bds_py_26_light_thumb.png",
+      "full": "Lianyiの忘羡曲.bds_py_26_light.png"
+    }
+  ]
+}

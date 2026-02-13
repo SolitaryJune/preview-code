@@ -1,0 +1,31 @@
+{
+  "qq_number": "2920314410",
+  "group_number": "516197343",
+  "updated_at": "2026-02-13T23:42:33.252142",
+  "skins": [
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "天使吟融.bdi",
+      "thumb": "天使吟融.bdi_py_26_light_thumb.png",
+      "full": "天使吟融.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "天使吟彩.bdi",
+      "thumb": "天使吟彩.bdi_py_26_light_thumb.png",
+      "full": "天使吟彩.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "天使吟融.bds",
+      "thumb": "天使吟融.bds_py_26_light_thumb.png",
+      "full": "天使吟融.bds_py_26_light.png"
+    },
+    {
+      "name": "天使吟",
+      "file": "天使吟彩.bds",
+      "thumb": "天使吟彩.bds_py_26_light_thumb.png",
+      "full": "天使吟彩.bds_py_26_light.png"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "qq_number": "3511499276",
+  "group_number": "1074121852",
+  "updated_at": "2026-02-13T23:42:39.820119",
+  "skins": [
+    {
+      "name": "乐妍底包",
+      "file": "泉の天使喵冥.bdi",
+      "thumb": "泉の天使喵冥.bdi_py_26_light_thumb.png",
+      "full": "泉の天使喵冥.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "罪与爱闷.bdi",
+      "thumb": "罪与爱闷.bdi_py_26_light_thumb.png",
+      "full": "罪与爱闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "罪与爱脆.bdi",
+      "thumb": "罪与爱脆.bdi_py_26_light_thumb.png",
+      "full": "罪与爱脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "天使喵、冥",
+      "file": "泉の天使喵丶冥.bds",
+      "thumb": "泉の天使喵丶冥.bds_py_26_light_thumb.png",
+      "full": "泉の天使喵丶冥.bds_py_26_light.png"
+    },
+    {
+      "name": "罪与爱（闷）",
+      "file": "罪与爱闷.bds",
+      "thumb": "罪与爱闷.bds_py_26_light_thumb.png",
+      "full": "罪与爱闷.bds_py_26_light.png"
+    },
+    {
+      "name": "罪与爱（脆）",
+      "file": "罪与爱脆.bds",
+      "thumb": "罪与爱脆.bds_py_26_light_thumb.png",
+      "full": "罪与爱脆.bds_py_26_light.png"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "qq_number": "941923180",
+  "group_number": "985315090",
+  "updated_at": "2026-02-13T23:42:34.820694",
+  "skins": [
+    {
+      "name": "茹の贴贴会15",
+      "file": "茹の贴贴会15.bdi",
+      "thumb": "茹の贴贴会15.bdi_py_26_default_thumb.png",
+      "full": "茹の贴贴会15.bdi_py_26_default.png"
+    },
+    {
+      "name": "茹の贴贴会16",
+      "file": "茹の贴贴会16.bdi",
+      "thumb": "茹の贴贴会16.bdi_py_26_default_thumb.png",
+      "full": "茹の贴贴会16.bdi_py_26_default.png"
+    },
+    {
+      "name": "茹の贴贴会15",
+      "file": "茹の贴贴会15.bds",
+      "thumb": "茹の贴贴会15.bds_py_26_default_thumb.png",
+      "full": "茹の贴贴会15.bds_py_26_default.png"
+    },
+    {
+      "name": "茹の贴贴会16",
+      "file": "茹の贴贴会16.bds",
+      "thumb": "茹の贴贴会16.bds_py_26_default_thumb.png",
+      "full": "茹の贴贴会16.bds_py_26_default.png"
+    }
+  ]
+}

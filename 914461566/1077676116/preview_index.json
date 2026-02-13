@@ -1,0 +1,19 @@
+{
+  "qq_number": "914461566",
+  "group_number": "1077676116",
+  "updated_at": "2026-02-13T23:42:37.939610",
+  "skins": [
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "eei纸偶音效1.bdi",
+      "thumb": "eei纸偶音效1.bdi_py_26_light_thumb.png",
+      "full": "eei纸偶音效1.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "eei纸偶音效2.bdi",
+      "thumb": "eei纸偶音效2.bdi_py_26_light_thumb.png",
+      "full": "eei纸偶音效2.bdi_py_26_light.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "qq_number": "3384043236",
+  "group_number": "1082074671",
+  "updated_at": "2026-02-13T23:43:07.008239",
+  "skins": [
+    {
+      "name": "雨天のいい夢甘いもの",
+      "file": "雨天のいい夢甘いもの.bdi",
+      "thumb": "雨天のいい夢甘いもの.bdi_py_26_light_thumb.png",
+      "full": "雨天のいい夢甘いもの.bdi_py_26_light.png"
+    },
+    {
+      "name": "雨天のいい夢甘いもの",
+      "file": "雨天のいい夢甘いもの.bds",
+      "thumb": "雨天のいい夢甘いもの.bds_py_26_light_thumb.png",
+      "full": "雨天のいい夢甘いもの.bds_py_26_light.png"
+    }
+  ]
+}

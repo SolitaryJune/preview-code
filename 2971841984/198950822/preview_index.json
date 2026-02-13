@@ -1,0 +1,37 @@
+{
+  "qq_number": "2971841984",
+  "group_number": "198950822",
+  "updated_at": "2026-02-13T23:42:32.646482",
+  "skins": [
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "mini-1.bds",
+      "thumb": "mini-1.bds_py_26_light_thumb.png",
+      "full": "mini-1.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "mini-3.bds",
+      "thumb": "mini-3.bds_py_26_light_thumb.png",
+      "full": "mini-3.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "mini-2.bds",
+      "thumb": "mini-2.bds_py_26_light_thumb.png",
+      "full": "mini-2.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "春日负暄-2.bds",
+      "thumb": "春日负暄-2.bds_py_26_light_thumb.png",
+      "full": "春日负暄-2.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "春日负暄-1.bds",
+      "thumb": "春日负暄-1.bds_py_26_light_thumb.png",
+      "full": "春日负暄-1.bds_py_26_light.png"
+    }
+  ]
+}

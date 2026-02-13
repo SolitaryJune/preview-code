@@ -1,0 +1,31 @@
+{
+  "qq_number": "3384043236",
+  "group_number": "1080217114",
+  "updated_at": "2026-02-13T23:42:32.657569",
+  "skins": [
+    {
+      "name": "A.R.O.N.A",
+      "file": "雨天のARONA.bdi",
+      "thumb": "雨天のARONA.bdi_py_26_light_thumb.png",
+      "full": "雨天のARONA.bdi_py_26_light.png"
+    },
+    {
+      "name": "雨天の櫻雨紛紛",
+      "file": "雨天の櫻雨紛紛.bdi",
+      "thumb": "雨天の櫻雨紛紛.bdi_py_26_light_thumb.png",
+      "full": "雨天の櫻雨紛紛.bdi_py_26_light.png"
+    },
+    {
+      "name": "A.R.O.N.A",
+      "file": "雨天のARONA.bds",
+      "thumb": "雨天のARONA.bds_py_26_light_thumb.png",
+      "full": "雨天のARONA.bds_py_26_light.png"
+    },
+    {
+      "name": "雨天の櫻雨紛紛",
+      "file": "雨天の櫻雨紛紛.bds",
+      "thumb": "雨天の櫻雨紛紛.bds_py_26_light_thumb.png",
+      "full": "雨天の櫻雨紛紛.bds_py_26_light.png"
+    }
+  ]
+}

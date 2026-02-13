@@ -1,0 +1,31 @@
+{
+  "qq_number": "879720947",
+  "group_number": "1084031270",
+  "updated_at": "2026-02-13T23:42:49.908432",
+  "skins": [
+    {
+      "name": "兔の麦当当女孩",
+      "file": "兔の麦当当女孩.bdi",
+      "thumb": "兔の麦当当女孩.bdi_py_26_light_thumb.png",
+      "full": "兔の麦当当女孩.bdi_py_26_light.png"
+    },
+    {
+      "name": "兔の麦当当女孩",
+      "file": "兔の麦当当女孩2.bdi",
+      "thumb": "兔の麦当当女孩2.bdi_py_26_light_thumb.png",
+      "full": "兔の麦当当女孩2.bdi_py_26_light.png"
+    },
+    {
+      "name": "兔の麦当当女孩",
+      "file": "兔の麦当当女孩.bds",
+      "thumb": "兔の麦当当女孩.bds_py_26_light_thumb.png",
+      "full": "兔の麦当当女孩.bds_py_26_light.png"
+    },
+    {
+      "name": "兔の麦当当女孩",
+      "file": "兔の麦当当女孩2.bds",
+      "thumb": "兔の麦当当女孩2.bds_py_26_light_thumb.png",
+      "full": "兔の麦当当女孩2.bds_py_26_light.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "qq_number": "1272755036",
+  "group_number": "1065968910",
+  "updated_at": "2026-02-13T23:42:46.837603",
+  "skins": [
+    {
+      "name": "棉の轻松熊",
+      "file": "棉の轻松熊.bdi",
+      "thumb": "棉の轻松熊.bdi_py_26_default_thumb.png",
+      "full": "棉の轻松熊.bdi_py_26_default.png"
+    },
+    {
+      "name": "棉の轻松熊",
+      "file": "棉の轻松熊.bds",
+      "thumb": "棉の轻松熊.bds_py_26_default_thumb.png",
+      "full": "棉の轻松熊.bds_py_26_default.png"
+    }
+  ]
+}

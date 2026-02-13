@@ -1,0 +1,31 @@
+{
+  "qq_number": "1409991795",
+  "group_number": "1060422507",
+  "updated_at": "2026-02-13T23:42:45.938326",
+  "skins": [
+    {
+      "name": "粥粥★季会38",
+      "file": "粥粥の季会38.bdi",
+      "thumb": "粥粥の季会38.bdi_py_26_default_thumb.png",
+      "full": "粥粥の季会38.bdi_py_26_default.png"
+    },
+    {
+      "name": "粥粥の季会39",
+      "file": "粥粥の季会39.bdi",
+      "thumb": "粥粥の季会39.bdi_py_26_default_thumb.png",
+      "full": "粥粥の季会39.bdi_py_26_default.png"
+    },
+    {
+      "name": "粥粥★季会38",
+      "file": "粥粥の季会38.bds",
+      "thumb": "粥粥の季会38.bds_py_26_default_thumb.png",
+      "full": "粥粥の季会38.bds_py_26_default.png"
+    },
+    {
+      "name": "粥粥の季会39",
+      "file": "粥粥の季会39.bds",
+      "thumb": "粥粥の季会39.bds_py_26_default_thumb.png",
+      "full": "粥粥の季会39.bds_py_26_default.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "qq_number": "3511499276",
+  "group_number": "1065968910",
+  "updated_at": "2026-02-13T23:42:43.569265",
+  "skins": [
+    {
+      "name": "香菇肉片底包",
+      "file": "少女手账本.bdi",
+      "thumb": "少女手账本.bdi_py_26_light_thumb.png",
+      "full": "少女手账本.bdi_py_26_light.png"
+    },
+    {
+      "name": "少女手账本",
+      "file": "少女手账本.bds",
+      "thumb": "少女手账本.bds_py_26_light_thumb.png",
+      "full": "少女手账本.bds_py_26_light.png"
+    }
+  ]
+}

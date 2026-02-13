@@ -1,0 +1,31 @@
+{
+  "qq_number": "1409991795",
+  "group_number": "588374258",
+  "updated_at": "2026-02-13T23:42:36.445773",
+  "skins": [
+    {
+      "name": "粥粥の永会199",
+      "file": "粥粥の永会199.bdi",
+      "thumb": "粥粥の永会199.bdi_py_26_default_thumb.png",
+      "full": "粥粥の永会199.bdi_py_26_default.png"
+    },
+    {
+      "name": "粥粥の永会200",
+      "file": "粥粥の永会200.bdi",
+      "thumb": "粥粥の永会200.bdi_py_26_default_thumb.png",
+      "full": "粥粥の永会200.bdi_py_26_default.png"
+    },
+    {
+      "name": "粥粥の永会199",
+      "file": "粥粥の永会199.bds",
+      "thumb": "粥粥の永会199.bds_py_26_default_thumb.png",
+      "full": "粥粥の永会199.bds_py_26_default.png"
+    },
+    {
+      "name": "粥粥の永会200",
+      "file": "粥粥の永会200.bds",
+      "thumb": "粥粥の永会200.bds_py_26_default_thumb.png",
+      "full": "粥粥の永会200.bds_py_26_default.png"
+    }
+  ]
+}

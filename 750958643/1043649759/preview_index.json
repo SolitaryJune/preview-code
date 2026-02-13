@@ -1,0 +1,31 @@
+{
+  "qq_number": "750958643",
+  "group_number": "1043649759",
+  "updated_at": "2026-02-13T23:42:33.332987",
+  "skins": [
+    {
+      "name": "时冬日玉桂狗",
+      "file": "时冬日玉桂狗.bdi",
+      "thumb": "时冬日玉桂狗.bdi_py_26_default_thumb.png",
+      "full": "时冬日玉桂狗.bdi_py_26_default.png"
+    },
+    {
+      "name": "时简约脆",
+      "file": "时简约脆.bdi",
+      "thumb": "时简约脆.bdi_py_26_default_thumb.png",
+      "full": "时简约脆.bdi_py_26_default.png"
+    },
+    {
+      "name": "时冬日玉桂狗",
+      "file": "时冬日玉桂狗.bds",
+      "thumb": "时冬日玉桂狗.bds_py_26_default_thumb.png",
+      "full": "时冬日玉桂狗.bds_py_26_default.png"
+    },
+    {
+      "name": "时简约脆",
+      "file": "时简约脆.bds",
+      "thumb": "时简约脆.bds_py_26_default_thumb.png",
+      "full": "时简约脆.bds_py_26_default.png"
+    }
+  ]
+}
