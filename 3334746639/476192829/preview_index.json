@@ -1,0 +1,55 @@
+{
+  "qq_number": "3334746639",
+  "group_number": "476192829",
+  "updated_at": "2026-02-13T23:43:00.216011",
+  "skins": [
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "杳の双子乌.bdi",
+      "thumb": "杳の双子乌.bdi_py_26_light_thumb.png",
+      "full": "杳の双子乌.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "yeの虚度.bdi",
+      "thumb": "yeの虚度.bdi_py_26_light_thumb.png",
+      "full": "yeの虚度.bdi_py_26_light.png"
+    },
+    {
+      "name": "yeの小优&米迦",
+      "file": "yeの小优米迦.bdi",
+      "thumb": "yeの小优米迦.bdi_py_26_default_thumb.png",
+      "full": "yeの小优米迦.bdi_py_26_default.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "杳の极简.bdi",
+      "thumb": "杳の极简.bdi_py_26_light_thumb.png",
+      "full": "杳の极简.bdi_py_26_light.png"
+    },
+    {
+      "name": "杳の双子乌",
+      "file": "杳の双子乌.bds",
+      "thumb": "杳の双子乌.bds_py_26_light_thumb.png",
+      "full": "杳の双子乌.bds_py_26_light.png"
+    },
+    {
+      "name": "yeの虚度",
+      "file": "yeの虚度.bds",
+      "thumb": "yeの虚度.bds_py_26_light_thumb.png",
+      "full": "yeの虚度.bds_py_26_light.png"
+    },
+    {
+      "name": "yeの小优&米迦",
+      "file": "yeの小优米迦.bds",
+      "thumb": "yeの小优米迦.bds_py_26_light_thumb.png",
+      "full": "yeの小优米迦.bds_py_26_light.png"
+    },
+    {
+      "name": "杳の极简",
+      "file": "杳の极简.bds",
+      "thumb": "杳の极简.bds_py_26_light_thumb.png",
+      "full": "杳の极简.bds_py_26_light.png"
+    }
+  ]
+}

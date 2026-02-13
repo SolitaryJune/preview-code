@@ -1,0 +1,19 @@
+{
+  "qq_number": "3758053756",
+  "group_number": "637881010",
+  "updated_at": "2026-02-13T23:43:03.480491",
+  "skins": [
+    {
+      "name": "可爱雯の合会1",
+      "file": "可爱雯の合会1.bdi",
+      "thumb": "可爱雯の合会1.bdi_py_26_light_thumb.png",
+      "full": "可爱雯の合会1.bdi_py_26_light.png"
+    },
+    {
+      "name": "可爱雯の合会1",
+      "file": "可爱雯の合会1.bds",
+      "thumb": "可爱雯の合会1.bds_py_26_light_thumb.png",
+      "full": "可爱雯の合会1.bds_py_26_light.png"
+    }
+  ]
+}
