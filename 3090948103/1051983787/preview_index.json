@@ -1,0 +1,199 @@
+{
+  "qq_number": "3090948103",
+  "group_number": "1051983787",
+  "updated_at": "2026-02-13T23:42:06.549559",
+  "skins": [
+    {
+      "name": "耶汁-呀比囧囧囧1",
+      "file": "耶汁-呀比囧囧囧1.bdi",
+      "thumb": "耶汁-呀比囧囧囧1.bdi_py_26_light_thumb.png",
+      "full": "耶汁-呀比囧囧囧1.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-呀比囧囧囧2",
+      "file": "耶汁-呀比囧囧囧2.bdi",
+      "thumb": "耶汁-呀比囧囧囧2.bdi_py_26_light_thumb.png",
+      "full": "耶汁-呀比囧囧囧2.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-空白信章1",
+      "file": "耶汁-空白信章1.bdi",
+      "thumb": "耶汁-空白信章1.bdi_py_26_light_thumb.png",
+      "full": "耶汁-空白信章1.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-空白信章2",
+      "file": "耶汁-空白信章2.bdi",
+      "thumb": "耶汁-空白信章2.bdi_py_26_light_thumb.png",
+      "full": "耶汁-空白信章2.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-UxU.兔",
+      "file": "耶汁-UxU兔.bdi",
+      "thumb": "耶汁-UxU兔.bdi_py_26_light_thumb.png",
+      "full": "耶汁-UxU兔.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-UxU.兔-无",
+      "file": "耶汁-UxU兔-无.bdi",
+      "thumb": "耶汁-UxU兔-无.bdi_py_26_light_thumb.png",
+      "full": "耶汁-UxU兔-无.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-别总灰萌萌1",
+      "file": "耶汁-别总灰萌萌1.bdi",
+      "thumb": "耶汁-别总灰萌萌1.bdi_py_26_light_thumb.png",
+      "full": "耶汁-别总灰萌萌1.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-别总灰萌萌2",
+      "file": "耶汁-别总灰萌萌2.bdi",
+      "thumb": "耶汁-别总灰萌萌2.bdi_py_26_light_thumb.png",
+      "full": "耶汁-别总灰萌萌2.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-o'no2",
+      "file": "耶汁-ono2.bdi",
+      "thumb": "耶汁-ono2.bdi_py_26_light_thumb.png",
+      "full": "耶汁-ono2.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-o'no1",
+      "file": "耶汁-ono1.bdi",
+      "thumb": "耶汁-ono1.bdi_py_26_light_thumb.png",
+      "full": "耶汁-ono1.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-21克雾-灰",
+      "file": "耶汁-21克雾-灰.bdi",
+      "thumb": "耶汁-21克雾-灰.bdi_py_26_light_thumb.png",
+      "full": "耶汁-21克雾-灰.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-21克雾-蓝",
+      "file": "耶汁-21克雾-蓝.bdi",
+      "thumb": "耶汁-21克雾-蓝.bdi_py_26_light_thumb.png",
+      "full": "耶汁-21克雾-蓝.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-萌给你看-英",
+      "file": "耶汁-萌给你看-英.bdi",
+      "thumb": "耶汁-萌给你看-英.bdi_py_26_light_thumb.png",
+      "full": "耶汁-萌给你看-英.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-萌给你看-日",
+      "file": "耶汁-萌给你看-日.bdi",
+      "thumb": "耶汁-萌给你看-日.bdi_py_26_light_thumb.png",
+      "full": "耶汁-萌给你看-日.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-又萌噜-闷",
+      "file": "耶汁-又萌噜-闷.bdi",
+      "thumb": "耶汁-又萌噜-闷.bdi_py_26_light_thumb.png",
+      "full": "耶汁-又萌噜-闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-又萌噜-脆",
+      "file": "耶汁-又萌噜-脆.bdi",
+      "thumb": "耶汁-又萌噜-脆.bdi_py_26_light_thumb.png",
+      "full": "耶汁-又萌噜-脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-呀比囧囧囧2.bds",
+      "thumb": "耶汁-呀比囧囧囧2.bds_py_26_light_thumb.png",
+      "full": "耶汁-呀比囧囧囧2.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-呀比囧囧囧1.bds",
+      "thumb": "耶汁-呀比囧囧囧1.bds_py_26_light_thumb.png",
+      "full": "耶汁-呀比囧囧囧1.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-空白信章2.bds",
+      "thumb": "耶汁-空白信章2.bds_py_26_light_thumb.png",
+      "full": "耶汁-空白信章2.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-空白信章1.bds",
+      "thumb": "耶汁-空白信章1.bds_py_26_light_thumb.png",
+      "full": "耶汁-空白信章1.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-UxU兔.bds",
+      "thumb": "耶汁-UxU兔.bds_py_26_light_thumb.png",
+      "full": "耶汁-UxU兔.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-UxU兔-无.bds",
+      "thumb": "耶汁-UxU兔-无.bds_py_26_light_thumb.png",
+      "full": "耶汁-UxU兔-无.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-别总灰萌萌2.bds",
+      "thumb": "耶汁-别总灰萌萌2.bds_py_26_light_thumb.png",
+      "full": "耶汁-别总灰萌萌2.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-别总灰萌萌1.bds",
+      "thumb": "耶汁-别总灰萌萌1.bds_py_26_light_thumb.png",
+      "full": "耶汁-别总灰萌萌1.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-ono2.bds",
+      "thumb": "耶汁-ono2.bds_py_26_light_thumb.png",
+      "full": "耶汁-ono2.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-ono1.bds",
+      "thumb": "耶汁-ono1.bds_py_26_light_thumb.png",
+      "full": "耶汁-ono1.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-21克雾-蓝.bds",
+      "thumb": "耶汁-21克雾-蓝.bds_py_26_light_thumb.png",
+      "full": "耶汁-21克雾-蓝.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-21克雾-灰.bds",
+      "thumb": "耶汁-21克雾-灰.bds_py_26_light_thumb.png",
+      "full": "耶汁-21克雾-灰.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-萌给你看-日.bds",
+      "thumb": "耶汁-萌给你看-日.bds_py_26_light_thumb.png",
+      "full": "耶汁-萌给你看-日.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-萌给你看-英.bds",
+      "thumb": "耶汁-萌给你看-英.bds_py_26_light_thumb.png",
+      "full": "耶汁-萌给你看-英.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-又萌噜-脆.bds",
+      "thumb": "耶汁-又萌噜-脆.bds_py_26_light_thumb.png",
+      "full": "耶汁-又萌噜-脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-又萌噜闷.bds",
+      "thumb": "耶汁-又萌噜闷.bds_py_26_light_thumb.png",
+      "full": "耶汁-又萌噜闷.bds_py_26_light.png"
+    }
+  ]
+}

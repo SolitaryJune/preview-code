@@ -1,0 +1,151 @@
+{
+  "qq_number": "1450749266",
+  "group_number": "922400781",
+  "updated_at": "2026-02-13T23:42:32.853687",
+  "skins": [
+    {
+      "name": "腰腰de玩偶熊熊",
+      "file": "玩偶熊熊.bdi",
+      "thumb": "玩偶熊熊.bdi_py_26_light_thumb.png",
+      "full": "玩偶熊熊.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰de玩偶熊熊",
+      "file": "玩偶熊熊闷.bdi",
+      "thumb": "玩偶熊熊闷.bdi_py_26_light_thumb.png",
+      "full": "玩偶熊熊闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰de私有物",
+      "file": "腰腰de私有物.bdi",
+      "thumb": "腰腰de私有物.bdi_py_26_light_thumb.png",
+      "full": "腰腰de私有物.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰de私有物",
+      "file": "腰腰de私有物脆脆.bdi",
+      "thumb": "腰腰de私有物脆脆.bdi_py_26_light_thumb.png",
+      "full": "腰腰de私有物脆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "人偶de萌萌小豆泥（脆）",
+      "file": "人偶de萌萌小豆泥脆.bdi",
+      "thumb": "人偶de萌萌小豆泥脆.bdi_py_26_default_thumb.png",
+      "full": "人偶de萌萌小豆泥脆.bdi_py_26_default.png"
+    },
+    {
+      "name": "人偶de萌萌小豆泥",
+      "file": "人偶de萌萌小豆泥.bdi",
+      "thumb": "人偶de萌萌小豆泥.bdi_py_26_default_thumb.png",
+      "full": "人偶de萌萌小豆泥.bdi_py_26_default.png"
+    },
+    {
+      "name": "人偶de天生萌物（脆）",
+      "file": "人偶de天生萌物脆.bdi",
+      "thumb": "人偶de天生萌物脆.bdi_py_26_default_thumb.png",
+      "full": "人偶de天生萌物脆.bdi_py_26_default.png"
+    },
+    {
+      "name": "人偶de天生萌物",
+      "file": "人偶de天生萌物.bdi",
+      "thumb": "人偶de天生萌物.bdi_py_26_default_thumb.png",
+      "full": "人偶de天生萌物.bdi_py_26_default.png"
+    },
+    {
+      "name": "人偶の蕾丝布偶",
+      "file": "人偶の蕾丝布偶.bdi",
+      "thumb": "人偶の蕾丝布偶.bdi_py_26_default_thumb.png",
+      "full": "人偶の蕾丝布偶.bdi_py_26_default.png"
+    },
+    {
+      "name": "人偶の蕾丝布偶（脆）",
+      "file": "人偶の蕾丝布偶脆.bdi",
+      "thumb": "人偶の蕾丝布偶脆.bdi_py_26_default_thumb.png",
+      "full": "人偶の蕾丝布偶脆.bdi_py_26_default.png"
+    },
+    {
+      "name": "腰腰de甜熊草莓派对",
+      "file": "腰腰de甜熊草莓派对.bdi",
+      "thumb": "腰腰de甜熊草莓派对.bdi_py_26_default_thumb.png",
+      "full": "腰腰de甜熊草莓派对.bdi_py_26_default.png"
+    },
+    {
+      "name": "腰腰de蛇蛇1",
+      "file": "腰腰de蛇蛇1.bdi",
+      "thumb": "腰腰de蛇蛇1.bdi_py_26_default_thumb.png",
+      "full": "腰腰de蛇蛇1.bdi_py_26_default.png"
+    },
+    {
+      "name": "腰腰de玩偶熊熊",
+      "file": "玩偶熊熊闷.bds",
+      "thumb": "玩偶熊熊闷.bds_py_26_light_thumb.png",
+      "full": "玩偶熊熊闷.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰de玩偶熊熊",
+      "file": "玩偶熊熊.bds",
+      "thumb": "玩偶熊熊.bds_py_26_light_thumb.png",
+      "full": "玩偶熊熊.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰de私有物",
+      "file": "腰腰de私有物.bds",
+      "thumb": "腰腰de私有物.bds_py_26_light_thumb.png",
+      "full": "腰腰de私有物.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰de私有物",
+      "file": "腰腰de私有物脆脆.bds",
+      "thumb": "腰腰de私有物脆脆.bds_py_26_light_thumb.png",
+      "full": "腰腰de私有物脆脆.bds_py_26_light.png"
+    },
+    {
+      "name": "人偶de萌萌小豆泥",
+      "file": "人偶de萌萌小豆泥.bds",
+      "thumb": "人偶de萌萌小豆泥.bds_py_26_default_thumb.png",
+      "full": "人偶de萌萌小豆泥.bds_py_26_default.png"
+    },
+    {
+      "name": "人偶de萌萌小豆泥（脆）",
+      "file": "人偶de萌萌小豆泥脆.bds",
+      "thumb": "人偶de萌萌小豆泥脆.bds_py_26_default_thumb.png",
+      "full": "人偶de萌萌小豆泥脆.bds_py_26_default.png"
+    },
+    {
+      "name": "人偶de天生萌物（脆）",
+      "file": "人偶de天生萌物脆.bds",
+      "thumb": "人偶de天生萌物脆.bds_py_26_default_thumb.png",
+      "full": "人偶de天生萌物脆.bds_py_26_default.png"
+    },
+    {
+      "name": "人偶de天生萌物",
+      "file": "人偶de天生萌物.bds",
+      "thumb": "人偶de天生萌物.bds_py_26_default_thumb.png",
+      "full": "人偶de天生萌物.bds_py_26_default.png"
+    },
+    {
+      "name": "人偶の蕾丝布偶",
+      "file": "人偶の蕾丝布偶.bds",
+      "thumb": "人偶の蕾丝布偶.bds_py_26_default_thumb.png",
+      "full": "人偶の蕾丝布偶.bds_py_26_default.png"
+    },
+    {
+      "name": "人偶の蕾丝布偶（脆）",
+      "file": "人偶の蕾丝布偶脆.bds",
+      "thumb": "人偶の蕾丝布偶脆.bds_py_26_default_thumb.png",
+      "full": "人偶の蕾丝布偶脆.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰de甜熊草莓派对",
+      "file": "腰腰de甜熊草莓派对.bds",
+      "thumb": "腰腰de甜熊草莓派对.bds_py_26_default_thumb.png",
+      "full": "腰腰de甜熊草莓派对.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰de蛇蛇1",
+      "file": "腰腰de蛇蛇1.bds",
+      "thumb": "腰腰de蛇蛇1.bds_py_26_default_thumb.png",
+      "full": "腰腰de蛇蛇1.bds_py_26_default.png"
+    }
+  ]
+}

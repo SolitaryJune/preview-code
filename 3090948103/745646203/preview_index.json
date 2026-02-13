@@ -1,0 +1,163 @@
+{
+  "qq_number": "3090948103",
+  "group_number": "745646203",
+  "updated_at": "2026-02-13T23:41:46.732801",
+  "skins": [
+    {
+      "name": "耶汁-圣殿永寂-2",
+      "file": "耶汁_圣殿永寂-2.bdi",
+      "thumb": "耶汁_圣殿永寂-2.bdi_py_26_light_thumb.png",
+      "full": "耶汁_圣殿永寂-2.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-圣殿永寂-1",
+      "file": "耶汁-圣殿永寂-1.bdi",
+      "thumb": "耶汁-圣殿永寂-1.bdi_py_26_light_thumb.png",
+      "full": "耶汁-圣殿永寂-1.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-丸丸碎-1",
+      "file": "耶汁-丸丸碎-1.bdi",
+      "thumb": "耶汁-丸丸碎-1.bdi_py_26_light_thumb.png",
+      "full": "耶汁-丸丸碎-1.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-丸丸碎-2",
+      "file": "耶汁-丸丸碎-2.bdi",
+      "thumb": "耶汁-丸丸碎-2.bdi_py_26_light_thumb.png",
+      "full": "耶汁-丸丸碎-2.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-疗愈礼",
+      "file": "耶汁-疗愈礼.bdi",
+      "thumb": "耶汁-疗愈礼.bdi_py_26_light_thumb.png",
+      "full": "耶汁-疗愈礼.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁断线",
+      "file": "耶汁断线.bdi",
+      "thumb": "耶汁断线.bdi_py_26_light_thumb.png",
+      "full": "耶汁断线.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-旧版心动1",
+      "file": "耶汁-旧版心动1.bdi",
+      "thumb": "耶汁-旧版心动1.bdi_py_26_light_thumb.png",
+      "full": "耶汁-旧版心动1.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-旧版心动2",
+      "file": "耶汁-旧版心动2.bdi",
+      "thumb": "耶汁-旧版心动2.bdi_py_26_light_thumb.png",
+      "full": "耶汁-旧版心动2.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-雨季告别",
+      "file": "耶汁-雨季告别.bdi",
+      "thumb": "耶汁-雨季告别.bdi_py_26_light_thumb.png",
+      "full": "耶汁-雨季告别.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-心声絮语",
+      "file": "耶汁-心声絮语.bdi",
+      "thumb": "耶汁-心声絮语.bdi_py_26_light_thumb.png",
+      "full": "耶汁-心声絮语.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-档案001",
+      "file": "耶汁-档案001.bdi",
+      "thumb": "耶汁-档案001.bdi_py_26_light_thumb.png",
+      "full": "耶汁-档案001.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-é号病吻",
+      "file": "耶汁-e号病吻.bdi",
+      "thumb": "耶汁-e号病吻.bdi_py_26_light_thumb.png",
+      "full": "耶汁-e号病吻.bdi_py_26_light.png"
+    },
+    {
+      "name": "耶汁-第19页折角",
+      "file": "耶汁-第19页折角.bdi",
+      "thumb": "耶汁-第19页折角.bdi_py_26_light_thumb.png",
+      "full": "耶汁-第19页折角.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-圣殿永寂-1.bds",
+      "thumb": "耶汁-圣殿永寂-1.bds_py_26_light_thumb.png",
+      "full": "耶汁-圣殿永寂-1.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁_圣殿永寂-2.bds",
+      "thumb": "耶汁_圣殿永寂-2.bds_py_26_light_thumb.png",
+      "full": "耶汁_圣殿永寂-2.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-丸丸碎_2.bds",
+      "thumb": "耶汁-丸丸碎_2.bds_py_26_light_thumb.png",
+      "full": "耶汁-丸丸碎_2.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-丸丸碎-1.bds",
+      "thumb": "耶汁-丸丸碎-1.bds_py_26_light_thumb.png",
+      "full": "耶汁-丸丸碎-1.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁断线.bds",
+      "thumb": "耶汁断线.bds_py_26_light_thumb.png",
+      "full": "耶汁断线.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-疗愈礼.bds",
+      "thumb": "耶汁-疗愈礼.bds_py_26_light_thumb.png",
+      "full": "耶汁-疗愈礼.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-旧版心动2.bds",
+      "thumb": "耶汁-旧版心动2.bds_py_26_light_thumb.png",
+      "full": "耶汁-旧版心动2.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-旧版心动1.bds",
+      "thumb": "耶汁-旧版心动1.bds_py_26_light_thumb.png",
+      "full": "耶汁-旧版心动1.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-雨季告别.bds",
+      "thumb": "耶汁-雨季告别.bds_py_26_light_thumb.png",
+      "full": "耶汁-雨季告别.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-心声絮语.bds",
+      "thumb": "耶汁-心声絮语.bds_py_26_light_thumb.png",
+      "full": "耶汁-心声絮语.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-档案001.bds",
+      "thumb": "耶汁-档案001.bds_py_26_light_thumb.png",
+      "full": "耶汁-档案001.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-e号病吻.bds",
+      "thumb": "耶汁-e号病吻.bds_py_26_light_thumb.png",
+      "full": "耶汁-e号病吻.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "耶汁-第19页折角.bds",
+      "thumb": "耶汁-第19页折角.bds_py_26_light_thumb.png",
+      "full": "耶汁-第19页折角.bds_py_26_light.png"
+    }
+  ]
+}

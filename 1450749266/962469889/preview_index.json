@@ -1,0 +1,679 @@
+{
+  "qq_number": "1450749266",
+  "group_number": "962469889",
+  "updated_at": "2026-02-13T23:42:07.861045",
+  "skins": [
+    {
+      "name": "电子猫耳娘",
+      "file": "电子猫耳娘.bdi",
+      "thumb": "电子猫耳娘.bdi_py_26_light_thumb.png",
+      "full": "电子猫耳娘.bdi_py_26_light.png"
+    },
+    {
+      "name": "电子猫耳娘",
+      "file": "电子猫耳娘彩底.bdi",
+      "thumb": "电子猫耳娘彩底.bdi_py_26_light_thumb.png",
+      "full": "电子猫耳娘彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "电子猫耳娘",
+      "file": "电子猫耳娘脆脆.bdi",
+      "thumb": "电子猫耳娘脆脆.bdi_py_26_light_thumb.png",
+      "full": "电子猫耳娘脆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰の純粋な昼の夢",
+      "file": "純粋な昼の夢彩底.bdi",
+      "thumb": "純粋な昼の夢彩底.bdi_py_26_light_thumb.png",
+      "full": "純粋な昼の夢彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰の純粋な昼の夢",
+      "file": "純粋な昼の夢.bdi",
+      "thumb": "純粋な昼の夢.bdi_py_26_light_thumb.png",
+      "full": "純粋な昼の夢.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰のBunnyLoomNest",
+      "file": "BunnyLoomNest彩底.bdi",
+      "thumb": "BunnyLoomNest彩底.bdi_py_26_light_thumb.png",
+      "full": "BunnyLoomNest彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰のBunnyLoomNest",
+      "file": "BunnyLoomNest.bdi",
+      "thumb": "BunnyLoomNest.bdi_py_26_light_thumb.png",
+      "full": "BunnyLoomNest.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰の粉樱ボボ兔",
+      "file": "粉樱ホホ兔彩底.bdi",
+      "thumb": "粉樱ホホ兔彩底.bdi_py_26_light_thumb.png",
+      "full": "粉樱ホホ兔彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰の粉樱ボボ兔",
+      "file": "粉樱ホホ兔.bdi",
+      "thumb": "粉樱ホホ兔.bdi_py_26_light_thumb.png",
+      "full": "粉樱ホホ兔.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰のTwilight Butterfly Tracks",
+      "file": "TwilightButterflyTracks.bdi",
+      "thumb": "TwilightButterflyTracks.bdi_py_26_light_thumb.png",
+      "full": "TwilightButterflyTracks.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰のTwilight Butterfly Tracks",
+      "file": "TwilightButterflyTracks彩底.bdi",
+      "thumb": "TwilightButterflyTracks彩底.bdi_py_26_light_thumb.png",
+      "full": "TwilightButterflyTracks彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰の桜の木の下",
+      "file": "桜の木の下.bdi",
+      "thumb": "桜の木の下.bdi_py_26_light_thumb.png",
+      "full": "桜の木の下.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰の桜の木の下",
+      "file": "桜の木の下彩底.bdi",
+      "thumb": "桜の木の下彩底.bdi_py_26_light_thumb.png",
+      "full": "桜の木の下彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰de缘分の天空",
+      "file": "缘分の天空.bdi",
+      "thumb": "缘分の天空.bdi_py_26_light_thumb.png",
+      "full": "缘分の天空.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰de缘分の天空",
+      "file": "缘分の天空彩底.bdi",
+      "thumb": "缘分の天空彩底.bdi_py_26_light_thumb.png",
+      "full": "缘分の天空彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰de天使兔兔",
+      "file": "天使兔兔彩底.bdi",
+      "thumb": "天使兔兔彩底.bdi_py_26_light_thumb.png",
+      "full": "天使兔兔彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰de天使兔兔",
+      "file": "天使兔兔.bdi",
+      "thumb": "天使兔兔.bdi_py_26_light_thumb.png",
+      "full": "天使兔兔.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰の芭比的衣橱",
+      "file": "芭比的衣橱彩底.bdi",
+      "thumb": "芭比的衣橱彩底.bdi_py_26_light_thumb.png",
+      "full": "芭比的衣橱彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰の芭比的衣橱",
+      "file": "芭比的衣橱.bdi",
+      "thumb": "芭比的衣橱.bdi_py_26_light_thumb.png",
+      "full": "芭比的衣橱.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰de纯白",
+      "file": "纯白彩底.bdi",
+      "thumb": "纯白彩底.bdi_py_26_light_thumb.png",
+      "full": "纯白彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰de纯白",
+      "file": "纯白.bdi",
+      "thumb": "纯白.bdi_py_26_light_thumb.png",
+      "full": "纯白.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰de爱",
+      "file": "爱彩底.bdi",
+      "thumb": "爱彩底.bdi_py_26_light_thumb.png",
+      "full": "爱彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰de爱",
+      "file": "爱.bdi",
+      "thumb": "爱.bdi_py_26_light_thumb.png",
+      "full": "爱.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰de想要飞向天空",
+      "file": "想要飞向天空.bdi",
+      "thumb": "想要飞向天空.bdi_py_26_light_thumb.png",
+      "full": "想要飞向天空.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰de想要飞向天空",
+      "file": "想要飞向天空彩底.bdi",
+      "thumb": "想要飞向天空彩底.bdi_py_26_light_thumb.png",
+      "full": "想要飞向天空彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰de甜吻",
+      "file": "甜吻.bdi",
+      "thumb": "甜吻.bdi_py_26_light_thumb.png",
+      "full": "甜吻.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰de甜吻",
+      "file": "甜吻彩底.bdi",
+      "thumb": "甜吻彩底.bdi_py_26_light_thumb.png",
+      "full": "甜吻彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰de天生萌物",
+      "file": "天生萌物彩底.bdi",
+      "thumb": "天生萌物彩底.bdi_py_26_light_thumb.png",
+      "full": "天生萌物彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰de天生萌物",
+      "file": "天生萌物.bdi",
+      "thumb": "天生萌物.bdi_py_26_light_thumb.png",
+      "full": "天生萌物.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰の气球",
+      "file": "气球.bdi",
+      "thumb": "气球.bdi_py_26_light_thumb.png",
+      "full": "气球.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "请不要这样.bdi",
+      "thumb": "请不要这样.bdi_py_26_light_thumb.png",
+      "full": "请不要这样.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "熊熊兔兔.bdi",
+      "thumb": "熊熊兔兔.bdi_py_26_light_thumb.png",
+      "full": "熊熊兔兔.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰03",
+      "file": "腰腰03.bdi",
+      "thumb": "腰腰03.bdi_py_26_default_thumb.png",
+      "full": "腰腰03.bdi_py_26_default.png"
+    },
+    {
+      "name": "腰腰04",
+      "file": "腰腰04.bdi",
+      "thumb": "腰腰04.bdi_py_26_default_thumb.png",
+      "full": "腰腰04.bdi_py_26_default.png"
+    },
+    {
+      "name": "腰腰de兔兔",
+      "file": "兔兔.bdi",
+      "thumb": "兔兔.bdi_py_26_default_thumb.png",
+      "full": "兔兔.bdi_py_26_default.png"
+    },
+    {
+      "name": "腰腰de兔兔",
+      "file": "兔兔彩底.bdi",
+      "thumb": "兔兔彩底.bdi_py_26_default_thumb.png",
+      "full": "兔兔彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "腰腰de涩涩01",
+      "file": "腰腰de涩涩01.bdi",
+      "thumb": "腰腰de涩涩01.bdi_py_26_default_thumb.png",
+      "full": "腰腰de涩涩01.bdi_py_26_default.png"
+    },
+    {
+      "name": "腰腰de糕糕",
+      "file": "腰腰de糕糕.bdi",
+      "thumb": "腰腰de糕糕.bdi_py_26_light_thumb.png",
+      "full": "腰腰de糕糕.bdi_py_26_light.png"
+    },
+    {
+      "name": "腰腰de窗边的小猫",
+      "file": "窗边的小猫彩底.bdi",
+      "thumb": "窗边的小猫彩底.bdi_py_26_default_thumb.png",
+      "full": "窗边的小猫彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "腰腰de窗边的小猫",
+      "file": "窗边的小猫.bdi",
+      "thumb": "窗边的小猫.bdi_py_26_default_thumb.png",
+      "full": "窗边的小猫.bdi_py_26_default.png"
+    },
+    {
+      "name": "腰腰de涩涩02",
+      "file": "腰腰de涩涩02.bdi",
+      "thumb": "腰腰de涩涩02.bdi_py_26_default_thumb.png",
+      "full": "腰腰de涩涩02.bdi_py_26_default.png"
+    },
+    {
+      "name": "日与月伴你左右",
+      "file": "日与月伴你左右.bdi",
+      "thumb": "日与月伴你左右.bdi_py_26_default_thumb.png",
+      "full": "日与月伴你左右.bdi_py_26_default.png"
+    },
+    {
+      "name": "日与月伴你左右",
+      "file": "日与月伴你左右彩底.bdi",
+      "thumb": "日与月伴你左右彩底.bdi_py_26_default_thumb.png",
+      "full": "日与月伴你左右彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "腰腰de糖果物语",
+      "file": "糖果物语.bdi",
+      "thumb": "糖果物语.bdi_py_26_default_thumb.png",
+      "full": "糖果物语.bdi_py_26_default.png"
+    },
+    {
+      "name": "腰腰de糖果物语",
+      "file": "糖果物语彩底.bdi",
+      "thumb": "糖果物语彩底.bdi_py_26_default_thumb.png",
+      "full": "糖果物语彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "腰腰de糖果物语",
+      "file": "糖果物语脆脆.bdi",
+      "thumb": "糖果物语脆脆.bdi_py_26_default_thumb.png",
+      "full": "糖果物语脆脆.bdi_py_26_default.png"
+    },
+    {
+      "name": "腰腰のWithered Rose Cloister",
+      "file": "WitheredRoseCloister.bdi",
+      "thumb": "WitheredRoseCloister.bdi_py_26_default_thumb.png",
+      "full": "WitheredRoseCloister.bdi_py_26_default.png"
+    },
+    {
+      "name": "腰腰のWithered Rose Cloister",
+      "file": "WitheredRoseCloister彩底.bdi",
+      "thumb": "WitheredRoseCloister彩底.bdi_py_26_default_thumb.png",
+      "full": "WitheredRoseCloister彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "腰腰de吃我一针",
+      "file": "吃我一针.bdi",
+      "thumb": "吃我一针.bdi_py_26_default_thumb.png",
+      "full": "吃我一针.bdi_py_26_default.png"
+    },
+    {
+      "name": "腰腰de吃我一针",
+      "file": "吃我一针彩底.bdi",
+      "thumb": "吃我一针彩底.bdi_py_26_default_thumb.png",
+      "full": "吃我一针彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "腰腰de季会21",
+      "file": "腰腰de季会21彩底.bdi",
+      "thumb": "腰腰de季会21彩底.bdi_py_26_default_thumb.png",
+      "full": "腰腰de季会21彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "腰腰de季会21",
+      "file": "腰腰de季会21.bdi",
+      "thumb": "腰腰de季会21.bdi_py_26_default_thumb.png",
+      "full": "腰腰de季会21.bdi_py_26_default.png"
+    },
+    {
+      "name": "腰腰de季会22",
+      "file": "腰腰de季会22彩底.bdi",
+      "thumb": "腰腰de季会22彩底.bdi_py_26_default_thumb.png",
+      "full": "腰腰de季会22彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "腰腰de季会22",
+      "file": "腰腰de季会22.bdi",
+      "thumb": "腰腰de季会22.bdi_py_26_default_thumb.png",
+      "full": "腰腰de季会22.bdi_py_26_default.png"
+    },
+    {
+      "name": "腰腰de季会23",
+      "file": "腰腰de季会23.bdi",
+      "thumb": "腰腰de季会23.bdi_py_26_default_thumb.png",
+      "full": "腰腰de季会23.bdi_py_26_default.png"
+    },
+    {
+      "name": "腰腰de季会23",
+      "file": "腰腰de季会23彩底.bdi",
+      "thumb": "腰腰de季会23彩底.bdi_py_26_default_thumb.png",
+      "full": "腰腰de季会23彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "电子猫耳娘.bds",
+      "thumb": "电子猫耳娘.bds_py_26_light_thumb.png",
+      "full": "电子猫耳娘.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "电子猫耳娘脆脆彩底.bds",
+      "thumb": "电子猫耳娘脆脆彩底.bds_py_26_light_thumb.png",
+      "full": "电子猫耳娘脆脆彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "电子猫耳娘彩底.bds",
+      "thumb": "电子猫耳娘彩底.bds_py_26_light_thumb.png",
+      "full": "电子猫耳娘彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰の純粋な昼の夢",
+      "file": "純粋な昼の夢彩底.bds",
+      "thumb": "純粋な昼の夢彩底.bds_py_26_light_thumb.png",
+      "full": "純粋な昼の夢彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰の純粋な昼の夢",
+      "file": "純粋な昼の夢.bds",
+      "thumb": "純粋な昼の夢.bds_py_26_light_thumb.png",
+      "full": "純粋な昼の夢.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰のBunnyLoomNest",
+      "file": "BunnyLoomNest彩底.bds",
+      "thumb": "BunnyLoomNest彩底.bds_py_26_light_thumb.png",
+      "full": "BunnyLoomNest彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰のBunnyLoomNest",
+      "file": "BunnyLoomNest.bds",
+      "thumb": "BunnyLoomNest.bds_py_26_light_thumb.png",
+      "full": "BunnyLoomNest.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰の粉樱ボボ兔",
+      "file": "粉樱ホホ兔.bds",
+      "thumb": "粉樱ホホ兔.bds_py_26_light_thumb.png",
+      "full": "粉樱ホホ兔.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰の粉樱ボボ兔",
+      "file": "粉樱ホホ兔彩底.bds",
+      "thumb": "粉樱ホホ兔彩底.bds_py_26_light_thumb.png",
+      "full": "粉樱ホホ兔彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰のTwilight Butterfly Tracks",
+      "file": "TwilightButterflyTracks.bds",
+      "thumb": "TwilightButterflyTracks.bds_py_26_light_thumb.png",
+      "full": "TwilightButterflyTracks.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰のTwilight Butterfly Tracks",
+      "file": "TwilightButterflyTracks彩底.bds",
+      "thumb": "TwilightButterflyTracks彩底.bds_py_26_light_thumb.png",
+      "full": "TwilightButterflyTracks彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰の桜の木の下",
+      "file": "桜の木の下.bds",
+      "thumb": "桜の木の下.bds_py_26_light_thumb.png",
+      "full": "桜の木の下.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰の桜の木の下",
+      "file": "桜の木の下彩底.bds",
+      "thumb": "桜の木の下彩底.bds_py_26_light_thumb.png",
+      "full": "桜の木の下彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰de缘分の天空",
+      "file": "缘分の天空彩底.bds",
+      "thumb": "缘分の天空彩底.bds_py_26_light_thumb.png",
+      "full": "缘分の天空彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰de缘分の天空",
+      "file": "缘分の天空.bds",
+      "thumb": "缘分の天空.bds_py_26_light_thumb.png",
+      "full": "缘分の天空.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰de天使兔兔",
+      "file": "天使兔兔.bds",
+      "thumb": "天使兔兔.bds_py_26_light_thumb.png",
+      "full": "天使兔兔.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰de天使兔兔",
+      "file": "天使兔兔彩底.bds",
+      "thumb": "天使兔兔彩底.bds_py_26_light_thumb.png",
+      "full": "天使兔兔彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰の芭比的衣橱",
+      "file": "芭比的衣橱.bds",
+      "thumb": "芭比的衣橱.bds_py_26_light_thumb.png",
+      "full": "芭比的衣橱.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰の芭比的衣橱",
+      "file": "芭比的衣橱彩底.bds",
+      "thumb": "芭比的衣橱彩底.bds_py_26_light_thumb.png",
+      "full": "芭比的衣橱彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰de纯白",
+      "file": "纯白.bds",
+      "thumb": "纯白.bds_py_26_light_thumb.png",
+      "full": "纯白.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰de纯白",
+      "file": "纯白彩底.bds",
+      "thumb": "纯白彩底.bds_py_26_light_thumb.png",
+      "full": "纯白彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰de爱",
+      "file": "爱.bds",
+      "thumb": "爱.bds_py_26_light_thumb.png",
+      "full": "爱.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰de爱",
+      "file": "爱彩底.bds",
+      "thumb": "爱彩底.bds_py_26_light_thumb.png",
+      "full": "爱彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰de想要飞向天空",
+      "file": "想要飞向天空.bds",
+      "thumb": "想要飞向天空.bds_py_26_light_thumb.png",
+      "full": "想要飞向天空.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰de想要飞向天空",
+      "file": "想要飞向天空彩底.bds",
+      "thumb": "想要飞向天空彩底.bds_py_26_light_thumb.png",
+      "full": "想要飞向天空彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰de甜吻",
+      "file": "甜吻彩底.bds",
+      "thumb": "甜吻彩底.bds_py_26_light_thumb.png",
+      "full": "甜吻彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰de甜吻",
+      "file": "甜吻.bds",
+      "thumb": "甜吻.bds_py_26_light_thumb.png",
+      "full": "甜吻.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰de天生萌物",
+      "file": "天生萌物彩底.bds",
+      "thumb": "天生萌物彩底.bds_py_26_light_thumb.png",
+      "full": "天生萌物彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰de天生萌物",
+      "file": "天生萌物.bds",
+      "thumb": "天生萌物.bds_py_26_light_thumb.png",
+      "full": "天生萌物.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰の气球",
+      "file": "气球.bds",
+      "thumb": "气球.bds_py_26_light_thumb.png",
+      "full": "气球.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰の请不要这样",
+      "file": "请不要这样.bds",
+      "thumb": "请不要这样.bds_py_26_light_thumb.png",
+      "full": "请不要这样.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰の熊熊兔兔",
+      "file": "熊熊兔兔.bds",
+      "thumb": "熊熊兔兔.bds_py_26_light_thumb.png",
+      "full": "熊熊兔兔.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰03",
+      "file": "腰腰03.bds",
+      "thumb": "腰腰03.bds_py_26_default_thumb.png",
+      "full": "腰腰03.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰04",
+      "file": "腰腰04.bds",
+      "thumb": "腰腰04.bds_py_26_default_thumb.png",
+      "full": "腰腰04.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰de兔兔",
+      "file": "兔兔.bds",
+      "thumb": "兔兔.bds_py_26_default_thumb.png",
+      "full": "兔兔.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰de兔兔",
+      "file": "兔兔彩底.bds",
+      "thumb": "兔兔彩底.bds_py_26_default_thumb.png",
+      "full": "兔兔彩底.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰de涩涩01",
+      "file": "腰腰de涩涩01.bds",
+      "thumb": "腰腰de涩涩01.bds_py_26_default_thumb.png",
+      "full": "腰腰de涩涩01.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰de糕糕",
+      "file": "腰腰de糕糕.bds",
+      "thumb": "腰腰de糕糕.bds_py_26_light_thumb.png",
+      "full": "腰腰de糕糕.bds_py_26_light.png"
+    },
+    {
+      "name": "腰腰de窗边的小猫",
+      "file": "窗边的小猫彩底.bds",
+      "thumb": "窗边的小猫彩底.bds_py_26_default_thumb.png",
+      "full": "窗边的小猫彩底.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰de窗边的小猫",
+      "file": "窗边的小猫.bds",
+      "thumb": "窗边的小猫.bds_py_26_default_thumb.png",
+      "full": "窗边的小猫.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰de涩涩02",
+      "file": "腰腰de涩涩02.bds",
+      "thumb": "腰腰de涩涩02.bds_py_26_default_thumb.png",
+      "full": "腰腰de涩涩02.bds_py_26_default.png"
+    },
+    {
+      "name": "日与月伴你左右",
+      "file": "日与月伴你左右彩底.bds",
+      "thumb": "日与月伴你左右彩底.bds_py_26_default_thumb.png",
+      "full": "日与月伴你左右彩底.bds_py_26_default.png"
+    },
+    {
+      "name": "日与月伴你左右",
+      "file": "日与月伴你左右.bds",
+      "thumb": "日与月伴你左右.bds_py_26_default_thumb.png",
+      "full": "日与月伴你左右.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰de糖果物语",
+      "file": "糖果物语彩底.bds",
+      "thumb": "糖果物语彩底.bds_py_26_default_thumb.png",
+      "full": "糖果物语彩底.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰de糖果物语",
+      "file": "糖果物语.bds",
+      "thumb": "糖果物语.bds_py_26_default_thumb.png",
+      "full": "糖果物语.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰de糖果物语",
+      "file": "糖果物语脆脆.bds",
+      "thumb": "糖果物语脆脆.bds_py_26_default_thumb.png",
+      "full": "糖果物语脆脆.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰のWithered Rose Cloister",
+      "file": "WitheredRoseCloister.bds",
+      "thumb": "WitheredRoseCloister.bds_py_26_default_thumb.png",
+      "full": "WitheredRoseCloister.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰のWithered Rose Cloister",
+      "file": "WitheredRoseCloister彩底.bds",
+      "thumb": "WitheredRoseCloister彩底.bds_py_26_default_thumb.png",
+      "full": "WitheredRoseCloister彩底.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰de吃我一针",
+      "file": "吃我一针.bds",
+      "thumb": "吃我一针.bds_py_26_default_thumb.png",
+      "full": "吃我一针.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰de吃我一针",
+      "file": "吃我一针彩底.bds",
+      "thumb": "吃我一针彩底.bds_py_26_default_thumb.png",
+      "full": "吃我一针彩底.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰de季会21",
+      "file": "腰腰de季会21.bds",
+      "thumb": "腰腰de季会21.bds_py_26_default_thumb.png",
+      "full": "腰腰de季会21.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰de季会21",
+      "file": "腰腰de季会21彩底.bds",
+      "thumb": "腰腰de季会21彩底.bds_py_26_default_thumb.png",
+      "full": "腰腰de季会21彩底.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰de季会22",
+      "file": "腰腰de季会22彩底.bds",
+      "thumb": "腰腰de季会22彩底.bds_py_26_default_thumb.png",
+      "full": "腰腰de季会22彩底.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰de季会22",
+      "file": "腰腰de季会22.bds",
+      "thumb": "腰腰de季会22.bds_py_26_default_thumb.png",
+      "full": "腰腰de季会22.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰de季会23",
+      "file": "腰腰de季会23彩底.bds",
+      "thumb": "腰腰de季会23彩底.bds_py_26_default_thumb.png",
+      "full": "腰腰de季会23彩底.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰de季会23",
+      "file": "腰腰de季会23.bds",
+      "thumb": "腰腰de季会23.bds_py_26_default_thumb.png",
+      "full": "腰腰de季会23.bds_py_26_default.png"
+    }
+  ]
+}

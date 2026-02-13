@@ -1,0 +1,43 @@
+{
+  "qq_number": "1450749266",
+  "group_number": "1076409263",
+  "updated_at": "2026-02-13T23:42:30.230155",
+  "skins": [
+    {
+      "name": "腰腰de兔兔萌",
+      "file": "腰腰de兔兔萌.bds",
+      "thumb": "腰腰de兔兔萌.bds_py_26_default_thumb.png",
+      "full": "腰腰de兔兔萌.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰de兔兔萌（英）",
+      "file": "腰腰de兔兔萌英.bds",
+      "thumb": "腰腰de兔兔萌英.bds_py_26_default_thumb.png",
+      "full": "腰腰de兔兔萌英.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰de香芋兔",
+      "file": "腰腰de香芋兔.bds",
+      "thumb": "腰腰de香芋兔.bds_py_26_default_thumb.png",
+      "full": "腰腰de香芋兔.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰de香芋兔（音效2）",
+      "file": "腰腰de香芋兔音效2.bds",
+      "thumb": "腰腰de香芋兔音效2.bds_py_26_default_thumb.png",
+      "full": "腰腰de香芋兔音效2.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰de小鹿软糖",
+      "file": "腰腰de小鹿软糖.bds",
+      "thumb": "腰腰de小鹿软糖.bds_py_26_default_thumb.png",
+      "full": "腰腰de小鹿软糖.bds_py_26_default.png"
+    },
+    {
+      "name": "腰腰de小鹿软糖",
+      "file": "腰腰de小鹿软糖音效2.bds",
+      "thumb": "腰腰de小鹿软糖音效2.bds_py_26_default_thumb.png",
+      "full": "腰腰de小鹿软糖音效2.bds_py_26_default.png"
+    }
+  ]
+}
