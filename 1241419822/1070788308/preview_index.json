@@ -1,0 +1,43 @@
+{
+  "qq_number": "1241419822",
+  "group_number": "1070788308",
+  "updated_at": "2026-02-13T23:42:02.327780",
+  "skins": [
+    {
+      "name": "亦茹の赤焰九尾",
+      "file": "亦茹の赤焰九尾.bdi",
+      "thumb": "亦茹の赤焰九尾.bdi_py_26_default_thumb.png",
+      "full": "亦茹の赤焰九尾.bdi_py_26_default.png"
+    },
+    {
+      "name": "亦茹の爱心美乐蒂",
+      "file": "亦茹の爱心美乐蒂.bdi",
+      "thumb": "亦茹の爱心美乐蒂.bdi_py_26_light_thumb.png",
+      "full": "亦茹の爱心美乐蒂.bdi_py_26_light.png"
+    },
+    {
+      "name": "亦茹の库洛米之心",
+      "file": "亦茹の库洛米之心.bdi",
+      "thumb": "亦茹の库洛米之心.bdi_py_26_light_thumb.png",
+      "full": "亦茹の库洛米之心.bdi_py_26_light.png"
+    },
+    {
+      "name": "亦茹の赤焰九尾",
+      "file": "亦茹の赤焰九尾.bds",
+      "thumb": "亦茹の赤焰九尾.bds_py_26_default_thumb.png",
+      "full": "亦茹の赤焰九尾.bds_py_26_default.png"
+    },
+    {
+      "name": "爱心美乐蒂",
+      "file": "亦茹の爱心美乐蒂.bds",
+      "thumb": "亦茹の爱心美乐蒂.bds_py_26_light_thumb.png",
+      "full": "亦茹の爱心美乐蒂.bds_py_26_light.png"
+    },
+    {
+      "name": "亦茹の库洛米之心",
+      "file": "亦茹の库洛米之心.bds",
+      "thumb": "亦茹の库洛米之心.bds_py_26_light_thumb.png",
+      "full": "亦茹の库洛米之心.bds_py_26_light.png"
+    }
+  ]
+}

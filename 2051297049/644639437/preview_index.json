@@ -1,0 +1,19 @@
+{
+  "qq_number": "2051297049",
+  "group_number": "644639437",
+  "updated_at": "2026-02-13T23:42:09.884367",
+  "skins": [
+    {
+      "name": "矫饰与温软",
+      "file": "貘-矫饰与温软.bdi",
+      "thumb": "貘-矫饰与温软.bdi_py_26_light_thumb.png",
+      "full": "貘-矫饰与温软.bdi_py_26_light.png"
+    },
+    {
+      "name": "矫饰与温软",
+      "file": "貘-矫饰与温软.bds",
+      "thumb": "貘-矫饰与温软.bds_py_26_light_thumb.png",
+      "full": "貘-矫饰与温软.bds_py_26_light.png"
+    }
+  ]
+}
