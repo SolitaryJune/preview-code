@@ -1,0 +1,127 @@
+{
+  "qq_number": "844762512",
+  "group_number": "1026147353",
+  "updated_at": "2026-02-13T23:42:15.866423",
+  "skins": [
+    {
+      "name": "掉落兔",
+      "file": "Nie_掉落兔.bdi",
+      "thumb": "Nie_掉落兔.bdi_py_26_light_thumb.png",
+      "full": "Nie_掉落兔.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "介似芥末兔.bdi",
+      "thumb": "介似芥末兔.bdi_py_26_light_thumb.png",
+      "full": "介似芥末兔.bdi_py_26_light.png"
+    },
+    {
+      "name": "Milktwins",
+      "file": "Nie-Milktwins非盲打.bdi",
+      "thumb": "Nie-Milktwins非盲打.bdi_py_26_light_thumb.png",
+      "full": "Nie-Milktwins非盲打.bdi_py_26_light.png"
+    },
+    {
+      "name": "Milktwins",
+      "file": "Nie-milketwins盲打.bdi",
+      "thumb": "Nie-milketwins盲打.bdi_py_26_light_thumb.png",
+      "full": "Nie-milketwins盲打.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "天使游戏机脆脆.bdi",
+      "thumb": "天使游戏机脆脆.bdi_py_26_light_thumb.png",
+      "full": "天使游戏机脆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "天使游戏机闷闷.bdi",
+      "thumb": "天使游戏机闷闷.bdi_py_26_light_thumb.png",
+      "full": "天使游戏机闷闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "lovebunny",
+      "file": "Nie-lovebunny.bdi",
+      "thumb": "Nie-lovebunny.bdi_py_26_light_thumb.png",
+      "full": "Nie-lovebunny.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "Nie萌え萌え萌え脆脆.bdi",
+      "thumb": "Nie萌え萌え萌え脆脆.bdi_py_26_light_thumb.png",
+      "full": "Nie萌え萌え萌え脆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "Nie萌え萌え萌え闷闷.bdi",
+      "thumb": "Nie萌え萌え萌え闷闷.bdi_py_26_light_thumb.png",
+      "full": "Nie萌え萌え萌え闷闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "冬の季節非盲打.bdi",
+      "thumb": "冬の季節非盲打.bdi_py_26_light_thumb.png",
+      "full": "冬の季節非盲打.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "冬の季節盲打.bdi",
+      "thumb": "冬の季節盲打.bdi_py_26_light_thumb.png",
+      "full": "冬の季節盲打.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Nie_掉落兔.bds",
+      "thumb": "Nie_掉落兔.bds_py_26_light_thumb.png",
+      "full": "Nie_掉落兔.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Nielovebunny.bds",
+      "thumb": "Nielovebunny.bds_py_26_light_thumb.png",
+      "full": "Nielovebunny.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Nie萌え萌え萌え闷闷.bds",
+      "thumb": "Nie萌え萌え萌え闷闷.bds_py_26_light_thumb.png",
+      "full": "Nie萌え萌え萌え闷闷.bds_py_26_light.png"
+    },
+    {
+      "name": "萌え萌え萌え",
+      "file": "Nie萌え萌え萌え脆脆.bds",
+      "thumb": "Nie萌え萌え萌え脆脆.bds_py_26_light_thumb.png",
+      "full": "Nie萌え萌え萌え脆脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "介似芥末兔.bds",
+      "thumb": "介似芥末兔.bds_py_26_light_thumb.png",
+      "full": "介似芥末兔.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Nie-Milktwins非盲打.bds",
+      "thumb": "Nie-Milktwins非盲打.bds_py_26_light_thumb.png",
+      "full": "Nie-Milktwins非盲打.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Nie-Milktwins盲打.bds",
+      "thumb": "Nie-Milktwins盲打.bds_py_26_light_thumb.png",
+      "full": "Nie-Milktwins盲打.bds_py_26_light.png"
+    },
+    {
+      "name": "冬の季節非盲打",
+      "file": "冬の季節非盲打.bds",
+      "thumb": "冬の季節非盲打.bds_py_26_light_thumb.png",
+      "full": "冬の季節非盲打.bds_py_26_light.png"
+    },
+    {
+      "name": "冬の季節",
+      "file": "冬の季節盲打.bds",
+      "thumb": "冬の季節盲打.bds_py_26_light_thumb.png",
+      "full": "冬の季節盲打.bds_py_26_light.png"
+    }
+  ]
+}

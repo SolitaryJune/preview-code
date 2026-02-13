@@ -1,0 +1,55 @@
+{
+  "qq_number": "2757564341",
+  "group_number": "1082658999",
+  "updated_at": "2026-02-13T23:42:32.970313",
+  "skins": [
+    {
+      "name": "来杯奶油热可可",
+      "file": "来杯奶油热可可.bdi",
+      "thumb": "来杯奶油热可可.bdi_py_26_light_thumb.png",
+      "full": "来杯奶油热可可.bdi_py_26_light.png"
+    },
+    {
+      "name": "来杯奶油热可可",
+      "file": "来杯奶油热可可闷.bdi",
+      "thumb": "来杯奶油热可可闷.bdi_py_26_light_thumb.png",
+      "full": "来杯奶油热可可闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "file": "SweetStrawberry.bdi",
+      "thumb": "SweetStrawberry.bdi_py_26_light_thumb.png",
+      "full": "SweetStrawberry.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Secretlove.bdi",
+      "thumb": "Secretlove.bdi_py_26_light_thumb.png",
+      "full": "Secretlove.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "来杯奶油热可可.bds",
+      "thumb": "来杯奶油热可可.bds_py_26_light_thumb.png",
+      "full": "来杯奶油热可可.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "来杯奶油热可可闷.bds",
+      "thumb": "来杯奶油热可可闷.bds_py_26_light_thumb.png",
+      "full": "来杯奶油热可可闷.bds_py_26_light.png"
+    },
+    {
+      "name": "Sweet Strawberry",
+      "file": "SweetStrawberry.bds",
+      "thumb": "SweetStrawberry.bds_py_26_light_thumb.png",
+      "full": "SweetStrawberry.bds_py_26_light.png"
+    },
+    {
+      "name": "Secret love",
+      "file": "Secretlove.bds",
+      "thumb": "Secretlove.bds_py_26_light_thumb.png",
+      "full": "Secretlove.bds_py_26_light.png"
+    }
+  ]
+}

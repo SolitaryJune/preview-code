@@ -1,0 +1,49 @@
+{
+  "qq_number": "2372482063",
+  "group_number": "580257119",
+  "updated_at": "2026-02-13T23:42:13.954118",
+  "skins": [
+    {
+      "name": "瓜",
+      "file": "33.bdi",
+      "thumb": "33.bdi_py_26_light_thumb.png",
+      "full": "33.bdi_py_26_light.png"
+    },
+    {
+      "name": "瓜子",
+      "file": "我把這些對你說.bdi",
+      "thumb": "我把這些對你說.bdi_py_26_light_thumb.png",
+      "full": "我把這些對你說.bdi_py_26_light.png"
+    },
+    {
+      "name": "瓜",
+      "file": "你臉紅剩馍.bdi",
+      "thumb": "你臉紅剩馍.bdi_py_26_light_thumb.png",
+      "full": "你臉紅剩馍.bdi_py_26_light.png"
+    },
+    {
+      "name": "瓜子",
+      "file": "植物を食へる.bdi",
+      "thumb": "植物を食へる.bdi_py_26_light_thumb.png",
+      "full": "植物を食へる.bdi_py_26_light.png"
+    },
+    {
+      "name": "瓜子",
+      "file": "海狗go.bdi",
+      "thumb": "海狗go.bdi_py_26_light_thumb.png",
+      "full": "海狗go.bdi_py_26_light.png"
+    },
+    {
+      "name": "瓜子",
+      "file": "海狗闷go.bdi",
+      "thumb": "海狗闷go.bdi_py_26_light_thumb.png",
+      "full": "海狗闷go.bdi_py_26_light.png"
+    },
+    {
+      "name": "瓜子",
+      "file": "txt.bdi",
+      "thumb": "txt.bdi_py_26_light_thumb.png",
+      "full": "txt.bdi_py_26_light.png"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "qq_number": "3278475102",
+  "group_number": "1070582614",
+  "updated_at": "2026-02-13T23:42:18.002478",
+  "skins": [
+    {
+      "name": "灰色主义",
+      "file": "灰色主义彩底.bdi",
+      "thumb": "灰色主义彩底.bdi_py_26_light_thumb.png",
+      "full": "灰色主义彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "灰色主义",
+      "file": "灰色主义.bdi",
+      "thumb": "灰色主义.bdi_py_26_light_thumb.png",
+      "full": "灰色主义.bdi_py_26_light.png"
+    },
+    {
+      "name": "喵大王驾到",
+      "file": "喵大王驾到.bdi",
+      "thumb": "喵大王驾到.bdi_py_26_light_thumb.png",
+      "full": "喵大王驾到.bdi_py_26_light.png"
+    },
+    {
+      "name": "喵大王驾到",
+      "file": "喵大王驾到彩底.bdi",
+      "thumb": "喵大王驾到彩底.bdi_py_26_light_thumb.png",
+      "full": "喵大王驾到彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "心绪日记",
+      "file": "心绪日记融合.bdi",
+      "thumb": "心绪日记融合.bdi_py_26_light_thumb.png",
+      "full": "心绪日记融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "心绪日记",
+      "file": "心绪日记彩底.bdi",
+      "thumb": "心绪日记彩底.bdi_py_26_light_thumb.png",
+      "full": "心绪日记彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "매실酒♥",
+      "file": "梅子酒融合.bdi",
+      "thumb": "梅子酒融合.bdi_py_26_light_thumb.png",
+      "full": "梅子酒融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "매실酒♥",
+      "file": "梅子酒彩底.bdi",
+      "thumb": "梅子酒彩底.bdi_py_26_light_thumb.png",
+      "full": "梅子酒彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "매실酒♥",
+      "file": "梅子酒韩文融合.bdi",
+      "thumb": "梅子酒韩文融合.bdi_py_26_light_thumb.png",
+      "full": "梅子酒韩文融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "매실酒♥",
+      "file": "梅子酒韩文彩底.bdi",
+      "thumb": "梅子酒韩文彩底.bdi_py_26_light_thumb.png",
+      "full": "梅子酒韩文彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "片刻时差",
+      "file": "片刻时差彩底.bdi",
+      "thumb": "片刻时差彩底.bdi_py_26_light_thumb.png",
+      "full": "片刻时差彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "片刻时差",
+      "file": "片刻时差融合.bdi",
+      "thumb": "片刻时差融合.bdi_py_26_light_thumb.png",
+      "full": "片刻时差融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "灰色主义融合",
+      "file": "灰色主义融合.bds",
+      "thumb": "灰色主义融合.bds_py_26_light_thumb.png",
+      "full": "灰色主义融合.bds_py_26_light.png"
+    },
+    {
+      "name": "灰色主义彩底",
+      "file": "灰色主义彩底.bds",
+      "thumb": "灰色主义彩底.bds_py_26_light_thumb.png",
+      "full": "灰色主义彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "喵大王驾到融合底",
+      "file": "喵大王驾到.bds",
+      "thumb": "喵大王驾到.bds_py_26_light_thumb.png",
+      "full": "喵大王驾到.bds_py_26_light.png"
+    },
+    {
+      "name": "喵大王驾到彩底",
+      "file": "喵大王驾到彩底.bds",
+      "thumb": "喵大王驾到彩底.bds_py_26_light_thumb.png",
+      "full": "喵大王驾到彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "心绪日记",
+      "file": "心绪日记彩底.bds",
+      "thumb": "心绪日记彩底.bds_py_26_light_thumb.png",
+      "full": "心绪日记彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "心绪日记",
+      "file": "心绪日记融合.bds",
+      "thumb": "心绪日记融合.bds_py_26_light_thumb.png",
+      "full": "心绪日记融合.bds_py_26_light.png"
+    },
+    {
+      "name": "매실酒♥",
+      "file": "梅子酒融合.bds",
+      "thumb": "梅子酒融合.bds_py_26_light_thumb.png",
+      "full": "梅子酒融合.bds_py_26_light.png"
+    },
+    {
+      "name": "매실酒♥",
+      "file": "梅子酒彩底.bds",
+      "thumb": "梅子酒彩底.bds_py_26_light_thumb.png",
+      "full": "梅子酒彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "매실酒♥",
+      "file": "梅子酒韩文融合.bds",
+      "thumb": "梅子酒韩文融合.bds_py_26_light_thumb.png",
+      "full": "梅子酒韩文融合.bds_py_26_light.png"
+    },
+    {
+      "name": "매실酒♥",
+      "file": "梅子酒韩文彩底.bds",
+      "thumb": "梅子酒韩文彩底.bds_py_26_light_thumb.png",
+      "full": "梅子酒韩文彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "片刻时差",
+      "file": "片刻时差彩底.bds",
+      "thumb": "片刻时差彩底.bds_py_26_light_thumb.png",
+      "full": "片刻时差彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "片刻时差",
+      "file": "片刻时差融合.bds",
+      "thumb": "片刻时差融合.bds_py_26_light_thumb.png",
+      "full": "片刻时差融合.bds_py_26_light.png"
+    }
+  ]
+}

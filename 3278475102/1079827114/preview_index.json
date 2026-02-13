@@ -1,0 +1,31 @@
+{
+  "qq_number": "3278475102",
+  "group_number": "1079827114",
+  "updated_at": "2026-02-13T23:42:32.422174",
+  "skins": [
+    {
+      "name": "四葉草",
+      "file": "四葉草.bdi",
+      "thumb": "四葉草.bdi_py_26_light_thumb.png",
+      "full": "四葉草.bdi_py_26_light.png"
+    },
+    {
+      "name": "四葉草",
+      "file": "四葉草彩底.bdi",
+      "thumb": "四葉草彩底.bdi_py_26_light_thumb.png",
+      "full": "四葉草彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "四葉草",
+      "file": "四葉草.bds",
+      "thumb": "四葉草.bds_py_26_light_thumb.png",
+      "full": "四葉草.bds_py_26_light.png"
+    },
+    {
+      "name": "四葉草",
+      "file": "四葉草彩底.bds",
+      "thumb": "四葉草彩底.bds_py_26_light_thumb.png",
+      "full": "四葉草彩底.bds_py_26_light.png"
+    }
+  ]
+}

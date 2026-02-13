@@ -1,0 +1,31 @@
+{
+  "qq_number": "362286062",
+  "group_number": "813745484",
+  "updated_at": "2026-02-13T23:42:32.656909",
+  "skins": [
+    {
+      "name": "乐妍底包",
+      "file": "保底2彩底.bdi",
+      "thumb": "保底2彩底.bdi_py_26_light_thumb.png",
+      "full": "保底2彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "保底2融合.bdi",
+      "thumb": "保底2融合.bdi_py_26_light_thumb.png",
+      "full": "保底2融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "杳杳［保底2］彩底QQ362286062二传替我挡灾",
+      "file": "保底2彩底.bds",
+      "thumb": "保底2彩底.bds_py_26_light_thumb.png",
+      "full": "保底2彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "杳杳［保底2］融合QQ362286062二传替我挡灾",
+      "file": "保底2融合.bds",
+      "thumb": "保底2融合.bds_py_26_light_thumb.png",
+      "full": "保底2融合.bds_py_26_light.png"
+    }
+  ]
+}
