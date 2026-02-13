@@ -1,0 +1,31 @@
+{
+  "qq_number": "2801958920",
+  "group_number": "1080332688",
+  "updated_at": "2026-02-13T23:42:19.176269",
+  "skins": [
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "水の彼岸纱影脆.bdi",
+      "thumb": "水の彼岸纱影脆.bdi_py_26_light_thumb.png",
+      "full": "水の彼岸纱影脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "水の彼岸纱影.bdi",
+      "thumb": "水の彼岸纱影.bdi_py_26_light_thumb.png",
+      "full": "水の彼岸纱影.bdi_py_26_light.png"
+    },
+    {
+      "name": "水の彼岸纱影",
+      "file": "水の彼岸纱影彩底脆.bds",
+      "thumb": "水の彼岸纱影彩底脆.bds_py_26_light_thumb.png",
+      "full": "水の彼岸纱影彩底脆.bds_py_26_light.png"
+    },
+    {
+      "name": "水の彼岸纱影",
+      "file": "水の彼岸纱影彩底.bds",
+      "thumb": "水の彼岸纱影彩底.bds_py_26_light_thumb.png",
+      "full": "水の彼岸纱影彩底.bds_py_26_light.png"
+    }
+  ]
+}

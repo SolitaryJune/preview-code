@@ -1,0 +1,31 @@
+{
+  "qq_number": "2801958920",
+  "group_number": "1080332725",
+  "updated_at": "2026-02-13T23:42:19.157387",
+  "skins": [
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "水の糖霜少女闷.bdi",
+      "thumb": "水の糖霜少女闷.bdi_py_26_light_thumb.png",
+      "full": "水の糖霜少女闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "水の糖霜少女.bdi",
+      "thumb": "水の糖霜少女.bdi_py_26_light_thumb.png",
+      "full": "水の糖霜少女.bdi_py_26_light.png"
+    },
+    {
+      "name": "水の糖霜少女",
+      "file": "水の糖霜少女彩底闷.bds",
+      "thumb": "水の糖霜少女彩底闷.bds_py_26_light_thumb.png",
+      "full": "水の糖霜少女彩底闷.bds_py_26_light.png"
+    },
+    {
+      "name": "水の糖霜少女",
+      "file": "水の糖霜少女彩底.bds",
+      "thumb": "水の糖霜少女彩底.bds_py_26_light_thumb.png",
+      "full": "水の糖霜少女彩底.bds_py_26_light.png"
+    }
+  ]
+}

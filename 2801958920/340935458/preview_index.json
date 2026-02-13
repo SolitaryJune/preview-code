@@ -1,0 +1,31 @@
+{
+  "qq_number": "2801958920",
+  "group_number": "340935458",
+  "updated_at": "2026-02-13T23:42:58.573628",
+  "skins": [
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "水の新年小祈愿脆.bdi",
+      "thumb": "水の新年小祈愿脆.bdi_py_26_light_thumb.png",
+      "full": "水の新年小祈愿脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "水の新年小祈愿.bdi",
+      "thumb": "水の新年小祈愿.bdi_py_26_light_thumb.png",
+      "full": "水の新年小祈愿.bdi_py_26_light.png"
+    },
+    {
+      "name": "水の新年小祈愿",
+      "file": "水の新年小祈愿彩底.bds",
+      "thumb": "水の新年小祈愿彩底.bds_py_26_light_thumb.png",
+      "full": "水の新年小祈愿彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "水の新年小祈愿",
+      "file": "水の新年小祈愿彩底脆.bds",
+      "thumb": "水の新年小祈愿彩底脆.bds_py_26_light_thumb.png",
+      "full": "水の新年小祈愿彩底脆.bds_py_26_light.png"
+    }
+  ]
+}
