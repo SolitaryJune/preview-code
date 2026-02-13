@@ -1,0 +1,403 @@
+{
+  "qq_number": "1909392697",
+  "group_number": "567850231",
+  "updated_at": "2026-02-13T23:42:04.076702",
+  "skins": [
+    {
+      "name": "晴の熊熊饱",
+      "file": "晴の熊熊饱.bdi",
+      "thumb": "晴の熊熊饱.bdi_py_26_default_thumb.png",
+      "full": "晴の熊熊饱.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の果糖莓莓",
+      "file": "晴の果糖莓莓.bdi",
+      "thumb": "晴の果糖莓莓.bdi_py_26_default_thumb.png",
+      "full": "晴の果糖莓莓.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の兔兔草莓酱",
+      "file": "晴の兔兔草莓酱.bdi",
+      "thumb": "晴の兔兔草莓酱.bdi_py_26_default_thumb.png",
+      "full": "晴の兔兔草莓酱.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の奶瓶莓爪",
+      "file": "晴の奶瓶莓爪.bdi",
+      "thumb": "晴の奶瓶莓爪.bdi_py_26_default_thumb.png",
+      "full": "晴の奶瓶莓爪.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の咩咩羊",
+      "file": "晴の咩咩羊.bdi",
+      "thumb": "晴の咩咩羊.bdi_py_26_default_thumb.png",
+      "full": "晴の咩咩羊.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の莓莓兔",
+      "file": "晴の莓莓兔.bdi",
+      "thumb": "晴の莓莓兔.bdi_py_26_default_thumb.png",
+      "full": "晴の莓莓兔.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の草莓派",
+      "file": "晴の蛋糕派.bdi",
+      "thumb": "晴の蛋糕派.bdi_py_26_default_thumb.png",
+      "full": "晴の蛋糕派.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の西瓜兔",
+      "file": "晴の西瓜兔.bdi",
+      "thumb": "晴の西瓜兔.bdi_py_26_default_thumb.png",
+      "full": "晴の西瓜兔.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の女孩喵",
+      "file": "晴の女孩喵.bdi",
+      "thumb": "晴の女孩喵.bdi_py_26_default_thumb.png",
+      "full": "晴の女孩喵.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の猫爪爪",
+      "file": "晴の猫爪爪.bdi",
+      "thumb": "晴の猫爪爪.bdi_py_26_default_thumb.png",
+      "full": "晴の猫爪爪.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の凯蒂猫",
+      "file": "晴の凯蒂猫.bdi",
+      "thumb": "晴の凯蒂猫.bdi_py_26_default_thumb.png",
+      "full": "晴の凯蒂猫.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の糕糕狗",
+      "file": "晴の糕糕狗.bdi",
+      "thumb": "晴の糕糕狗.bdi_py_26_default_thumb.png",
+      "full": "晴の糕糕狗.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の医疗喵",
+      "file": "晴の医疗喵.bdi",
+      "thumb": "晴の医疗喵.bdi_py_26_default_thumb.png",
+      "full": "晴の医疗喵.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の奶瓶草莓",
+      "file": "晴の奶瓶草莓.bdi",
+      "thumb": "晴の奶瓶草莓.bdi_py_26_default_thumb.png",
+      "full": "晴の奶瓶草莓.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の草莓派派喵",
+      "file": "晴の草莓派派喵.bdi",
+      "thumb": "晴の草莓派派喵.bdi_py_26_default_thumb.png",
+      "full": "晴の草莓派派喵.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の喵喵喵",
+      "file": "晴の喵喵喵.bdi",
+      "thumb": "晴の喵喵喵.bdi_py_26_default_thumb.png",
+      "full": "晴の喵喵喵.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の奶瓶兔兔狗",
+      "file": "晴の奶瓶兔兔狗.bdi",
+      "thumb": "晴の奶瓶兔兔狗.bdi_py_26_default_thumb.png",
+      "full": "晴の奶瓶兔兔狗.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の兔兔车",
+      "file": "晴の兔兔车.bdi",
+      "thumb": "晴の兔兔车.bdi_py_26_default_thumb.png",
+      "full": "晴の兔兔车.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の牛奶盒子",
+      "file": "晴の牛奶盒子.bdi",
+      "thumb": "晴の牛奶盒子.bdi_py_26_default_thumb.png",
+      "full": "晴の牛奶盒子.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の喵喵卷",
+      "file": "晴の喵喵卷.bdi",
+      "thumb": "晴の喵喵卷.bdi_py_26_default_thumb.png",
+      "full": "晴の喵喵卷.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の小蓝物",
+      "file": "晴の小蓝物.bdi",
+      "thumb": "晴の小蓝物.bdi_py_26_default_thumb.png",
+      "full": "晴の小蓝物.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の晶晶兔兔",
+      "file": "晴-晶晶兔兔.bdi",
+      "thumb": "晴-晶晶兔兔.bdi_py_26_default_thumb.png",
+      "full": "晴-晶晶兔兔.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の兔丸莓莓",
+      "file": "晴の兔丸莓莓.bdi",
+      "thumb": "晴の兔丸莓莓.bdi_py_26_default_thumb.png",
+      "full": "晴の兔丸莓莓.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の喵爪味熊",
+      "file": "晴の喵爪味熊.bdi",
+      "thumb": "晴の喵爪味熊.bdi_py_26_default_thumb.png",
+      "full": "晴の喵爪味熊.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の糖果杯具",
+      "file": "晴の糖果杯具.bdi",
+      "thumb": "晴の糖果杯具.bdi_py_26_default_thumb.png",
+      "full": "晴の糖果杯具.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の熊爪米酱",
+      "file": "晴の熊爪米酱.bdi",
+      "thumb": "晴の熊爪米酱.bdi_py_26_default_thumb.png",
+      "full": "晴の熊爪米酱.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴-喵喵凯蒂",
+      "file": "晴-喵喵凯蒂1.bdi",
+      "thumb": "晴-喵喵凯蒂1.bdi_py_26_default_thumb.png",
+      "full": "晴-喵喵凯蒂1.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の轻松熊",
+      "file": "晴-轻松熊1.bdi",
+      "thumb": "晴-轻松熊1.bdi_py_26_default_thumb.png",
+      "full": "晴-轻松熊1.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴-兔兔熊",
+      "file": "晴-兔兔熊1.bdi",
+      "thumb": "晴-兔兔熊1.bdi_py_26_default_thumb.png",
+      "full": "晴-兔兔熊1.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴-心心熊猫",
+      "file": "晴-心心熊猫1.bdi",
+      "thumb": "晴-心心熊猫1.bdi_py_26_default_thumb.png",
+      "full": "晴-心心熊猫1.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴-奶瓶糕糕",
+      "file": "晴-奶瓶糕糕1.bdi",
+      "thumb": "晴-奶瓶糕糕1.bdi_py_26_default_thumb.png",
+      "full": "晴-奶瓶糕糕1.bdi_py_26_default.png"
+    },
+    {
+      "name": "蝴蝶结熊熊",
+      "file": "晴-蝴蝶结熊熊1.bdi",
+      "thumb": "晴-蝴蝶结熊熊1.bdi_py_26_default_thumb.png",
+      "full": "晴-蝴蝶结熊熊1.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼板萌",
+      "file": "鱼板萌.bdi",
+      "thumb": "鱼板萌.bdi_py_26_default_thumb.png",
+      "full": "鱼板萌.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の莓莓兔",
+      "file": "晴の莓莓兔.bds",
+      "thumb": "晴の莓莓兔.bds_py_26_default_thumb.png",
+      "full": "晴の莓莓兔.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の奶瓶莓爪",
+      "file": "晴の奶瓶莓爪.bds",
+      "thumb": "晴の奶瓶莓爪.bds_py_26_default_thumb.png",
+      "full": "晴の奶瓶莓爪.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の熊熊饱",
+      "file": "晴の熊熊饱.bds",
+      "thumb": "晴の熊熊饱.bds_py_26_default_thumb.png",
+      "full": "晴の熊熊饱.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の果糖莓莓",
+      "file": "晴の果糖莓莓.bds",
+      "thumb": "晴の果糖莓莓.bds_py_26_default_thumb.png",
+      "full": "晴の果糖莓莓.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の兔兔草莓酱",
+      "file": "晴の兔兔草莓酱.bds",
+      "thumb": "晴の兔兔草莓酱.bds_py_26_default_thumb.png",
+      "full": "晴の兔兔草莓酱.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の咩咩羊",
+      "file": "晴の咩咩羊.bds",
+      "thumb": "晴の咩咩羊.bds_py_26_default_thumb.png",
+      "full": "晴の咩咩羊.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の草莓派",
+      "file": "晴の蛋糕派.bds",
+      "thumb": "晴の蛋糕派.bds_py_26_default_thumb.png",
+      "full": "晴の蛋糕派.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の西瓜兔",
+      "file": "晴の西瓜兔.bds",
+      "thumb": "晴の西瓜兔.bds_py_26_default_thumb.png",
+      "full": "晴の西瓜兔.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の女孩喵",
+      "file": "晴の女孩喵.bds",
+      "thumb": "晴の女孩喵.bds_py_26_default_thumb.png",
+      "full": "晴の女孩喵.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の猫爪爪",
+      "file": "晴の猫爪爪.bds",
+      "thumb": "晴の猫爪爪.bds_py_26_default_thumb.png",
+      "full": "晴の猫爪爪.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の凯蒂猫",
+      "file": "晴の凯蒂猫.bds",
+      "thumb": "晴の凯蒂猫.bds_py_26_default_thumb.png",
+      "full": "晴の凯蒂猫.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の糕糕狗",
+      "file": "晴の糕糕狗.bds",
+      "thumb": "晴の糕糕狗.bds_py_26_default_thumb.png",
+      "full": "晴の糕糕狗.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の奶瓶草莓",
+      "file": "晴の奶瓶草莓.bds",
+      "thumb": "晴の奶瓶草莓.bds_py_26_default_thumb.png",
+      "full": "晴の奶瓶草莓.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の医疗喵",
+      "file": "晴の医疗喵.bds",
+      "thumb": "晴の医疗喵.bds_py_26_default_thumb.png",
+      "full": "晴の医疗喵.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の草莓派派喵",
+      "file": "晴の草莓派派喵.bds",
+      "thumb": "晴の草莓派派喵.bds_py_26_default_thumb.png",
+      "full": "晴の草莓派派喵.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の喵喵喵",
+      "file": "晴の喵喵喵.bds",
+      "thumb": "晴の喵喵喵.bds_py_26_default_thumb.png",
+      "full": "晴の喵喵喵.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の奶瓶兔兔狗",
+      "file": "晴の奶瓶兔兔狗.bds",
+      "thumb": "晴の奶瓶兔兔狗.bds_py_26_default_thumb.png",
+      "full": "晴の奶瓶兔兔狗.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の兔兔车",
+      "file": "晴の兔兔车.bds",
+      "thumb": "晴の兔兔车.bds_py_26_default_thumb.png",
+      "full": "晴の兔兔车.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の牛奶盒子",
+      "file": "晴の牛奶盒子.bds",
+      "thumb": "晴の牛奶盒子.bds_py_26_default_thumb.png",
+      "full": "晴の牛奶盒子.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の小蓝物",
+      "file": "晴の小蓝物.bds",
+      "thumb": "晴の小蓝物.bds_py_26_default_thumb.png",
+      "full": "晴の小蓝物.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の喵喵卷",
+      "file": "晴の喵喵卷.bds",
+      "thumb": "晴の喵喵卷.bds_py_26_default_thumb.png",
+      "full": "晴の喵喵卷.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の晶晶兔兔",
+      "file": "晴-晶晶兔兔.bds",
+      "thumb": "晴-晶晶兔兔.bds_py_26_default_thumb.png",
+      "full": "晴-晶晶兔兔.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の兔丸莓莓",
+      "file": "晴の兔丸莓莓.bds",
+      "thumb": "晴の兔丸莓莓.bds_py_26_default_thumb.png",
+      "full": "晴の兔丸莓莓.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の喵爪味熊",
+      "file": "晴の喵爪味熊.bds",
+      "thumb": "晴の喵爪味熊.bds_py_26_default_thumb.png",
+      "full": "晴の喵爪味熊.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の糖果杯具",
+      "file": "晴の糖果杯具.bds",
+      "thumb": "晴の糖果杯具.bds_py_26_default_thumb.png",
+      "full": "晴の糖果杯具.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の熊爪米酱",
+      "file": "晴の熊爪米酱.bds",
+      "thumb": "晴の熊爪米酱.bds_py_26_default_thumb.png",
+      "full": "晴の熊爪米酱.bds_py_26_default.png"
+    },
+    {
+      "name": "晴-喵喵凯蒂",
+      "file": "晴-喵喵凯蒂1.bds",
+      "thumb": "晴-喵喵凯蒂1.bds_py_26_default_thumb.png",
+      "full": "晴-喵喵凯蒂1.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の轻松熊",
+      "file": "晴-轻松熊1.bds",
+      "thumb": "晴-轻松熊1.bds_py_26_default_thumb.png",
+      "full": "晴-轻松熊1.bds_py_26_default.png"
+    },
+    {
+      "name": "晴-兔兔熊",
+      "file": "晴-兔兔熊1.bds",
+      "thumb": "晴-兔兔熊1.bds_py_26_default_thumb.png",
+      "full": "晴-兔兔熊1.bds_py_26_default.png"
+    },
+    {
+      "name": "晴-心心熊猫",
+      "file": "晴-心心熊猫1.bds",
+      "thumb": "晴-心心熊猫1.bds_py_26_default_thumb.png",
+      "full": "晴-心心熊猫1.bds_py_26_default.png"
+    },
+    {
+      "name": "蝴蝶结熊熊",
+      "file": "晴-蝴蝶结熊熊1.bds",
+      "thumb": "晴-蝴蝶结熊熊1.bds_py_26_default_thumb.png",
+      "full": "晴-蝴蝶结熊熊1.bds_py_26_default.png"
+    },
+    {
+      "name": "晴-奶瓶糕糕",
+      "file": "晴-奶瓶糕糕1.bds",
+      "thumb": "晴-奶瓶糕糕1.bds_py_26_default_thumb.png",
+      "full": "晴-奶瓶糕糕1.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼板萌",
+      "file": "鱼板萌.bds",
+      "thumb": "鱼板萌.bds_py_26_default_thumb.png",
+      "full": "鱼板萌.bds_py_26_default.png"
+    }
+  ]
+}

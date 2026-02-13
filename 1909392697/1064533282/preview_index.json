@@ -1,0 +1,187 @@
+{
+  "qq_number": "1909392697",
+  "group_number": "1064533282",
+  "updated_at": "2026-02-13T23:42:13.488021",
+  "skins": [
+    {
+      "name": "小蛋糕001",
+      "file": "晴-小蛋糕01.bdi",
+      "thumb": "晴-小蛋糕01.bdi_py_26_light_thumb.png",
+      "full": "晴-小蛋糕01.bdi_py_26_light.png"
+    },
+    {
+      "name": "小蛋糕002",
+      "file": "晴-小蛋糕02.bdi",
+      "thumb": "晴-小蛋糕02.bdi_py_26_light_thumb.png",
+      "full": "晴-小蛋糕02.bdi_py_26_light.png"
+    },
+    {
+      "name": "小蛋糕003",
+      "file": "晴-小蛋糕03.bdi",
+      "thumb": "晴-小蛋糕03.bdi_py_26_light_thumb.png",
+      "full": "晴-小蛋糕03.bdi_py_26_light.png"
+    },
+    {
+      "name": "小蛋糕004",
+      "file": "晴-小蛋糕04.bdi",
+      "thumb": "晴-小蛋糕04.bdi_py_26_light_thumb.png",
+      "full": "晴-小蛋糕04.bdi_py_26_light.png"
+    },
+    {
+      "name": "小蛋糕05",
+      "file": "晴-小蛋糕05.bdi",
+      "thumb": "晴-小蛋糕05.bdi_py_26_light_thumb.png",
+      "full": "晴-小蛋糕05.bdi_py_26_light.png"
+    },
+    {
+      "name": "小蛋糕06",
+      "file": "晴-小蛋糕06.bdi",
+      "thumb": "晴-小蛋糕06.bdi_py_26_light_thumb.png",
+      "full": "晴-小蛋糕06.bdi_py_26_light.png"
+    },
+    {
+      "name": "小蛋糕07",
+      "file": "晴-小蛋糕07.bdi",
+      "thumb": "晴-小蛋糕07.bdi_py_26_light_thumb.png",
+      "full": "晴-小蛋糕07.bdi_py_26_light.png"
+    },
+    {
+      "name": "小蛋糕08",
+      "file": "晴-小蛋糕08.bdi",
+      "thumb": "晴-小蛋糕08.bdi_py_26_light_thumb.png",
+      "full": "晴-小蛋糕08.bdi_py_26_light.png"
+    },
+    {
+      "name": "小蛋糕09",
+      "file": "晴-小蛋糕09.bdi",
+      "thumb": "晴-小蛋糕09.bdi_py_26_default_thumb.png",
+      "full": "晴-小蛋糕09.bdi_py_26_default.png"
+    },
+    {
+      "name": "小蛋糕10",
+      "file": "晴-小蛋糕10.bdi",
+      "thumb": "晴-小蛋糕10.bdi_py_26_default_thumb.png",
+      "full": "晴-小蛋糕10.bdi_py_26_default.png"
+    },
+    {
+      "name": "小蛋糕011",
+      "file": "晴-小蛋糕11.bdi",
+      "thumb": "晴-小蛋糕11.bdi_py_26_light_thumb.png",
+      "full": "晴-小蛋糕11.bdi_py_26_light.png"
+    },
+    {
+      "name": "小蛋糕012",
+      "file": "晴-小蛋糕012.bdi",
+      "thumb": "晴-小蛋糕012.bdi_py_26_default_thumb.png",
+      "full": "晴-小蛋糕012.bdi_py_26_default.png"
+    },
+    {
+      "name": "小蛋糕013",
+      "file": "晴-小蛋糕013.bdi",
+      "thumb": "晴-小蛋糕013.bdi_py_26_light_thumb.png",
+      "full": "晴-小蛋糕013.bdi_py_26_light.png"
+    },
+    {
+      "name": "小蛋糕014",
+      "file": "晴-小蛋糕014.bdi",
+      "thumb": "晴-小蛋糕014.bdi_py_26_light_thumb.png",
+      "full": "晴-小蛋糕014.bdi_py_26_light.png"
+    },
+    {
+      "name": "小蛋糕015",
+      "file": "晴-小蛋糕15.bdi",
+      "thumb": "晴-小蛋糕15.bdi_py_26_light_thumb.png",
+      "full": "晴-小蛋糕15.bdi_py_26_light.png"
+    },
+    {
+      "name": "小蛋糕001",
+      "file": "晴-小蛋糕01.bds",
+      "thumb": "晴-小蛋糕01.bds_py_26_light_thumb.png",
+      "full": "晴-小蛋糕01.bds_py_26_light.png"
+    },
+    {
+      "name": "小蛋糕002",
+      "file": "晴-小蛋糕02.bds",
+      "thumb": "晴-小蛋糕02.bds_py_26_light_thumb.png",
+      "full": "晴-小蛋糕02.bds_py_26_light.png"
+    },
+    {
+      "name": "小蛋糕004",
+      "file": "晴-小蛋糕04.bds",
+      "thumb": "晴-小蛋糕04.bds_py_26_light_thumb.png",
+      "full": "晴-小蛋糕04.bds_py_26_light.png"
+    },
+    {
+      "name": "小蛋糕003",
+      "file": "晴-小蛋糕03.bds",
+      "thumb": "晴-小蛋糕03.bds_py_26_light_thumb.png",
+      "full": "晴-小蛋糕03.bds_py_26_light.png"
+    },
+    {
+      "name": "小蛋糕05",
+      "file": "晴-小蛋糕05.bds",
+      "thumb": "晴-小蛋糕05.bds_py_26_light_thumb.png",
+      "full": "晴-小蛋糕05.bds_py_26_light.png"
+    },
+    {
+      "name": "小蛋糕06",
+      "file": "晴-小蛋糕06.bds",
+      "thumb": "晴-小蛋糕06.bds_py_26_light_thumb.png",
+      "full": "晴-小蛋糕06.bds_py_26_light.png"
+    },
+    {
+      "name": "小蛋糕07",
+      "file": "晴-小蛋糕07.bds",
+      "thumb": "晴-小蛋糕07.bds_py_26_light_thumb.png",
+      "full": "晴-小蛋糕07.bds_py_26_light.png"
+    },
+    {
+      "name": "小蛋糕08",
+      "file": "晴-小蛋糕08.bds",
+      "thumb": "晴-小蛋糕08.bds_py_26_light_thumb.png",
+      "full": "晴-小蛋糕08.bds_py_26_light.png"
+    },
+    {
+      "name": "小蛋糕09",
+      "file": "晴-小蛋糕09.bds",
+      "thumb": "晴-小蛋糕09.bds_py_26_default_thumb.png",
+      "full": "晴-小蛋糕09.bds_py_26_default.png"
+    },
+    {
+      "name": "小蛋糕10",
+      "file": "晴-小蛋糕10.bds",
+      "thumb": "晴-小蛋糕10.bds_py_26_default_thumb.png",
+      "full": "晴-小蛋糕10.bds_py_26_default.png"
+    },
+    {
+      "name": "小蛋糕011",
+      "file": "晴-小蛋糕11.bds",
+      "thumb": "晴-小蛋糕11.bds_py_26_light_thumb.png",
+      "full": "晴-小蛋糕11.bds_py_26_light.png"
+    },
+    {
+      "name": "小蛋糕012",
+      "file": "晴-小蛋糕012.bds",
+      "thumb": "晴-小蛋糕012.bds_py_26_default_thumb.png",
+      "full": "晴-小蛋糕012.bds_py_26_default.png"
+    },
+    {
+      "name": "小蛋糕013",
+      "file": "晴-小蛋糕013.bds",
+      "thumb": "晴-小蛋糕013.bds_py_26_light_thumb.png",
+      "full": "晴-小蛋糕013.bds_py_26_light.png"
+    },
+    {
+      "name": "小蛋糕015",
+      "file": "晴-小蛋糕15.bds",
+      "thumb": "晴-小蛋糕15.bds_py_26_light_thumb.png",
+      "full": "晴-小蛋糕15.bds_py_26_light.png"
+    },
+    {
+      "name": "小蛋糕014",
+      "file": "晴-小蛋糕014.bds",
+      "thumb": "晴-小蛋糕014.bds_py_26_light_thumb.png",
+      "full": "晴-小蛋糕014.bds_py_26_light.png"
+    }
+  ]
+}

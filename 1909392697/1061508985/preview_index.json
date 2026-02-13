@@ -1,0 +1,43 @@
+{
+  "qq_number": "1909392697",
+  "group_number": "1061508985",
+  "updated_at": "2026-02-13T23:42:00.240552",
+  "skins": [
+    {
+      "name": "晴の萌味番001",
+      "file": "晴の萌味番001.bdi",
+      "thumb": "晴の萌味番001.bdi_py_26_default_thumb.png",
+      "full": "晴の萌味番001.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の萌味番002",
+      "file": "晴の萌味番002.bdi",
+      "thumb": "晴の萌味番002.bdi_py_26_default_thumb.png",
+      "full": "晴の萌味番002.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の萌味番003",
+      "file": "晴の萌味番003.bdi",
+      "thumb": "晴の萌味番003.bdi_py_26_default_thumb.png",
+      "full": "晴の萌味番003.bdi_py_26_default.png"
+    },
+    {
+      "name": "晴の萌味番001",
+      "file": "晴の萌味番001.bds",
+      "thumb": "晴の萌味番001.bds_py_26_default_thumb.png",
+      "full": "晴の萌味番001.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の萌味番002",
+      "file": "晴の萌味番002.bds",
+      "thumb": "晴の萌味番002.bds_py_26_default_thumb.png",
+      "full": "晴の萌味番002.bds_py_26_default.png"
+    },
+    {
+      "name": "晴の萌味番003",
+      "file": "晴の萌味番003.bds",
+      "thumb": "晴の萌味番003.bds_py_26_default_thumb.png",
+      "full": "晴の萌味番003.bds_py_26_default.png"
+    }
+  ]
+}
