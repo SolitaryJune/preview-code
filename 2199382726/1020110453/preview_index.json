@@ -1,0 +1,55 @@
+{
+  "qq_number": "2199382726",
+  "group_number": "1020110453",
+  "updated_at": "2026-02-13T23:42:56.652341",
+  "skins": [
+    {
+      "name": "乐妍底包",
+      "file": "辣椒の香芋熊熊.bdi",
+      "thumb": "辣椒の香芋熊熊.bdi_py_26_light_thumb.png",
+      "full": "辣椒の香芋熊熊.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "辣椒の香芋熊熊圆鼓鼓.bdi",
+      "thumb": "辣椒の香芋熊熊圆鼓鼓.bdi_py_26_light_thumb.png",
+      "full": "辣椒の香芋熊熊圆鼓鼓.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "辣椒の马年快乐.bdi",
+      "thumb": "辣椒の马年快乐.bdi_py_26_light_thumb.png",
+      "full": "辣椒の马年快乐.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "辣椒の马年快乐水晶键.bdi",
+      "thumb": "辣椒の马年快乐水晶键.bdi_py_26_light_thumb.png",
+      "full": "辣椒の马年快乐水晶键.bdi_py_26_light.png"
+    },
+    {
+      "name": "辣椒の香芋熊熊",
+      "file": "辣椒の香芋熊熊.bds",
+      "thumb": "辣椒の香芋熊熊.bds_py_26_light_thumb.png",
+      "full": "辣椒の香芋熊熊.bds_py_26_light.png"
+    },
+    {
+      "name": "辣椒の香芋熊熊",
+      "file": "辣椒の香芋熊熊圆鼓鼓.bds",
+      "thumb": "辣椒の香芋熊熊圆鼓鼓.bds_py_26_light_thumb.png",
+      "full": "辣椒の香芋熊熊圆鼓鼓.bds_py_26_light.png"
+    },
+    {
+      "name": "辣椒の马年快乐",
+      "file": "辣椒の马年快乐.bds",
+      "thumb": "辣椒の马年快乐.bds_py_26_light_thumb.png",
+      "full": "辣椒の马年快乐.bds_py_26_light.png"
+    },
+    {
+      "name": "辣椒の马年快乐",
+      "file": "辣椒の马年快乐水晶键.bds",
+      "thumb": "辣椒の马年快乐水晶键.bds_py_26_light_thumb.png",
+      "full": "辣椒の马年快乐水晶键.bds_py_26_light.png"
+    }
+  ]
+}
