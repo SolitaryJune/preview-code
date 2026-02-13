@@ -1,0 +1,79 @@
+{
+  "qq_number": "3447729551",
+  "group_number": "582801924",
+  "updated_at": "2026-02-13T23:42:17.594745",
+  "skins": [
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "葵.bdi",
+      "thumb": "葵.bdi_py_26_light_thumb.png",
+      "full": "葵.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "攸的含玉.bdi",
+      "thumb": "攸的含玉.bdi_py_26_light_thumb.png",
+      "full": "攸的含玉.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "攸的雅琴.bdi",
+      "thumb": "攸的雅琴.bdi_py_26_light_thumb.png",
+      "full": "攸的雅琴.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "攸的雅琴音效二.bdi",
+      "thumb": "攸的雅琴音效二.bdi_py_26_light_thumb.png",
+      "full": "攸的雅琴音效二.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "攸の孤岚.bdi",
+      "thumb": "攸の孤岚.bdi_py_26_light_thumb.png",
+      "full": "攸の孤岚.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "攸的妙竹.bdi",
+      "thumb": "攸的妙竹.bdi_py_26_light_thumb.png",
+      "full": "攸的妙竹.bdi_py_26_light.png"
+    },
+    {
+      "name": "攸的含玉",
+      "file": "攸的含玉.bds",
+      "thumb": "攸的含玉.bds_py_26_light_thumb.png",
+      "full": "攸的含玉.bds_py_26_light.png"
+    },
+    {
+      "name": "攸的雅琴",
+      "file": "攸的雅琴.bds",
+      "thumb": "攸的雅琴.bds_py_26_light_thumb.png",
+      "full": "攸的雅琴.bds_py_26_light.png"
+    },
+    {
+      "name": "攸的雅琴",
+      "file": "攸的雅琴音效二.bds",
+      "thumb": "攸的雅琴音效二.bds_py_26_light_thumb.png",
+      "full": "攸的雅琴音效二.bds_py_26_light.png"
+    },
+    {
+      "name": "嚯嚯的葵",
+      "file": "葵.bds",
+      "thumb": "葵.bds_py_26_light_thumb.png",
+      "full": "葵.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "攸の孤岚.bds",
+      "thumb": "攸の孤岚.bds_py_26_light_thumb.png",
+      "full": "攸の孤岚.bds_py_26_light.png"
+    },
+    {
+      "name": "攸的妙竹",
+      "file": "攸的妙竹.bds",
+      "thumb": "攸的妙竹.bds_py_26_light_thumb.png",
+      "full": "攸的妙竹.bds_py_26_light.png"
+    }
+  ]
+}
