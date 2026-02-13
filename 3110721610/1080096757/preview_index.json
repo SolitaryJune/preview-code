@@ -1,0 +1,19 @@
+{
+  "qq_number": "3110721610",
+  "group_number": "1080096757",
+  "updated_at": "2026-02-13T23:42:19.143011",
+  "skins": [
+    {
+      "name": "尢灀の百度保底1",
+      "file": "尢灀の苹果百度保底1.bdi",
+      "thumb": "尢灀の苹果百度保底1.bdi_py_26_default_thumb.png",
+      "full": "尢灀の苹果百度保底1.bdi_py_26_default.png"
+    },
+    {
+      "name": "尢灀の百度保底1",
+      "file": "尢灀の安卓百度保底1.bds",
+      "thumb": "尢灀の安卓百度保底1.bds_py_26_default_thumb.png",
+      "full": "尢灀の安卓百度保底1.bds_py_26_default.png"
+    }
+  ]
+}

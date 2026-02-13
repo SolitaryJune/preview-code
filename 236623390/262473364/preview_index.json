@@ -1,0 +1,31 @@
+{
+  "qq_number": "236623390",
+  "group_number": "262473364",
+  "updated_at": "2026-02-13T23:42:20.277021",
+  "skins": [
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "累累滴闷.bdi",
+      "thumb": "累累滴闷.bdi_py_26_light_thumb.png",
+      "full": "累累滴闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "累累滴脆.bdi",
+      "thumb": "累累滴脆.bdi_py_26_light_thumb.png",
+      "full": "累累滴脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "累累滴闷.bds",
+      "thumb": "累累滴闷.bds_py_26_light_thumb.png",
+      "full": "累累滴闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "累累滴脆.bds",
+      "thumb": "累累滴脆.bds_py_26_light_thumb.png",
+      "full": "累累滴脆.bds_py_26_light.png"
+    }
+  ]
+}
