@@ -1,0 +1,337 @@
+{
+  "qq_number": "1814572494",
+  "group_number": "直购",
+  "updated_at": "2026-02-13T23:42:42.899771",
+  "skins": [
+    {
+      "name": "灰色调-粉",
+      "file": "灰色调-粉.bdi",
+      "thumb": "灰色调-粉.bdi_py_26_default_thumb.png",
+      "full": "灰色调-粉.bdi_py_26_default.png"
+    },
+    {
+      "name": "灰色调-蓝",
+      "file": "灰色调-蓝.bdi",
+      "thumb": "灰色调-蓝.bdi_py_26_default_thumb.png",
+      "full": "灰色调-蓝.bdi_py_26_default.png"
+    },
+    {
+      "name": "灰色调-黄",
+      "file": "灰色调-黄.bdi",
+      "thumb": "灰色调-黄.bdi_py_26_default_thumb.png",
+      "full": "灰色调-黄.bdi_py_26_default.png"
+    },
+    {
+      "name": "灰色调",
+      "file": "灰色调.bdi",
+      "thumb": "灰色调.bdi_py_26_light_thumb.png",
+      "full": "灰色调.bdi_py_26_light.png"
+    },
+    {
+      "name": "灰色心事-脆脆音",
+      "file": "灰色心事脆脆音.bdi",
+      "thumb": "灰色心事脆脆音.bdi_py_26_light_thumb.png",
+      "full": "灰色心事脆脆音.bdi_py_26_light.png"
+    },
+    {
+      "name": "灰色心事-脆脆音",
+      "file": "灰色心事闷闷音.bdi",
+      "thumb": "灰色心事闷闷音.bdi_py_26_light_thumb.png",
+      "full": "灰色心事闷闷音.bdi_py_26_light.png"
+    },
+    {
+      "name": "纯白季",
+      "file": "纯白季.bdi",
+      "thumb": "纯白季.bdi_py_26_light_thumb.png",
+      "full": "纯白季.bdi_py_26_light.png"
+    },
+    {
+      "name": "极简韩文-脆脆音",
+      "file": "极简韩文-脆脆音.bdi",
+      "thumb": "极简韩文-脆脆音.bdi_py_26_light_thumb.png",
+      "full": "极简韩文-脆脆音.bdi_py_26_light.png"
+    },
+    {
+      "name": "极简韩文-闷闷音",
+      "file": "极简韩文-闷闷音.bdi",
+      "thumb": "极简韩文-闷闷音.bdi_py_26_light_thumb.png",
+      "full": "极简韩文-闷闷音.bdi_py_26_light.png"
+    },
+    {
+      "name": "冷色泪",
+      "file": "冷色泪.bdi",
+      "thumb": "冷色泪.bdi_py_26_light_thumb.png",
+      "full": "冷色泪.bdi_py_26_light.png"
+    },
+    {
+      "name": "小表情",
+      "file": "小表情.bdi",
+      "thumb": "小表情.bdi_py_26_light_thumb.png",
+      "full": "小表情.bdi_py_26_light.png"
+    },
+    {
+      "name": "灰色调-绿",
+      "file": "灰色调-绿.bdi",
+      "thumb": "灰色调-绿.bdi_py_26_default_thumb.png",
+      "full": "灰色调-绿.bdi_py_26_default.png"
+    },
+    {
+      "name": "灰色调-紫",
+      "file": "灰色调-紫.bdi",
+      "thumb": "灰色调-紫.bdi_py_26_default_thumb.png",
+      "full": "灰色调-紫.bdi_py_26_default.png"
+    },
+    {
+      "name": "仿iOS",
+      "file": "仿iOS-脆脆音.bdi",
+      "thumb": "仿iOS-脆脆音.bdi_py_26_light_thumb.png",
+      "full": "仿iOS-脆脆音.bdi_py_26_light.png"
+    },
+    {
+      "name": "仿iOS",
+      "file": "仿iOS-闷闷音.bdi",
+      "thumb": "仿iOS-闷闷音.bdi_py_26_light_thumb.png",
+      "full": "仿iOS-闷闷音.bdi_py_26_light.png"
+    },
+    {
+      "name": "仿iOS",
+      "file": "仿iOS融合-脆脆音.bdi",
+      "thumb": "仿iOS融合-脆脆音.bdi_py_26_light_thumb.png",
+      "full": "仿iOS融合-脆脆音.bdi_py_26_light.png"
+    },
+    {
+      "name": "仿iOS",
+      "file": "仿iOS融合-闷闷音.bdi",
+      "thumb": "仿iOS融合-闷闷音.bdi_py_26_light_thumb.png",
+      "full": "仿iOS融合-闷闷音.bdi_py_26_light.png"
+    },
+    {
+      "name": "高雅人士",
+      "file": "高雅人士.bdi",
+      "thumb": "高雅人士.bdi_py_26_light_thumb.png",
+      "full": "高雅人士.bdi_py_26_light.png"
+    },
+    {
+      "name": "极简",
+      "file": "极简.bdi",
+      "thumb": "极简.bdi_py_26_light_thumb.png",
+      "full": "极简.bdi_py_26_light.png"
+    },
+    {
+      "name": "极简灰",
+      "file": "极简灰.bdi",
+      "thumb": "极简灰.bdi_py_26_light_thumb.png",
+      "full": "极简灰.bdi_py_26_light.png"
+    },
+    {
+      "name": "盲打-粉",
+      "file": "盲打粉闷闷音.bdi",
+      "thumb": "盲打粉闷闷音.bdi_py_26_default_thumb.png",
+      "full": "盲打粉闷闷音.bdi_py_26_default.png"
+    },
+    {
+      "name": "盲打-绿",
+      "file": "盲打绿闷闷音.bdi",
+      "thumb": "盲打绿闷闷音.bdi_py_26_default_thumb.png",
+      "full": "盲打绿闷闷音.bdi_py_26_default.png"
+    },
+    {
+      "name": "盲打-蓝",
+      "file": "盲打蓝闷闷音.bdi",
+      "thumb": "盲打蓝闷闷音.bdi_py_26_default_thumb.png",
+      "full": "盲打蓝闷闷音.bdi_py_26_default.png"
+    },
+    {
+      "name": "盲打-绿",
+      "file": "盲打绿脆脆音.bdi",
+      "thumb": "盲打绿脆脆音.bdi_py_26_default_thumb.png",
+      "full": "盲打绿脆脆音.bdi_py_26_default.png"
+    },
+    {
+      "name": "盲打",
+      "file": "盲打脆脆音.bdi",
+      "thumb": "盲打脆脆音.bdi_py_26_light_thumb.png",
+      "full": "盲打脆脆音.bdi_py_26_light.png"
+    },
+    {
+      "name": "盲打-蓝",
+      "file": "盲打蓝脆脆音.bdi",
+      "thumb": "盲打蓝脆脆音.bdi_py_26_default_thumb.png",
+      "full": "盲打蓝脆脆音.bdi_py_26_default.png"
+    },
+    {
+      "name": "盲打-粉",
+      "file": "盲打粉脆脆音.bdi",
+      "thumb": "盲打粉脆脆音.bdi_py_26_default_thumb.png",
+      "full": "盲打粉脆脆音.bdi_py_26_default.png"
+    },
+    {
+      "name": "灰色调-粉",
+      "file": "灰色调-粉.bds",
+      "thumb": "灰色调-粉.bds_py_26_default_thumb.png",
+      "full": "灰色调-粉.bds_py_26_default.png"
+    },
+    {
+      "name": "灰色调-紫",
+      "file": "灰色调-紫.bds",
+      "thumb": "灰色调-紫.bds_py_26_default_thumb.png",
+      "full": "灰色调-紫.bds_py_26_default.png"
+    },
+    {
+      "name": "灰色调-绿",
+      "file": "灰色调-绿.bds",
+      "thumb": "灰色调-绿.bds_py_26_default_thumb.png",
+      "full": "灰色调-绿.bds_py_26_default.png"
+    },
+    {
+      "name": "灰色调-蓝",
+      "file": "灰色调-蓝.bds",
+      "thumb": "灰色调-蓝.bds_py_26_default_thumb.png",
+      "full": "灰色调-蓝.bds_py_26_default.png"
+    },
+    {
+      "name": "灰色调-黄",
+      "file": "灰色调-黄.bds",
+      "thumb": "灰色调-黄.bds_py_26_default_thumb.png",
+      "full": "灰色调-黄.bds_py_26_default.png"
+    },
+    {
+      "name": "灰色调",
+      "file": "灰色调.bds",
+      "thumb": "灰色调.bds_py_26_light_thumb.png",
+      "full": "灰色调.bds_py_26_light.png"
+    },
+    {
+      "name": "灰色心事脆脆音",
+      "file": "灰色心事脆脆音.bds",
+      "thumb": "灰色心事脆脆音.bds_py_26_light_thumb.png",
+      "full": "灰色心事脆脆音.bds_py_26_light.png"
+    },
+    {
+      "name": "灰色心事闷闷",
+      "file": "灰色心事闷闷音.bds",
+      "thumb": "灰色心事闷闷音.bds_py_26_light_thumb.png",
+      "full": "灰色心事闷闷音.bds_py_26_light.png"
+    },
+    {
+      "name": "纯白季",
+      "file": "纯白季.bds",
+      "thumb": "纯白季.bds_py_26_light_thumb.png",
+      "full": "纯白季.bds_py_26_light.png"
+    },
+    {
+      "name": "极简韩文-脆脆音",
+      "file": "极简韩文-脆脆音.bds",
+      "thumb": "极简韩文-脆脆音.bds_py_26_light_thumb.png",
+      "full": "极简韩文-脆脆音.bds_py_26_light.png"
+    },
+    {
+      "name": "极简韩文-闷闷音",
+      "file": "极简韩文-闷闷音.bds",
+      "thumb": "极简韩文-闷闷音.bds_py_26_light_thumb.png",
+      "full": "极简韩文-闷闷音.bds_py_26_light.png"
+    },
+    {
+      "name": "冷色泪",
+      "file": "冷色泪.bds",
+      "thumb": "冷色泪.bds_py_26_light_thumb.png",
+      "full": "冷色泪.bds_py_26_light.png"
+    },
+    {
+      "name": "小表情",
+      "file": "小表情.bds",
+      "thumb": "小表情.bds_py_26_light_thumb.png",
+      "full": "小表情.bds_py_26_light.png"
+    },
+    {
+      "name": "仿iOS",
+      "file": "仿iOS-脆脆音.bds",
+      "thumb": "仿iOS-脆脆音.bds_py_26_light_thumb.png",
+      "full": "仿iOS-脆脆音.bds_py_26_light.png"
+    },
+    {
+      "name": "仿iOS",
+      "file": "仿iOS-闷闷音.bds",
+      "thumb": "仿iOS-闷闷音.bds_py_26_light_thumb.png",
+      "full": "仿iOS-闷闷音.bds_py_26_light.png"
+    },
+    {
+      "name": "仿iOS",
+      "file": "仿iOS融合-脆脆音.bds",
+      "thumb": "仿iOS融合-脆脆音.bds_py_26_light_thumb.png",
+      "full": "仿iOS融合-脆脆音.bds_py_26_light.png"
+    },
+    {
+      "name": "仿iOS",
+      "file": "仿iOS融合-闷闷音.bds",
+      "thumb": "仿iOS融合-闷闷音.bds_py_26_light_thumb.png",
+      "full": "仿iOS融合-闷闷音.bds_py_26_light.png"
+    },
+    {
+      "name": "高雅人士",
+      "file": "高雅人士.bds",
+      "thumb": "高雅人士.bds_py_26_light_thumb.png",
+      "full": "高雅人士.bds_py_26_light.png"
+    },
+    {
+      "name": "极简",
+      "file": "极简.bds",
+      "thumb": "极简.bds_py_26_light_thumb.png",
+      "full": "极简.bds_py_26_light.png"
+    },
+    {
+      "name": "极简灰",
+      "file": "极简灰.bds",
+      "thumb": "极简灰.bds_py_26_light_thumb.png",
+      "full": "极简灰.bds_py_26_light.png"
+    },
+    {
+      "name": "盲打-粉",
+      "file": "盲打粉闷闷音.bds",
+      "thumb": "盲打粉闷闷音.bds_py_26_default_thumb.png",
+      "full": "盲打粉闷闷音.bds_py_26_default.png"
+    },
+    {
+      "name": "盲打-绿",
+      "file": "盲打绿闷闷音.bds",
+      "thumb": "盲打绿闷闷音.bds_py_26_default_thumb.png",
+      "full": "盲打绿闷闷音.bds_py_26_default.png"
+    },
+    {
+      "name": "盲打-蓝",
+      "file": "盲打蓝闷闷音.bds",
+      "thumb": "盲打蓝闷闷音.bds_py_26_default_thumb.png",
+      "full": "盲打蓝闷闷音.bds_py_26_default.png"
+    },
+    {
+      "name": "盲打",
+      "file": "盲打闷闷音.bds",
+      "thumb": "盲打闷闷音.bds_py_26_light_thumb.png",
+      "full": "盲打闷闷音.bds_py_26_light.png"
+    },
+    {
+      "name": "盲打-粉",
+      "file": "盲打粉脆脆音.bds",
+      "thumb": "盲打粉脆脆音.bds_py_26_default_thumb.png",
+      "full": "盲打粉脆脆音.bds_py_26_default.png"
+    },
+    {
+      "name": "盲打-绿",
+      "file": "盲打绿脆脆音.bds",
+      "thumb": "盲打绿脆脆音.bds_py_26_default_thumb.png",
+      "full": "盲打绿脆脆音.bds_py_26_default.png"
+    },
+    {
+      "name": "盲打",
+      "file": "盲打脆脆音.bds",
+      "thumb": "盲打脆脆音.bds_py_26_light_thumb.png",
+      "full": "盲打脆脆音.bds_py_26_light.png"
+    },
+    {
+      "name": "盲打-蓝",
+      "file": "盲打蓝脆脆音.bds",
+      "thumb": "盲打蓝脆脆音.bds_py_26_default_thumb.png",
+      "full": "盲打蓝脆脆音.bds_py_26_default.png"
+    }
+  ]
+}
