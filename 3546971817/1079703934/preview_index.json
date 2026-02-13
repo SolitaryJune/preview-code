@@ -1,0 +1,19 @@
+{
+  "qq_number": "3546971817",
+  "group_number": "1079703934",
+  "updated_at": "2026-02-13T23:42:31.564416",
+  "skins": [
+    {
+      "name": "椰汁の睡衣派",
+      "file": "椰汁の睡衣派.bdi",
+      "thumb": "椰汁の睡衣派.bdi_py_26_light_thumb.png",
+      "full": "椰汁の睡衣派.bdi_py_26_light.png"
+    },
+    {
+      "name": "椰汁の睡衣派",
+      "file": "椰汁の睡衣派.bds",
+      "thumb": "椰汁の睡衣派.bds_py_26_light_thumb.png",
+      "full": "椰汁の睡衣派.bds_py_26_light.png"
+    }
+  ]
+}

@@ -1,0 +1,1027 @@
+{
+  "qq_number": "3666286183",
+  "group_number": "1058114783",
+  "updated_at": "2026-02-13T23:42:01.769180",
+  "skins": [
+    {
+      "name": "呆の永辉20",
+      "file": "呆の永辉20.bdi",
+      "thumb": "呆の永辉20.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉20.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉22",
+      "file": "呆の永辉21.bdi",
+      "thumb": "呆の永辉21.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉21.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉22",
+      "file": "呆の永辉22.bdi",
+      "thumb": "呆の永辉22.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉22.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉23版本1",
+      "file": "呆の永辉23版本1.bdi",
+      "thumb": "呆の永辉23版本1.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉23版本1.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉23版本2",
+      "file": "呆の永辉23版本2.bdi",
+      "thumb": "呆の永辉23版本2.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉23版本2.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉24",
+      "file": "呆の永辉24.bdi",
+      "thumb": "呆の永辉24.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉24.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉掉落",
+      "file": "呆の永辉掉落.bdi",
+      "thumb": "呆の永辉掉落.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉掉落.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の免费分享键盘🚫二传",
+      "file": "呆の免费分享键盘.bdi",
+      "thumb": "呆の免费分享键盘.bdi_py_26_default_thumb.png",
+      "full": "呆の免费分享键盘.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の兔小姐",
+      "file": "呆の兔小姐.bdi",
+      "thumb": "呆の兔小姐.bdi_py_26_default_thumb.png",
+      "full": "呆の兔小姐.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉25",
+      "file": "呆の永辉25.bdi",
+      "thumb": "呆の永辉25.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉25.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉23",
+      "file": "呆の永辉23.bdi",
+      "thumb": "呆の永辉23.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉23.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉26",
+      "file": "呆の永辉26.bdi",
+      "thumb": "呆の永辉26.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉26.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉26",
+      "file": "呆呆.bdi",
+      "thumb": "呆呆.bdi_py_26_default_thumb.png",
+      "full": "呆呆.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉26",
+      "file": "skin.bdi",
+      "thumb": "skin.bdi_py_26_default_thumb.png",
+      "full": "skin.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉26",
+      "file": "呆.bdi",
+      "thumb": "呆.bdi_py_26_default_thumb.png",
+      "full": "呆.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉27",
+      "file": "呆の永辉27.bdi",
+      "thumb": "呆の永辉27.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉27.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉28",
+      "file": "呆の永辉28.bdi",
+      "thumb": "呆の永辉28.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉28.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉29",
+      "file": "呆の永辉29.bdi",
+      "thumb": "呆の永辉29.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉29.bdi_py_26_default.png"
+    },
+    {
+      "name": "怡怡の专属定制键盘",
+      "file": "怡怡の专属定制键盘.bdi",
+      "thumb": "怡怡の专属定制键盘.bdi_py_26_default_thumb.png",
+      "full": "怡怡の专属定制键盘.bdi_py_26_default.png"
+    },
+    {
+      "name": "涛涛の专属定制键盘",
+      "file": "涛涛の专属定制键盘.bdi",
+      "thumb": "涛涛の专属定制键盘.bdi_py_26_default_thumb.png",
+      "full": "涛涛の专属定制键盘.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉30",
+      "file": "呆の永辉30.bdi",
+      "thumb": "呆の永辉30.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉30.bdi_py_26_default.png"
+    },
+    {
+      "name": "牙牙の专属定制键盘",
+      "file": "牙牙の专属定制键盘.bdi",
+      "thumb": "牙牙の专属定制键盘.bdi_py_26_default_thumb.png",
+      "full": "牙牙の专属定制键盘.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉31",
+      "file": "呆の永辉31.bdi",
+      "thumb": "呆の永辉31.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉31.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉32",
+      "file": "呆の永辉32.bdi",
+      "thumb": "呆の永辉32.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉32.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉33",
+      "file": "呆の永辉33.bdi",
+      "thumb": "呆の永辉33.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉33.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉34",
+      "file": "呆の永辉34.bdi",
+      "thumb": "呆の永辉34.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉34.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会001",
+      "file": "呆の期会001.bdi",
+      "thumb": "呆の期会001.bdi_py_26_default_thumb.png",
+      "full": "呆の期会001.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会002",
+      "file": "呆の期会002.bdi",
+      "thumb": "呆の期会002.bdi_py_26_default_thumb.png",
+      "full": "呆の期会002.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会003",
+      "file": "呆の期会003.bdi",
+      "thumb": "呆の期会003.bdi_py_26_default_thumb.png",
+      "full": "呆の期会003.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会004",
+      "file": "呆の期会004.bdi",
+      "thumb": "呆の期会004.bdi_py_26_default_thumb.png",
+      "full": "呆の期会004.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会005",
+      "file": "呆の期会005.bdi",
+      "thumb": "呆の期会005.bdi_py_26_default_thumb.png",
+      "full": "呆の期会005.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉35",
+      "file": "呆の永辉35.bdi",
+      "thumb": "呆の永辉35.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉35.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会006",
+      "file": "呆の期会009.bdi",
+      "thumb": "呆の期会009.bdi_py_26_default_thumb.png",
+      "full": "呆の期会009.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会006",
+      "file": "呆の期会006.bdi",
+      "thumb": "呆の期会006.bdi_py_26_default_thumb.png",
+      "full": "呆の期会006.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉36",
+      "file": "呆の永辉36.bdi",
+      "thumb": "呆の永辉36.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉36.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会007",
+      "file": "呆の期会007.bdi",
+      "thumb": "呆の期会007.bdi_py_26_default_thumb.png",
+      "full": "呆の期会007.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会008",
+      "file": "呆の期会008.bdi",
+      "thumb": "呆の期会008.bdi_py_26_default_thumb.png",
+      "full": "呆の期会008.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉37",
+      "file": "呆の永辉37.bdi",
+      "thumb": "呆の永辉37.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉37.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会10",
+      "file": "呆の期会10.bdi",
+      "thumb": "呆の期会10.bdi_py_26_default_thumb.png",
+      "full": "呆の期会10.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会11",
+      "file": "呆の期会11.bdi",
+      "thumb": "呆の期会11.bdi_py_26_default_thumb.png",
+      "full": "呆の期会11.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉39",
+      "file": "呆の永辉39.bdi",
+      "thumb": "呆の永辉39.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉39.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会12",
+      "file": "呆の期会12.bdi",
+      "thumb": "呆の期会12.bdi_py_26_default_thumb.png",
+      "full": "呆の期会12.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会13",
+      "file": "呆の期会13.bdi",
+      "thumb": "呆の期会13.bdi_py_26_default_thumb.png",
+      "full": "呆の期会13.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉40",
+      "file": "呆の永辉40.bdi",
+      "thumb": "呆の永辉40.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉40.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会14",
+      "file": "呆の期会14.bdi",
+      "thumb": "呆の期会14.bdi_py_26_default_thumb.png",
+      "full": "呆の期会14.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会15",
+      "file": "呆の期会15.bdi",
+      "thumb": "呆の期会15.bdi_py_26_default_thumb.png",
+      "full": "呆の期会15.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会16",
+      "file": "呆の期会16.bdi",
+      "thumb": "呆の期会16.bdi_py_26_default_thumb.png",
+      "full": "呆の期会16.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉41",
+      "file": "呆の永辉41.bdi",
+      "thumb": "呆の永辉41.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉41.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉42",
+      "file": "呆の永辉42.bdi",
+      "thumb": "呆の永辉42.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉42.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会17",
+      "file": "呆の期会17.bdi",
+      "thumb": "呆の期会17.bdi_py_26_default_thumb.png",
+      "full": "呆の期会17.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会18",
+      "file": "呆の期会18.bdi",
+      "thumb": "呆の期会18.bdi_py_26_default_thumb.png",
+      "full": "呆の期会18.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉43",
+      "file": "呆の永辉43.bdi",
+      "thumb": "呆の永辉43.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉43.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉44",
+      "file": "呆の永辉44.bdi",
+      "thumb": "呆の永辉44.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉44.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会19",
+      "file": "呆の期会19.bdi",
+      "thumb": "呆の期会19.bdi_py_26_default_thumb.png",
+      "full": "呆の期会19.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会20",
+      "file": "呆の期会20.bdi",
+      "thumb": "呆の期会20.bdi_py_26_default_thumb.png",
+      "full": "呆の期会20.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会21",
+      "file": "呆の期会21.bdi",
+      "thumb": "呆の期会21.bdi_py_26_default_thumb.png",
+      "full": "呆の期会21.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会22",
+      "file": "呆の期会22.bdi",
+      "thumb": "呆の期会22.bdi_py_26_default_thumb.png",
+      "full": "呆の期会22.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会23",
+      "file": "呆の期会23.bdi",
+      "thumb": "呆の期会23.bdi_py_26_default_thumb.png",
+      "full": "呆の期会23.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉45",
+      "file": "呆の永辉45.bdi",
+      "thumb": "呆の永辉45.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉45.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉46",
+      "file": "呆の永辉46.bdi",
+      "thumb": "呆の永辉46.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉46.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉47",
+      "file": "呆の永辉47.bdi",
+      "thumb": "呆の永辉47.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉47.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会24",
+      "file": "呆の期会24.bdi",
+      "thumb": "呆の期会24.bdi_py_26_default_thumb.png",
+      "full": "呆の期会24.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会25",
+      "file": "呆の期会25.bdi",
+      "thumb": "呆の期会25.bdi_py_26_default_thumb.png",
+      "full": "呆の期会25.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉48",
+      "file": "呆の永辉48.bdi",
+      "thumb": "呆の永辉48.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉48.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会26",
+      "file": "呆の期会26.bdi",
+      "thumb": "呆の期会26.bdi_py_26_default_thumb.png",
+      "full": "呆の期会26.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉49",
+      "file": "呆の永辉49.bdi",
+      "thumb": "呆の永辉49.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉49.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会27",
+      "file": "呆の期会27.bdi",
+      "thumb": "呆の期会27.bdi_py_26_default_thumb.png",
+      "full": "呆の期会27.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会28",
+      "file": "呆の期会28.bdi",
+      "thumb": "呆の期会28.bdi_py_26_default_thumb.png",
+      "full": "呆の期会28.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉50",
+      "file": "呆の永辉50.bdi",
+      "thumb": "呆の永辉50.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉50.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会29",
+      "file": "呆の期会29.bdi",
+      "thumb": "呆の期会29.bdi_py_26_default_thumb.png",
+      "full": "呆の期会29.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉51",
+      "file": "呆の永辉51.bdi",
+      "thumb": "呆の永辉51.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉51.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会30",
+      "file": "呆の期会30.bdi",
+      "thumb": "呆の期会30.bdi_py_26_default_thumb.png",
+      "full": "呆の期会30.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会31",
+      "file": "呆の期会31.bdi",
+      "thumb": "呆の期会31.bdi_py_26_default_thumb.png",
+      "full": "呆の期会31.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉52",
+      "file": "呆の永辉52.bdi",
+      "thumb": "呆の永辉52.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉52.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会32",
+      "file": "呆の期会32.bdi",
+      "thumb": "呆の期会32.bdi_py_26_default_thumb.png",
+      "full": "呆の期会32.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会33",
+      "file": "呆の期会33.bdi",
+      "thumb": "呆の期会33.bdi_py_26_default_thumb.png",
+      "full": "呆の期会33.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉53",
+      "file": "呆の永辉53.bdi",
+      "thumb": "呆の永辉53.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉53.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会34",
+      "file": "呆の期会34.bdi",
+      "thumb": "呆の期会34.bdi_py_26_default_thumb.png",
+      "full": "呆の期会34.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会35",
+      "file": "呆の期会35.bdi",
+      "thumb": "呆の期会35.bdi_py_26_default_thumb.png",
+      "full": "呆の期会35.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会36",
+      "file": "呆の期会36.bdi",
+      "thumb": "呆の期会36.bdi_py_26_default_thumb.png",
+      "full": "呆の期会36.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会37",
+      "file": "呆の期会37.bdi",
+      "thumb": "呆の期会37.bdi_py_26_default_thumb.png",
+      "full": "呆の期会37.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉54",
+      "file": "呆の永辉54.bdi",
+      "thumb": "呆の永辉54.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉54.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会38",
+      "file": "呆の期会38.bdi",
+      "thumb": "呆の期会38.bdi_py_26_default_thumb.png",
+      "full": "呆の期会38.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会39",
+      "file": "呆の期会39.bdi",
+      "thumb": "呆の期会39.bdi_py_26_default_thumb.png",
+      "full": "呆の期会39.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会40",
+      "file": "呆の期会40.bdi",
+      "thumb": "呆の期会40.bdi_py_26_default_thumb.png",
+      "full": "呆の期会40.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉55",
+      "file": "呆の永辉55.bdi",
+      "thumb": "呆の永辉55.bdi_py_26_default_thumb.png",
+      "full": "呆の永辉55.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の期会41",
+      "file": "呆の期会41.bdi",
+      "thumb": "呆の期会41.bdi_py_26_default_thumb.png",
+      "full": "呆の期会41.bdi_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉20",
+      "file": "呆の永辉20.bds",
+      "thumb": "呆の永辉20.bds_py_26_default_thumb.png",
+      "full": "呆の永辉20.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉21",
+      "file": "呆の永辉21.bds",
+      "thumb": "呆の永辉21.bds_py_26_default_thumb.png",
+      "full": "呆の永辉21.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉22",
+      "file": "呆の永辉22.bds",
+      "thumb": "呆の永辉22.bds_py_26_default_thumb.png",
+      "full": "呆の永辉22.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉23版本1",
+      "file": "呆の永辉23版本1.bds",
+      "thumb": "呆の永辉23版本1.bds_py_26_default_thumb.png",
+      "full": "呆の永辉23版本1.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉23版本2",
+      "file": "呆の永辉23版本2.bds",
+      "thumb": "呆の永辉23版本2.bds_py_26_default_thumb.png",
+      "full": "呆の永辉23版本2.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉24",
+      "file": "呆の永辉24.bds",
+      "thumb": "呆の永辉24.bds_py_26_default_thumb.png",
+      "full": "呆の永辉24.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉掉落",
+      "file": "呆の永辉掉落.bds",
+      "thumb": "呆の永辉掉落.bds_py_26_default_thumb.png",
+      "full": "呆の永辉掉落.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の免费分享键盘🚫二传",
+      "file": "呆の免费分享键盘.bds",
+      "thumb": "呆の免费分享键盘.bds_py_26_default_thumb.png",
+      "full": "呆の免费分享键盘.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の兔小姐",
+      "file": "呆の兔小姐.bds",
+      "thumb": "呆の兔小姐.bds_py_26_default_thumb.png",
+      "full": "呆の兔小姐.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉25",
+      "file": "呆の永辉25.bds",
+      "thumb": "呆の永辉25.bds_py_26_default_thumb.png",
+      "full": "呆の永辉25.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉23",
+      "file": "呆の永辉23.bds",
+      "thumb": "呆の永辉23.bds_py_26_default_thumb.png",
+      "full": "呆の永辉23.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉26",
+      "file": "呆の永辉26.bds",
+      "thumb": "呆の永辉26.bds_py_26_default_thumb.png",
+      "full": "呆の永辉26.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉26",
+      "file": "呆.bds",
+      "thumb": "呆.bds_py_26_default_thumb.png",
+      "full": "呆.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉27",
+      "file": "呆の永辉27.bds",
+      "thumb": "呆の永辉27.bds_py_26_default_thumb.png",
+      "full": "呆の永辉27.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉28",
+      "file": "呆の永辉28.bds",
+      "thumb": "呆の永辉28.bds_py_26_default_thumb.png",
+      "full": "呆の永辉28.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉29",
+      "file": "呆の永辉29.bds",
+      "thumb": "呆の永辉29.bds_py_26_default_thumb.png",
+      "full": "呆の永辉29.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉30",
+      "file": "呆の永辉30.bds",
+      "thumb": "呆の永辉30.bds_py_26_default_thumb.png",
+      "full": "呆の永辉30.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉31",
+      "file": "呆の永辉31.bds",
+      "thumb": "呆の永辉31.bds_py_26_default_thumb.png",
+      "full": "呆の永辉31.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉32",
+      "file": "呆の永辉32.bds",
+      "thumb": "呆の永辉32.bds_py_26_default_thumb.png",
+      "full": "呆の永辉32.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉33",
+      "file": "呆の永辉33.bds",
+      "thumb": "呆の永辉33.bds_py_26_default_thumb.png",
+      "full": "呆の永辉33.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉34",
+      "file": "呆の永辉34.bds",
+      "thumb": "呆の永辉34.bds_py_26_default_thumb.png",
+      "full": "呆の永辉34.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会001",
+      "file": "呆の期会001.bds",
+      "thumb": "呆の期会001.bds_py_26_default_thumb.png",
+      "full": "呆の期会001.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会002",
+      "file": "呆の期会002.bds",
+      "thumb": "呆の期会002.bds_py_26_default_thumb.png",
+      "full": "呆の期会002.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会003",
+      "file": "呆の期会003.bds",
+      "thumb": "呆の期会003.bds_py_26_default_thumb.png",
+      "full": "呆の期会003.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会004",
+      "file": "呆の期会004.bds",
+      "thumb": "呆の期会004.bds_py_26_default_thumb.png",
+      "full": "呆の期会004.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会005",
+      "file": "呆の期会005.bds",
+      "thumb": "呆の期会005.bds_py_26_default_thumb.png",
+      "full": "呆の期会005.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉35",
+      "file": "呆の永辉35.bds",
+      "thumb": "呆の永辉35.bds_py_26_default_thumb.png",
+      "full": "呆の永辉35.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会006",
+      "file": "呆の期会006.bds",
+      "thumb": "呆の期会006.bds_py_26_default_thumb.png",
+      "full": "呆の期会006.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉36",
+      "file": "呆の永辉36.bds",
+      "thumb": "呆の永辉36.bds_py_26_default_thumb.png",
+      "full": "呆の永辉36.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会007",
+      "file": "归档.bds",
+      "thumb": "归档.bds_py_26_default_thumb.png",
+      "full": "归档.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会007",
+      "file": "呆の期会007.bds",
+      "thumb": "呆の期会007.bds_py_26_default_thumb.png",
+      "full": "呆の期会007.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会008",
+      "file": "呆の期会008.bds",
+      "thumb": "呆の期会008.bds_py_26_default_thumb.png",
+      "full": "呆の期会008.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉37",
+      "file": "呆の永辉37.bds",
+      "thumb": "呆の永辉37.bds_py_26_default_thumb.png",
+      "full": "呆の永辉37.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会10",
+      "file": "呆の期会10.bds",
+      "thumb": "呆の期会10.bds_py_26_default_thumb.png",
+      "full": "呆の期会10.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会11",
+      "file": "呆の期会11.bds",
+      "thumb": "呆の期会11.bds_py_26_default_thumb.png",
+      "full": "呆の期会11.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉39",
+      "file": "呆の永辉39.bds",
+      "thumb": "呆の永辉39.bds_py_26_default_thumb.png",
+      "full": "呆の永辉39.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会12",
+      "file": "呆の期会12.bds",
+      "thumb": "呆の期会12.bds_py_26_default_thumb.png",
+      "full": "呆の期会12.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会13",
+      "file": "呆の期会13.bds",
+      "thumb": "呆の期会13.bds_py_26_default_thumb.png",
+      "full": "呆の期会13.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉40",
+      "file": "呆の永辉40.bds",
+      "thumb": "呆の永辉40.bds_py_26_default_thumb.png",
+      "full": "呆の永辉40.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会14",
+      "file": "呆の期会14.bds",
+      "thumb": "呆の期会14.bds_py_26_default_thumb.png",
+      "full": "呆の期会14.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会15",
+      "file": "呆の期会15.bds",
+      "thumb": "呆の期会15.bds_py_26_default_thumb.png",
+      "full": "呆の期会15.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会16",
+      "file": "呆の期会16.bds",
+      "thumb": "呆の期会16.bds_py_26_default_thumb.png",
+      "full": "呆の期会16.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉41",
+      "file": "呆の永辉41.bds",
+      "thumb": "呆の永辉41.bds_py_26_default_thumb.png",
+      "full": "呆の永辉41.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉42",
+      "file": "呆の永辉42.bds",
+      "thumb": "呆の永辉42.bds_py_26_default_thumb.png",
+      "full": "呆の永辉42.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会17",
+      "file": "呆の期会17.bds",
+      "thumb": "呆の期会17.bds_py_26_default_thumb.png",
+      "full": "呆の期会17.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会18",
+      "file": "呆の期会18.bds",
+      "thumb": "呆の期会18.bds_py_26_default_thumb.png",
+      "full": "呆の期会18.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉43",
+      "file": "呆の永辉43.bds",
+      "thumb": "呆の永辉43.bds_py_26_default_thumb.png",
+      "full": "呆の永辉43.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉44",
+      "file": "呆の永辉44.bds",
+      "thumb": "呆の永辉44.bds_py_26_default_thumb.png",
+      "full": "呆の永辉44.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会19",
+      "file": "呆の期会19.bds",
+      "thumb": "呆の期会19.bds_py_26_default_thumb.png",
+      "full": "呆の期会19.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会20",
+      "file": "呆の期会20.bds",
+      "thumb": "呆の期会20.bds_py_26_default_thumb.png",
+      "full": "呆の期会20.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会21",
+      "file": "呆の期会21.bds",
+      "thumb": "呆の期会21.bds_py_26_default_thumb.png",
+      "full": "呆の期会21.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会22",
+      "file": "呆の期会22.bds",
+      "thumb": "呆の期会22.bds_py_26_default_thumb.png",
+      "full": "呆の期会22.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会23",
+      "file": "呆の期会23.bds",
+      "thumb": "呆の期会23.bds_py_26_default_thumb.png",
+      "full": "呆の期会23.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉46",
+      "file": "呆の永辉46.bds",
+      "thumb": "呆の永辉46.bds_py_26_default_thumb.png",
+      "full": "呆の永辉46.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉47",
+      "file": "呆の永辉47.bds",
+      "thumb": "呆の永辉47.bds_py_26_default_thumb.png",
+      "full": "呆の永辉47.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会24",
+      "file": "呆の期会24.bds",
+      "thumb": "呆の期会24.bds_py_26_default_thumb.png",
+      "full": "呆の期会24.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会25",
+      "file": "呆の期会25.bds",
+      "thumb": "呆の期会25.bds_py_26_default_thumb.png",
+      "full": "呆の期会25.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉48",
+      "file": "呆の永辉48.bds",
+      "thumb": "呆の永辉48.bds_py_26_default_thumb.png",
+      "full": "呆の永辉48.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会26",
+      "file": "呆の期会26.bds",
+      "thumb": "呆の期会26.bds_py_26_default_thumb.png",
+      "full": "呆の期会26.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉49",
+      "file": "呆の永辉49.bds",
+      "thumb": "呆の永辉49.bds_py_26_default_thumb.png",
+      "full": "呆の永辉49.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会27",
+      "file": "呆の期会27.bds",
+      "thumb": "呆の期会27.bds_py_26_default_thumb.png",
+      "full": "呆の期会27.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会28",
+      "file": "呆の期会28.bds",
+      "thumb": "呆の期会28.bds_py_26_default_thumb.png",
+      "full": "呆の期会28.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉50",
+      "file": "呆の永辉50.bds",
+      "thumb": "呆の永辉50.bds_py_26_default_thumb.png",
+      "full": "呆の永辉50.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会29",
+      "file": "呆の期会29.bds",
+      "thumb": "呆の期会29.bds_py_26_default_thumb.png",
+      "full": "呆の期会29.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉51",
+      "file": "呆の永辉51.bds",
+      "thumb": "呆の永辉51.bds_py_26_default_thumb.png",
+      "full": "呆の永辉51.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会30",
+      "file": "呆の期会30.bds",
+      "thumb": "呆の期会30.bds_py_26_default_thumb.png",
+      "full": "呆の期会30.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会31",
+      "file": "呆の期会31.bds",
+      "thumb": "呆の期会31.bds_py_26_default_thumb.png",
+      "full": "呆の期会31.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会30",
+      "file": "呆-期会30.bds",
+      "thumb": "呆-期会30.bds_py_26_default_thumb.png",
+      "full": "呆-期会30.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉52",
+      "file": "呆の永辉52.bds",
+      "thumb": "呆の永辉52.bds_py_26_default_thumb.png",
+      "full": "呆の永辉52.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会32",
+      "file": "呆の期会32.bds",
+      "thumb": "呆の期会32.bds_py_26_default_thumb.png",
+      "full": "呆の期会32.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会33",
+      "file": "呆の期会33.bds",
+      "thumb": "呆の期会33.bds_py_26_default_thumb.png",
+      "full": "呆の期会33.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉53",
+      "file": "呆の永辉53.bds",
+      "thumb": "呆の永辉53.bds_py_26_default_thumb.png",
+      "full": "呆の永辉53.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会34",
+      "file": "呆の期会34.bds",
+      "thumb": "呆の期会34.bds_py_26_default_thumb.png",
+      "full": "呆の期会34.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会35",
+      "file": "呆の期会35.bds",
+      "thumb": "呆の期会35.bds_py_26_default_thumb.png",
+      "full": "呆の期会35.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会36",
+      "file": "呆の期会36.bds",
+      "thumb": "呆の期会36.bds_py_26_default_thumb.png",
+      "full": "呆の期会36.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会37",
+      "file": "呆の期会37.bds",
+      "thumb": "呆の期会37.bds_py_26_default_thumb.png",
+      "full": "呆の期会37.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉54",
+      "file": "呆の永辉45.bds",
+      "thumb": "呆の永辉45.bds_py_26_default_thumb.png",
+      "full": "呆の永辉45.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉54",
+      "file": "呆の永辉54.bds",
+      "thumb": "呆の永辉54.bds_py_26_default_thumb.png",
+      "full": "呆の永辉54.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会38",
+      "file": "呆の期会38.bds",
+      "thumb": "呆の期会38.bds_py_26_default_thumb.png",
+      "full": "呆の期会38.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会39",
+      "file": "呆の期会39.bds",
+      "thumb": "呆の期会39.bds_py_26_default_thumb.png",
+      "full": "呆の期会39.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会40",
+      "file": "呆の期会40.bds",
+      "thumb": "呆の期会40.bds_py_26_default_thumb.png",
+      "full": "呆の期会40.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の永辉55",
+      "file": "呆の永辉55.bds",
+      "thumb": "呆の永辉55.bds_py_26_default_thumb.png",
+      "full": "呆の永辉55.bds_py_26_default.png"
+    },
+    {
+      "name": "呆の期会41",
+      "file": "呆の期会41.bds",
+      "thumb": "呆の期会41.bds_py_26_default_thumb.png",
+      "full": "呆の期会41.bds_py_26_default.png"
+    }
+  ]
+}
