@@ -1,0 +1,19 @@
+{
+  "qq_number": "2749033868",
+  "group_number": "1076382400",
+  "updated_at": "2026-02-13T23:42:10.848242",
+  "skins": [
+    {
+      "name": "念晚【教官的惩罚】适配键盘",
+      "file": "教官的惩罚安卓键盘.bds",
+      "thumb": "教官的惩罚安卓键盘.bds_py_26_light_thumb.png",
+      "full": "教官的惩罚安卓键盘.bds_py_26_light.png"
+    },
+    {
+      "name": "测试",
+      "file": "测试.bds",
+      "thumb": "测试.bds_py_26_light_thumb.png",
+      "full": "测试.bds_py_26_light.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "qq_number": "2124158025",
+  "group_number": "1076562181",
+  "updated_at": "2026-02-13T23:42:19.379074",
+  "skins": [
+    {
+      "name": "纯の泪渍电波",
+      "file": "纯の泪渍电波.bds",
+      "thumb": "纯の泪渍电波.bds_py_26_light_thumb.png",
+      "full": "纯の泪渍电波.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の地雷系甜甜萝",
+      "file": "蕾の地雷系甜甜萝.bds",
+      "thumb": "蕾の地雷系甜甜萝.bds_py_26_default_thumb.png",
+      "full": "蕾の地雷系甜甜萝.bds_py_26_default.png"
+    }
+  ]
+}

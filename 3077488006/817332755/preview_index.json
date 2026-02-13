@@ -1,0 +1,103 @@
+{
+  "qq_number": "3077488006",
+  "group_number": "817332755",
+  "updated_at": "2026-02-13T23:42:11.206416",
+  "skins": [
+    {
+      "name": "小羊羔｜质感",
+      "file": "免费会01.bdi",
+      "thumb": "免费会01.bdi_py_26_default_thumb.png",
+      "full": "免费会01.bdi_py_26_default.png"
+    },
+    {
+      "name": "小羊羔｜萌萝刊",
+      "file": "免费会02.bdi",
+      "thumb": "免费会02.bdi_py_26_default_thumb.png",
+      "full": "免费会02.bdi_py_26_default.png"
+    },
+    {
+      "name": "小羊羔｜水色萌",
+      "file": "免费会03.bdi",
+      "thumb": "免费会03.bdi_py_26_default_thumb.png",
+      "full": "免费会03.bdi_py_26_default.png"
+    },
+    {
+      "name": "小羊羔｜宅郁系",
+      "file": "免费会05.bdi",
+      "thumb": "免费会05.bdi_py_26_default_thumb.png",
+      "full": "免费会05.bdi_py_26_default.png"
+    },
+    {
+      "name": "小羊羔｜Rosy",
+      "file": "免费会04.bdi",
+      "thumb": "免费会04.bdi_py_26_default_thumb.png",
+      "full": "免费会04.bdi_py_26_default.png"
+    },
+    {
+      "name": "小羊羔｜这个b时间",
+      "file": "免费会06.bdi",
+      "thumb": "免费会06.bdi_py_26_default_thumb.png",
+      "full": "免费会06.bdi_py_26_default.png"
+    },
+    {
+      "name": "小羊羔｜绒绒鹿",
+      "file": "免费会07.bdi",
+      "thumb": "免费会07.bdi_py_26_default_thumb.png",
+      "full": "免费会07.bdi_py_26_default.png"
+    },
+    {
+      "name": "小羊羔｜红唇",
+      "file": "免费会08.bdi",
+      "thumb": "免费会08.bdi_py_26_default_thumb.png",
+      "full": "免费会08.bdi_py_26_default.png"
+    },
+    {
+      "name": "小羊羔｜质感",
+      "file": "免费会01.bds",
+      "thumb": "免费会01.bds_py_26_default_thumb.png",
+      "full": "免费会01.bds_py_26_default.png"
+    },
+    {
+      "name": "小羊羔｜萌萝刊",
+      "file": "免费会02.bds",
+      "thumb": "免费会02.bds_py_26_default_thumb.png",
+      "full": "免费会02.bds_py_26_default.png"
+    },
+    {
+      "name": "小羊羔｜水色萌",
+      "file": "免费会03.bds",
+      "thumb": "免费会03.bds_py_26_default_thumb.png",
+      "full": "免费会03.bds_py_26_default.png"
+    },
+    {
+      "name": "小羊羔｜宅郁系",
+      "file": "免费会05.bds",
+      "thumb": "免费会05.bds_py_26_default_thumb.png",
+      "full": "免费会05.bds_py_26_default.png"
+    },
+    {
+      "name": "小羊羔｜Rosy",
+      "file": "免费会04.bds",
+      "thumb": "免费会04.bds_py_26_default_thumb.png",
+      "full": "免费会04.bds_py_26_default.png"
+    },
+    {
+      "name": "小羊羔｜这个b时间",
+      "file": "免费会06.bds",
+      "thumb": "免费会06.bds_py_26_default_thumb.png",
+      "full": "免费会06.bds_py_26_default.png"
+    },
+    {
+      "name": "小羊羔｜绒绒鹿",
+      "file": "免费会07.bds",
+      "thumb": "免费会07.bds_py_26_default_thumb.png",
+      "full": "免费会07.bds_py_26_default.png"
+    },
+    {
+      "name": "小羊羔｜红唇",
+      "file": "免费会08.bds",
+      "thumb": "免费会08.bds_py_26_default_thumb.png",
+      "full": "免费会08.bds_py_26_default.png"
+    }
+  ]
+}

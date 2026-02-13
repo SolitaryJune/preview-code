@@ -1,0 +1,19 @@
+{
+  "qq_number": "2124158025",
+  "group_number": "946294601",
+  "updated_at": "2026-02-13T23:42:12.766169",
+  "skins": [
+    {
+      "name": "纯のChristmas",
+      "file": "纯のChristmas.bdi",
+      "thumb": "纯のChristmas.bdi_py_26_light_thumb.png",
+      "full": "纯のChristmas.bdi_py_26_light.png"
+    },
+    {
+      "name": "纯のChristmas",
+      "file": "纯のChristmas特殊.bdi",
+      "thumb": "纯のChristmas特殊.bdi_py_26_light_thumb.png",
+      "full": "纯のChristmas特殊.bdi_py_26_light.png"
+    }
+  ]
+}

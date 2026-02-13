@@ -1,0 +1,31 @@
+{
+  "qq_number": "2124158025",
+  "group_number": "704841134",
+  "updated_at": "2026-02-13T23:42:13.726141",
+  "skins": [
+    {
+      "name": "纯の芝士拿铁",
+      "file": "纯の芝士拿铁.bdi",
+      "thumb": "纯の芝士拿铁.bdi_py_26_light_thumb.png",
+      "full": "纯の芝士拿铁.bdi_py_26_light.png"
+    },
+    {
+      "name": "纯の芝士拿铁",
+      "file": "纯の芝士拿铁无飘.bdi",
+      "thumb": "纯の芝士拿铁无飘.bdi_py_26_light_thumb.png",
+      "full": "纯の芝士拿铁无飘.bdi_py_26_light.png"
+    },
+    {
+      "name": "纯の芝士拿铁",
+      "file": "纯の芝士拿铁无飘.bds",
+      "thumb": "纯の芝士拿铁无飘.bds_py_26_light_thumb.png",
+      "full": "纯の芝士拿铁无飘.bds_py_26_light.png"
+    },
+    {
+      "name": "纯の芝士拿铁",
+      "file": "纯の芝士拿铁.bds",
+      "thumb": "纯の芝士拿铁.bds_py_26_light_thumb.png",
+      "full": "纯の芝士拿铁.bds_py_26_light.png"
+    }
+  ]
+}
