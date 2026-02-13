@@ -1,0 +1,25 @@
+{
+  "qq_number": "250820548",
+  "group_number": "1077591383",
+  "updated_at": "2026-02-13T23:42:21.597601",
+  "skins": [
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "允の世界.bdi",
+      "thumb": "允の世界.bdi_py_26_light_thumb.png",
+      "full": "允の世界.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "允の世界-融.bdi",
+      "thumb": "允の世界-融.bdi_py_26_light_thumb.png",
+      "full": "允の世界-融.bdi_py_26_light.png"
+    },
+    {
+      "name": "允の世界...？",
+      "file": "允の世界.bds",
+      "thumb": "允の世界.bds_py_26_light_thumb.png",
+      "full": "允の世界.bds_py_26_light.png"
+    }
+  ]
+}
