@@ -1,0 +1,19 @@
+{
+  "qq_number": "3958509353",
+  "group_number": "1081848476",
+  "updated_at": "2026-02-13T23:42:57.132242",
+  "skins": [
+    {
+      "name": "菠萝包の野餐花园",
+      "file": "菠萝包の野餐花园.bdi",
+      "thumb": "菠萝包の野餐花园.bdi_py_26_light_thumb.png",
+      "full": "菠萝包の野餐花园.bdi_py_26_light.png"
+    },
+    {
+      "name": "菠萝包の野餐花园",
+      "file": "菠萝包の野餐花园.bds",
+      "thumb": "菠萝包の野餐花园.bds_py_26_light_thumb.png",
+      "full": "菠萝包の野餐花园.bds_py_26_light.png"
+    }
+  ]
+}
