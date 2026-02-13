@@ -1,0 +1,805 @@
+{
+  "qq_number": "2983748454",
+  "group_number": "901416509",
+  "updated_at": "2026-02-13T23:41:45.483909",
+  "skins": [
+    {
+      "name": "嘟OO九十九兄妹",
+      "file": "_嘟OO九十九兄妹1.bdi",
+      "thumb": "_嘟OO九十九兄妹1.bdi_py_26_default_thumb.png",
+      "full": "_嘟OO九十九兄妹1.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟OO九十九兄妹",
+      "file": "_嘟OO九十九兄妹.bdi",
+      "thumb": "_嘟OO九十九兄妹.bdi_py_26_default_thumb.png",
+      "full": "_嘟OO九十九兄妹.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟OO九十九兄妹",
+      "file": "_嘟OO九十九兄妹融合.bdi",
+      "thumb": "_嘟OO九十九兄妹融合.bdi_py_26_default_thumb.png",
+      "full": "_嘟OO九十九兄妹融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de明智吾郎",
+      "file": "_嘟de明智吾郎.bdi",
+      "thumb": "_嘟de明智吾郎.bdi_py_26_default_thumb.png",
+      "full": "_嘟de明智吾郎.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de明智吾郎",
+      "file": "_嘟de明智吾郎融合.bdi",
+      "thumb": "_嘟de明智吾郎融合.bdi_py_26_default_thumb.png",
+      "full": "_嘟de明智吾郎融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de神代类",
+      "file": "_嘟de神代类.bdi",
+      "thumb": "_嘟de神代类.bdi_py_26_default_thumb.png",
+      "full": "_嘟de神代类.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de神代类",
+      "file": "_嘟de神代类融合.bdi",
+      "thumb": "_嘟de神代类融合.bdi_py_26_default_thumb.png",
+      "full": "_嘟de神代类融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de超高校级的绝望",
+      "file": "_嘟de超高校级的绝望.bdi",
+      "thumb": "_嘟de超高校级的绝望.bdi_py_26_default_thumb.png",
+      "full": "_嘟de超高校级的绝望.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de轻音熊",
+      "file": "_嘟de轻音熊融合.bdi",
+      "thumb": "_嘟de轻音熊融合.bdi_py_26_default_thumb.png",
+      "full": "_嘟de轻音熊融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de这份痛楚是你给予我的",
+      "file": "_嘟de这份痛楚是你给予我的.bdi",
+      "thumb": "_嘟de这份痛楚是你给予我的.bdi_py_26_default_thumb.png",
+      "full": "_嘟de这份痛楚是你给予我的.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de这份痛楚是你给予我的",
+      "file": "_嘟de这份痛楚是你给予我的融合日模式.bdi",
+      "thumb": "_嘟de这份痛楚是你给予我的融合日模式.bdi_py_26_default_thumb.png",
+      "full": "_嘟de这份痛楚是你给予我的融合日模式.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de这份痛楚是你给予我的",
+      "file": "_嘟de这份痛楚是你给予我的融合黑模式.bdi",
+      "thumb": "_嘟de这份痛楚是你给予我的融合黑模式.bdi_py_26_default_thumb.png",
+      "full": "_嘟de这份痛楚是你给予我的融合黑模式.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de齐木楠雄的灾难",
+      "file": "_嘟de齐木楠雄的灾难.bdi",
+      "thumb": "_嘟de齐木楠雄的灾难.bdi_py_26_default_thumb.png",
+      "full": "_嘟de齐木楠雄的灾难.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de齐木楠雄的灾难",
+      "file": "_嘟de齐木楠雄的灾难融合.bdi",
+      "thumb": "_嘟de齐木楠雄的灾难融合.bdi_py_26_default_thumb.png",
+      "full": "_嘟de齐木楠雄的灾难融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟の莓尖砂糖",
+      "file": "_嘟の莓尖砂糖.bdi",
+      "thumb": "_嘟の莓尖砂糖.bdi_py_26_default_thumb.png",
+      "full": "_嘟の莓尖砂糖.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟の莓尖砂糖",
+      "file": "_嘟の莓尖砂糖融合.bdi",
+      "thumb": "_嘟の莓尖砂糖融合.bdi_py_26_default_thumb.png",
+      "full": "_嘟の莓尖砂糖融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de入间美兔",
+      "file": "嘟de入间美兔.bdi",
+      "thumb": "嘟de入间美兔.bdi_py_26_default_thumb.png",
+      "full": "嘟de入间美兔.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de入间美兔",
+      "file": "嘟de入间美兔融合.bdi",
+      "thumb": "嘟de入间美兔融合.bdi_py_26_default_thumb.png",
+      "full": "嘟de入间美兔融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟の双子护护猫",
+      "file": "嘟de双子护护猫融合.bdi",
+      "thumb": "嘟de双子护护猫融合.bdi_py_26_default_thumb.png",
+      "full": "嘟de双子护护猫融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de吸收夜之泪的玫瑰",
+      "file": "嘟de吸收夜之泪的玫瑰融合.bdi",
+      "thumb": "嘟de吸收夜之泪的玫瑰融合.bdi_py_26_default_thumb.png",
+      "full": "嘟de吸收夜之泪的玫瑰融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟の晓山瑞希",
+      "file": "嘟de晓山瑞希融合.bdi",
+      "thumb": "嘟de晓山瑞希融合.bdi_py_26_default_thumb.png",
+      "full": "嘟de晓山瑞希融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de死亡不足以证明",
+      "file": "嘟de死亡不足以证明.bdi",
+      "thumb": "嘟de死亡不足以证明.bdi_py_26_default_thumb.png",
+      "full": "嘟de死亡不足以证明.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de死亡不足以证明",
+      "file": "嘟de死亡不足以证明融合.bdi",
+      "thumb": "嘟de死亡不足以证明融合.bdi_py_26_default_thumb.png",
+      "full": "嘟de死亡不足以证明融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de爱与死的协议",
+      "file": "嘟de爱与死的协议融合.bdi",
+      "thumb": "嘟de爱与死的协议融合.bdi_py_26_default_thumb.png",
+      "full": "嘟de爱与死的协议融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de眼泪为什么是黑色",
+      "file": "嘟de眼泪为什么是黑色.bdi",
+      "thumb": "嘟de眼泪为什么是黑色.bdi_py_26_default_thumb.png",
+      "full": "嘟de眼泪为什么是黑色.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de眼泪为什么是黑色",
+      "file": "嘟de眼泪为什么是黑色融合.bdi",
+      "thumb": "嘟de眼泪为什么是黑色融合.bdi_py_26_default_thumb.png",
+      "full": "嘟de眼泪为什么是黑色融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de矢泽妮可",
+      "file": "嘟de矢泽妮可.bdi",
+      "thumb": "嘟de矢泽妮可.bdi_py_26_default_thumb.png",
+      "full": "嘟de矢泽妮可.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de矢泽妮可",
+      "file": "嘟de矢泽妮可融合.bdi",
+      "thumb": "嘟de矢泽妮可融合.bdi_py_26_default_thumb.png",
+      "full": "嘟de矢泽妮可融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟の神尾观铃",
+      "file": "嘟de神尾观铃融合.bdi",
+      "thumb": "嘟de神尾观铃融合.bdi_py_26_default_thumb.png",
+      "full": "嘟de神尾观铃融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟妹de萌圆夢抓",
+      "file": "嘟de萌圆夢抓.bdi",
+      "thumb": "嘟de萌圆夢抓.bdi_py_26_default_thumb.png",
+      "full": "嘟de萌圆夢抓.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟du蓝系游乐园",
+      "file": "嘟de蓝系游乐园.bdi",
+      "thumb": "嘟de蓝系游乐园.bdi_py_26_default_thumb.png",
+      "full": "嘟de蓝系游乐园.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de轻音熊",
+      "file": "嘟de轻音熊.bdi",
+      "thumb": "嘟de轻音熊.bdi_py_26_default_thumb.png",
+      "full": "嘟de轻音熊.bdi_py_26_default.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "嘟de欢迎回来iOS融合.bdi",
+      "thumb": "嘟de欢迎回来iOS融合.bdi_py_26_light_thumb.png",
+      "full": "嘟de欢迎回来iOS融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "嘟de这个素布丁拟人吗.bdi",
+      "thumb": "嘟de这个素布丁拟人吗.bdi_py_26_light_thumb.png",
+      "full": "嘟de这个素布丁拟人吗.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "嘟de这个素布丁拟人吗融合.bdi",
+      "thumb": "嘟de这个素布丁拟人吗融合.bdi_py_26_light_thumb.png",
+      "full": "嘟de这个素布丁拟人吗融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "嘟du蓝系游乐园",
+      "file": "嘟du蓝系游乐园融合.bdi",
+      "thumb": "嘟du蓝系游乐园融合.bdi_py_26_default_thumb.png",
+      "full": "嘟du蓝系游乐园融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟の晓山瑞希",
+      "file": "嘟嘟de晓山瑞希.bdi",
+      "thumb": "嘟嘟de晓山瑞希.bdi_py_26_default_thumb.png",
+      "full": "嘟嘟de晓山瑞希.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de爱与死的协议",
+      "file": "嘟嘟de爱与死的协议.bdi",
+      "thumb": "嘟嘟de爱与死的协议.bdi_py_26_default_thumb.png",
+      "full": "嘟嘟de爱与死的协议.bdi_py_26_default.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "嘟嘟de欢迎回来.bdi",
+      "thumb": "嘟嘟de欢迎回来.bdi_py_26_light_thumb.png",
+      "full": "嘟嘟de欢迎回来.bdi_py_26_light.png"
+    },
+    {
+      "name": "嘟の春日野穹",
+      "file": "春日野穹iOS.bdi",
+      "thumb": "春日野穹iOS.bdi_py_26_light_thumb.png",
+      "full": "春日野穹iOS.bdi_py_26_light.png"
+    },
+    {
+      "name": "嘟の春日野穹",
+      "file": "春日野穹iOS融合.bdi",
+      "thumb": "春日野穹iOS融合.bdi_py_26_light_thumb.png",
+      "full": "春日野穹iOS融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "又是粉娃iOS.bdi",
+      "thumb": "又是粉娃iOS.bdi_py_26_light_thumb.png",
+      "full": "又是粉娃iOS.bdi_py_26_light.png"
+    },
+    {
+      "name": "嘟のμ's",
+      "file": "嘟のμs2.bdi",
+      "thumb": "嘟のμs2.bdi_py_26_default_thumb.png",
+      "full": "嘟のμs2.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟のμ's",
+      "file": "嘟のμs融合.bdi",
+      "thumb": "嘟のμs融合.bdi_py_26_default_thumb.png",
+      "full": "嘟のμs融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟のあじさいflower",
+      "file": "嘟のあじさいflower.bdi",
+      "thumb": "嘟のあじさいflower.bdi_py_26_default_thumb.png",
+      "full": "嘟のあじさいflower.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟のクローバー本绿ふん",
+      "file": "嘟のクローバー本绿ふん.bdi",
+      "thumb": "嘟のクローバー本绿ふん.bdi_py_26_default_thumb.png",
+      "full": "嘟のクローバー本绿ふん.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟のクローバー本绿ふん",
+      "file": "嘟のクローバー本绿ふん融合.bdi",
+      "thumb": "嘟のクローバー本绿ふん融合.bdi_py_26_default_thumb.png",
+      "full": "嘟のクローバー本绿ふん融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟の下午茶",
+      "file": "嘟の下午茶.bdi",
+      "thumb": "嘟の下午茶.bdi_py_26_light_thumb.png",
+      "full": "嘟の下午茶.bdi_py_26_light.png"
+    },
+    {
+      "name": "嘟の亚托莉アトリー",
+      "file": "嘟の亚托莉アトリー.bdi",
+      "thumb": "嘟の亚托莉アトリー.bdi_py_26_default_thumb.png",
+      "full": "嘟の亚托莉アトリー.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟の双子护护猫",
+      "file": "嘟の双子护护猫.bdi",
+      "thumb": "嘟の双子护护猫.bdi_py_26_default_thumb.png",
+      "full": "嘟の双子护护猫.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de吸收夜之泪的玫瑰",
+      "file": "嘟の吸收夜之泪的玫瑰.bdi",
+      "thumb": "嘟の吸收夜之泪的玫瑰.bdi_py_26_default_thumb.png",
+      "full": "嘟の吸收夜之泪的玫瑰.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟の常陆茉子",
+      "file": "嘟の常陆茉子.bdi",
+      "thumb": "嘟の常陆茉子.bdi_py_26_light_thumb.png",
+      "full": "嘟の常陆茉子.bdi_py_26_light.png"
+    },
+    {
+      "name": "嘟の常陆茉子",
+      "file": "嘟の常陆茉子融合.bdi",
+      "thumb": "嘟の常陆茉子融合.bdi_py_26_light_thumb.png",
+      "full": "嘟の常陆茉子融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "嘟の念旧的重力黑洞",
+      "file": "嘟の念旧的重力黑洞.bdi",
+      "thumb": "嘟の念旧的重力黑洞.bdi_py_26_default_thumb.png",
+      "full": "嘟の念旧的重力黑洞.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟の念旧的重力黑洞",
+      "file": "嘟の念旧的重力黑洞融合.bdi",
+      "thumb": "嘟の念旧的重力黑洞融合.bdi_py_26_default_thumb.png",
+      "full": "嘟の念旧的重力黑洞融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟の梦幻甜",
+      "file": "嘟の梦幻甜.bdi",
+      "thumb": "嘟の梦幻甜.bdi_py_26_default_thumb.png",
+      "full": "嘟の梦幻甜.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟の神尾观铃",
+      "file": "嘟の神尾观铃.bdi",
+      "thumb": "嘟の神尾观铃.bdi_py_26_default_thumb.png",
+      "full": "嘟の神尾观铃.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de萌一点很正常嘛",
+      "file": "嘟の萌很正常嘛.bdi",
+      "thumb": "嘟の萌很正常嘛.bdi_py_26_light_thumb.png",
+      "full": "嘟の萌很正常嘛.bdi_py_26_light.png"
+    },
+    {
+      "name": "被我所爱，会很痛吗",
+      "file": "嘟の被我所爱会很痛吗.bdi",
+      "thumb": "嘟の被我所爱会很痛吗.bdi_py_26_default_thumb.png",
+      "full": "嘟の被我所爱会很痛吗.bdi_py_26_default.png"
+    },
+    {
+      "name": "被我所爱，会很痛吗",
+      "file": "嘟の被我所爱会很痛吗融合.bdi",
+      "thumb": "嘟の被我所爱会很痛吗融合.bdi_py_26_default_thumb.png",
+      "full": "嘟の被我所爱会很痛吗融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟妹de萌圆夢抓",
+      "file": "嘟妹de萌圆夢抓融合.bdi",
+      "thumb": "嘟妹de萌圆夢抓融合.bdi_py_26_default_thumb.png",
+      "full": "嘟妹de萌圆夢抓融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟de萌一点很正常嘛",
+      "file": "嘟妹de萌很正常嘛融合.bdi",
+      "thumb": "嘟妹de萌很正常嘛融合.bdi_py_26_light_thumb.png",
+      "full": "嘟妹de萌很正常嘛融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "嘟の蕾丝纱纱",
+      "file": "嘟妹de蕾丝纱纱.bdi",
+      "thumb": "嘟妹de蕾丝纱纱.bdi_py_26_default_thumb.png",
+      "full": "嘟妹de蕾丝纱纱.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟の蕾丝纱纱",
+      "file": "嘟妹de蕾丝纱纱融合.bdi",
+      "thumb": "嘟妹de蕾丝纱纱融合.bdi_py_26_default_thumb.png",
+      "full": "嘟妹de蕾丝纱纱融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟の美乐蒂娃娃会",
+      "file": "嘟妹制作美乐蒂娃娃会iOS.bdi",
+      "thumb": "嘟妹制作美乐蒂娃娃会iOS.bdi_py_26_light_thumb.png",
+      "full": "嘟妹制作美乐蒂娃娃会iOS.bdi_py_26_light.png"
+    },
+    {
+      "name": "嘟の美乐蒂娃娃会",
+      "file": "嘟妹制作美乐蒂娃娃会iOS融合.bdi",
+      "thumb": "嘟妹制作美乐蒂娃娃会iOS融合.bdi_py_26_light_thumb.png",
+      "full": "嘟妹制作美乐蒂娃娃会iOS融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "嘟de锦亚澄",
+      "file": "嘟妹制作锦亚澄1.bdi",
+      "thumb": "嘟妹制作锦亚澄1.bdi_py_26_light_thumb.png",
+      "full": "嘟妹制作锦亚澄1.bdi_py_26_light.png"
+    },
+    {
+      "name": "嘟de锦亚澄",
+      "file": "嘟妹制作锦亚澄融合1.bdi",
+      "thumb": "嘟妹制作锦亚澄融合1.bdi_py_26_light_thumb.png",
+      "full": "嘟妹制作锦亚澄融合1.bdi_py_26_light.png"
+    },
+    {
+      "name": "嘟の少女书季",
+      "file": "少女书季iOS1.bdi",
+      "thumb": "少女书季iOS1.bdi_py_26_light_thumb.png",
+      "full": "少女书季iOS1.bdi_py_26_light.png"
+    },
+    {
+      "name": "嘟の少女书季",
+      "file": "少女书季iOS融合.bdi",
+      "thumb": "少女书季iOS融合.bdi_py_26_light_thumb.png",
+      "full": "少女书季iOS融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "嘟の水色法师",
+      "file": "水色法师iOS.bdi",
+      "thumb": "水色法师iOS.bdi_py_26_light_thumb.png",
+      "full": "水色法师iOS.bdi_py_26_light.png"
+    },
+    {
+      "name": "嘟の水色法师",
+      "file": "水色法师iOS融合.bdi",
+      "thumb": "水色法师iOS融合.bdi_py_26_light_thumb.png",
+      "full": "水色法师iOS融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "嘟の粉色小熊kill˶˃ ᵕ ˂˶",
+      "file": "粉粉字iOS.bdi",
+      "thumb": "粉粉字iOS.bdi_py_26_default_thumb.png",
+      "full": "粉粉字iOS.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟の粉雪兔",
+      "file": "粉雪兔iOS.bdi",
+      "thumb": "粉雪兔iOS.bdi_py_26_light_thumb.png",
+      "full": "粉雪兔iOS.bdi_py_26_light.png"
+    },
+    {
+      "name": "嘟の绿色甜心",
+      "file": "绿色甜心iOS.bdi",
+      "thumb": "绿色甜心iOS.bdi_py_26_default_thumb.png",
+      "full": "绿色甜心iOS.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟の蕾带蝴蝶语",
+      "file": "蕾带蝴蝶语iOS.bdi",
+      "thumb": "蕾带蝴蝶语iOS.bdi_py_26_light_thumb.png",
+      "full": "蕾带蝴蝶语iOS.bdi_py_26_light.png"
+    },
+    {
+      "name": "嘟の蕾带蝴蝶语",
+      "file": "蕾带蝴蝶语iOS融合.bdi",
+      "thumb": "蕾带蝴蝶语iOS融合.bdi_py_26_light_thumb.png",
+      "full": "蕾带蝴蝶语iOS融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "嘟の雪偶音",
+      "file": "雪偶音iOS.bdi",
+      "thumb": "雪偶音iOS.bdi_py_26_default_thumb.png",
+      "full": "雪偶音iOS.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟の黑屋",
+      "file": "黑屋iOS.bdi",
+      "thumb": "黑屋iOS.bdi_py_26_light_thumb.png",
+      "full": "黑屋iOS.bdi_py_26_light.png"
+    },
+    {
+      "name": "嘟の黑屋",
+      "file": "黑屋iOS融合1.bdi",
+      "thumb": "黑屋iOS融合1.bdi_py_26_light_thumb.png",
+      "full": "黑屋iOS融合1.bdi_py_26_light.png"
+    },
+    {
+      "name": "嘟๑直达深处的爱",
+      "file": "嘟๑直达深处的爱.bdi",
+      "thumb": "嘟๑直达深处的爱.bdi_py_26_default_thumb.png",
+      "full": "嘟๑直达深处的爱.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟๑直达深处的爱",
+      "file": "嘟๑直达深处的爱融合.bdi",
+      "thumb": "嘟๑直达深处的爱融合.bdi_py_26_default_thumb.png",
+      "full": "嘟๑直达深处的爱融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "嘟嘟の九十九兄妹",
+      "file": "_嘟OO九十九兄妹.bds",
+      "thumb": "_嘟OO九十九兄妹.bds_py_26_default_thumb.png",
+      "full": "_嘟OO九十九兄妹.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟嘟の九十九兄妹",
+      "file": "_嘟OO九十九兄妹融合.bds",
+      "thumb": "_嘟OO九十九兄妹融合.bds_py_26_default_thumb.png",
+      "full": "_嘟OO九十九兄妹融合.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟de明智吾",
+      "file": "_嘟de明智吾郎.bds",
+      "thumb": "_嘟de明智吾郎.bds_py_26_default_thumb.png",
+      "full": "_嘟de明智吾郎.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟de明智吾郎",
+      "file": "_嘟de明智吾郎融合.bds",
+      "thumb": "_嘟de明智吾郎融合.bds_py_26_default_thumb.png",
+      "full": "_嘟de明智吾郎融合.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟de神代类",
+      "file": "_嘟de神代类融合.bds",
+      "thumb": "_嘟de神代类融合.bds_py_26_default_thumb.png",
+      "full": "_嘟de神代类融合.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟de超高校级的绝望",
+      "file": "_嘟de超高校级的绝望.bds",
+      "thumb": "_嘟de超高校级的绝望.bds_py_26_default_thumb.png",
+      "full": "_嘟de超高校级的绝望.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟de轻音熊",
+      "file": "_嘟de轻音熊.bds",
+      "thumb": "_嘟de轻音熊.bds_py_26_default_thumb.png",
+      "full": "_嘟de轻音熊.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟de这份痛楚是你给予我的",
+      "file": "_嘟de这份痛楚是你给予我的.bds",
+      "thumb": "_嘟de这份痛楚是你给予我的.bds_py_26_default_thumb.png",
+      "full": "_嘟de这份痛楚是你给予我的.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟de齐木楠雄的灾难",
+      "file": "_嘟de齐木楠雄的灾难.bds",
+      "thumb": "_嘟de齐木楠雄的灾难.bds_py_26_default_thumb.png",
+      "full": "_嘟de齐木楠雄的灾难.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟de齐木楠雄的灾难",
+      "file": "_嘟de齐木楠雄的灾难融合.bds",
+      "thumb": "_嘟de齐木楠雄的灾难融合.bds_py_26_default_thumb.png",
+      "full": "_嘟de齐木楠雄的灾难融合.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟の莓尖砂糖",
+      "file": "_嘟の莓尖砂糖.bds",
+      "thumb": "_嘟の莓尖砂糖.bds_py_26_default_thumb.png",
+      "full": "_嘟の莓尖砂糖.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟の莓尖砂糖",
+      "file": "_嘟の莓尖砂糖融合.bds",
+      "thumb": "_嘟の莓尖砂糖融合.bds_py_26_default_thumb.png",
+      "full": "_嘟の莓尖砂糖融合.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟の又是粉娃",
+      "file": "又是粉娃安卓.bds",
+      "thumb": "又是粉娃安卓.bds_py_26_light_thumb.png",
+      "full": "又是粉娃安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "嘟de入间美兔",
+      "file": "嘟de入间美兔.bds",
+      "thumb": "嘟de入间美兔.bds_py_26_default_thumb.png",
+      "full": "嘟de入间美兔.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟de入间美兔",
+      "file": "嘟de入间美兔融合.bds",
+      "thumb": "嘟de入间美兔融合.bds_py_26_default_thumb.png",
+      "full": "嘟de入间美兔融合.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟の双子护护猫",
+      "file": "嘟de双子护护猫.bds",
+      "thumb": "嘟de双子护护猫.bds_py_26_default_thumb.png",
+      "full": "嘟de双子护护猫.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟de吸收夜之泪的玫瑰",
+      "file": "嘟de吸收夜之泪的玫瑰.bds",
+      "thumb": "嘟de吸收夜之泪的玫瑰.bds_py_26_default_thumb.png",
+      "full": "嘟de吸收夜之泪的玫瑰.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟de晓山瑞希",
+      "file": "嘟de晓山瑞希.bds",
+      "thumb": "嘟de晓山瑞希.bds_py_26_default_thumb.png",
+      "full": "嘟de晓山瑞希.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟de永253",
+      "file": "嘟de死亡不足以证明.bds",
+      "thumb": "嘟de死亡不足以证明.bds_py_26_default_thumb.png",
+      "full": "嘟de死亡不足以证明.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟de永253",
+      "file": "嘟de死亡不足以证明融合.bds",
+      "thumb": "嘟de死亡不足以证明融合.bds_py_26_default_thumb.png",
+      "full": "嘟de死亡不足以证明融合.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟de清新的青宝石",
+      "file": "嘟de清新的青宝石2.bds",
+      "thumb": "嘟de清新的青宝石2.bds_py_26_default_thumb.png",
+      "full": "嘟de清新的青宝石2.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟de眼泪为什么是黑色",
+      "file": "嘟de眼泪为什么是黑色.bds",
+      "thumb": "嘟de眼泪为什么是黑色.bds_py_26_default_thumb.png",
+      "full": "嘟de眼泪为什么是黑色.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟de眼泪为什么是黑色",
+      "file": "嘟de眼泪为什么是黑色融合.bds",
+      "thumb": "嘟de眼泪为什么是黑色融合.bds_py_26_default_thumb.png",
+      "full": "嘟de眼泪为什么是黑色融合.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟の矢泽妮可",
+      "file": "嘟de矢泽妮可.bds",
+      "thumb": "嘟de矢泽妮可.bds_py_26_default_thumb.png",
+      "full": "嘟de矢泽妮可.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟de神代类",
+      "file": "嘟de神代类.bds",
+      "thumb": "嘟de神代类.bds_py_26_default_thumb.png",
+      "full": "嘟de神代类.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟de绘粉巧克云朵",
+      "file": "嘟de绘粉巧克云朵.bds",
+      "thumb": "嘟de绘粉巧克云朵.bds_py_26_default_thumb.png",
+      "full": "嘟de绘粉巧克云朵.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟de萌一点很正常嘛",
+      "file": "嘟de萌很正常嘛.bds",
+      "thumb": "嘟de萌很正常嘛.bds_py_26_light_thumb.png",
+      "full": "嘟de萌很正常嘛.bds_py_26_light.png"
+    },
+    {
+      "name": "嘟de轻音熊",
+      "file": "嘟de轻音熊融合.bds",
+      "thumb": "嘟de轻音熊融合.bds_py_26_default_thumb.png",
+      "full": "嘟de轻音熊融合.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟妹de欢迎回来",
+      "file": "嘟de欢迎回来.bds",
+      "thumb": "嘟de欢迎回来.bds_py_26_light_thumb.png",
+      "full": "嘟de欢迎回来.bds_py_26_light.png"
+    },
+    {
+      "name": "这是布丁拟人吗",
+      "file": "嘟de这个素布丁拟人吗.bds",
+      "thumb": "嘟de这个素布丁拟人吗.bds_py_26_light_thumb.png",
+      "full": "嘟de这个素布丁拟人吗.bds_py_26_light.png"
+    },
+    {
+      "name": "嘟du蓝系游乐园",
+      "file": "嘟du蓝系游乐园.bds",
+      "thumb": "嘟du蓝系游乐园.bds_py_26_default_thumb.png",
+      "full": "嘟du蓝系游乐园.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟du蓝系游乐园",
+      "file": "嘟du蓝系游乐园融合.bds",
+      "thumb": "嘟du蓝系游乐园融合.bds_py_26_default_thumb.png",
+      "full": "嘟du蓝系游乐园融合.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟のμ's",
+      "file": "嘟のμs.bds",
+      "thumb": "嘟のμs.bds_py_26_default_thumb.png",
+      "full": "嘟のμs.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟のμ's",
+      "file": "嘟のμs融合.bds",
+      "thumb": "嘟のμs融合.bds_py_26_default_thumb.png",
+      "full": "嘟のμs融合.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟のあじさいflower",
+      "file": "嘟のあじさいflower.bds",
+      "thumb": "嘟のあじさいflower.bds_py_26_default_thumb.png",
+      "full": "嘟のあじさいflower.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟のクローバー本绿ふん",
+      "file": "嘟のクローバー本绿ふん.bds",
+      "thumb": "嘟のクローバー本绿ふん.bds_py_26_default_thumb.png",
+      "full": "嘟のクローバー本绿ふん.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟のクローバー本绿ふん",
+      "file": "嘟のクローバー本绿ふん融合.bds",
+      "thumb": "嘟のクローバー本绿ふん融合.bds_py_26_default_thumb.png",
+      "full": "嘟のクローバー本绿ふん融合.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟の下午茶",
+      "file": "嘟の下午茶.bds",
+      "thumb": "嘟の下午茶.bds_py_26_light_thumb.png",
+      "full": "嘟の下午茶.bds_py_26_light.png"
+    },
+    {
+      "name": "嘟の亚托莉アトリー",
+      "file": "嘟の亚托莉アトリー.bds",
+      "thumb": "嘟の亚托莉アトリー.bds_py_26_default_thumb.png",
+      "full": "嘟の亚托莉アトリー.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟の常陆茉子",
+      "file": "嘟の常陆茉子.bds",
+      "thumb": "嘟の常陆茉子.bds_py_26_light_thumb.png",
+      "full": "嘟の常陆茉子.bds_py_26_light.png"
+    },
+    {
+      "name": "嘟の念旧的重力黑洞",
+      "file": "嘟の念旧的重力黑洞.bds",
+      "thumb": "嘟の念旧的重力黑洞.bds_py_26_default_thumb.png",
+      "full": "嘟の念旧的重力黑洞.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟の梦幻甜",
+      "file": "嘟の梦幻甜.bds",
+      "thumb": "嘟の梦幻甜.bds_py_26_default_thumb.png",
+      "full": "嘟の梦幻甜.bds_py_26_default.png"
+    },
+    {
+      "name": "被我所爱，会很痛吗",
+      "file": "嘟の被我所爱会很痛吗.bds",
+      "thumb": "嘟の被我所爱会很痛吗.bds_py_26_default_thumb.png",
+      "full": "嘟の被我所爱会很痛吗.bds_py_26_default.png"
+    },
+    {
+      "name": "被我所爱，会很痛吗",
+      "file": "嘟の被我所爱会很痛吗融合.bds",
+      "thumb": "嘟の被我所爱会很痛吗融合.bds_py_26_default_thumb.png",
+      "full": "嘟の被我所爱会很痛吗融合.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟de爱与死的协议",
+      "file": "嘟嘟de爱与死的协议.bds",
+      "thumb": "嘟嘟de爱与死的协议.bds_py_26_default_thumb.png",
+      "full": "嘟嘟de爱与死的协议.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟妹de萌圆夢抓",
+      "file": "嘟妹de萌圆夢抓.bds",
+      "thumb": "嘟妹de萌圆夢抓.bds_py_26_default_thumb.png",
+      "full": "嘟妹de萌圆夢抓.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟の蕾丝纱纱",
+      "file": "嘟妹de蕾丝纱纱.bds",
+      "thumb": "嘟妹de蕾丝纱纱.bds_py_26_default_thumb.png",
+      "full": "嘟妹de蕾丝纱纱.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟de锦亚澄",
+      "file": "嘟妹制作锦亚澄2.bds",
+      "thumb": "嘟妹制作锦亚澄2.bds_py_26_light_thumb.png",
+      "full": "嘟妹制作锦亚澄2.bds_py_26_light.png"
+    },
+    {
+      "name": "嘟の少女书季",
+      "file": "少女书季安卓.bds",
+      "thumb": "少女书季安卓.bds_py_26_light_thumb.png",
+      "full": "少女书季安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "嘟๑直达深处的爱",
+      "file": "嘟๑直达深处的爱.bds",
+      "thumb": "嘟๑直达深处的爱.bds_py_26_default_thumb.png",
+      "full": "嘟๑直达深处的爱.bds_py_26_default.png"
+    },
+    {
+      "name": "嘟๑直达深处的爱",
+      "file": "嘟๑直达深处的爱融合.bds",
+      "thumb": "嘟๑直达深处的爱融合.bds_py_26_default_thumb.png",
+      "full": "嘟๑直达深处的爱融合.bds_py_26_default.png"
+    }
+  ]
+}
