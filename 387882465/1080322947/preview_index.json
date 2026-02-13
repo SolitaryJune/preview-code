@@ -1,0 +1,55 @@
+{
+  "qq_number": "387882465",
+  "group_number": "1080322947",
+  "updated_at": "2026-02-13T23:42:19.179028",
+  "skins": [
+    {
+      "name": "骸骨卖萌点",
+      "file": "骸骨卖萌点星星融合.bdi",
+      "thumb": "骸骨卖萌点星星融合.bdi_py_26_default_thumb.png",
+      "full": "骸骨卖萌点星星融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "骸骨卖萌点",
+      "file": "骸骨卖萌点彩底.bdi",
+      "thumb": "骸骨卖萌点彩底.bdi_py_26_default_thumb.png",
+      "full": "骸骨卖萌点彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "骸骨古堡残梦",
+      "file": "骸骨古堡残梦星星融合.bdi",
+      "thumb": "骸骨古堡残梦星星融合.bdi_py_26_default_thumb.png",
+      "full": "骸骨古堡残梦星星融合.bdi_py_26_default.png"
+    },
+    {
+      "name": "骸骨古堡残梦",
+      "file": "骸骨古堡残梦彩底.bdi",
+      "thumb": "骸骨古堡残梦彩底.bdi_py_26_default_thumb.png",
+      "full": "骸骨古堡残梦彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "骸骨卖萌点",
+      "file": "骸骨卖萌点星星融合.bds",
+      "thumb": "骸骨卖萌点星星融合.bds_py_26_default_thumb.png",
+      "full": "骸骨卖萌点星星融合.bds_py_26_default.png"
+    },
+    {
+      "name": "骸骨卖萌点",
+      "file": "骸骨卖萌点彩底.bds",
+      "thumb": "骸骨卖萌点彩底.bds_py_26_default_thumb.png",
+      "full": "骸骨卖萌点彩底.bds_py_26_default.png"
+    },
+    {
+      "name": "骸骨古堡残梦",
+      "file": "骸骨古堡残梦彩底.bds",
+      "thumb": "骸骨古堡残梦彩底.bds_py_26_default_thumb.png",
+      "full": "骸骨古堡残梦彩底.bds_py_26_default.png"
+    },
+    {
+      "name": "骸骨古堡残梦",
+      "file": "骸骨古堡残梦星星融合.bds",
+      "thumb": "骸骨古堡残梦星星融合.bds_py_26_default_thumb.png",
+      "full": "骸骨古堡残梦星星融合.bds_py_26_default.png"
+    }
+  ]
+}
