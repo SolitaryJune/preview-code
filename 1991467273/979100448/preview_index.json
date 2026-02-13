@@ -1,0 +1,463 @@
+{
+  "qq_number": "1991467273",
+  "group_number": "979100448",
+  "updated_at": "2026-02-13T23:41:56.294762",
+  "skins": [
+    {
+      "name": "降星の小怪物",
+      "file": "降星の小怪物.bdi",
+      "thumb": "降星の小怪物.bdi_py_26_light_thumb.png",
+      "full": "降星の小怪物.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の青柠一梦",
+      "file": "降星の青柠一梦.bdi",
+      "thumb": "降星の青柠一梦.bdi_py_26_light_thumb.png",
+      "full": "降星の青柠一梦.bdi_py_26_light.png"
+    },
+    {
+      "name": "好朋友",
+      "file": "好朋友普通底.bdi",
+      "thumb": "好朋友普通底.bdi_py_26_light_thumb.png",
+      "full": "好朋友普通底.bdi_py_26_light.png"
+    },
+    {
+      "name": "好朋友",
+      "file": "好朋友融合底.bdi",
+      "thumb": "好朋友融合底.bdi_py_26_light_thumb.png",
+      "full": "好朋友融合底.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の炸毛猫",
+      "file": "降星の炸毛猫.bdi",
+      "thumb": "降星の炸毛猫.bdi_py_26_light_thumb.png",
+      "full": "降星の炸毛猫.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の甜酷兔兔",
+      "file": "降星の甜酷兔兔融底.bdi",
+      "thumb": "降星の甜酷兔兔融底.bdi_py_26_light_thumb.png",
+      "full": "降星の甜酷兔兔融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の萌物而已",
+      "file": "降星の萌物而已.bdi",
+      "thumb": "降星の萌物而已.bdi_py_26_light_thumb.png",
+      "full": "降星の萌物而已.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星のKitty&水豚",
+      "file": "降星のKitty水豚.bdi",
+      "thumb": "降星のKitty水豚.bdi_py_26_light_thumb.png",
+      "full": "降星のKitty水豚.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の碰一碰",
+      "file": "降星の碰一碰.bdi",
+      "thumb": "降星の碰一碰.bdi_py_26_light_thumb.png",
+      "full": "降星の碰一碰.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の春去",
+      "file": "降星の春去.bdi",
+      "thumb": "降星の春去.bdi_py_26_light_thumb.png",
+      "full": "降星の春去.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の抽象简笔画",
+      "file": "降星の抽象简笔画融底.bdi",
+      "thumb": "降星の抽象简笔画融底.bdi_py_26_light_thumb.png",
+      "full": "降星の抽象简笔画融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の动物世界",
+      "file": "降星の动物世界.bdi",
+      "thumb": "降星の动物世界.bdi_py_26_light_thumb.png",
+      "full": "降星の动物世界.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の星花",
+      "file": "降星の星花融合底.bdi",
+      "thumb": "降星の星花融合底.bdi_py_26_light_thumb.png",
+      "full": "降星の星花融合底.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の冠冕",
+      "file": "降星の冠冕.bdi",
+      "thumb": "降星の冠冕.bdi_py_26_light_thumb.png",
+      "full": "降星の冠冕.bdi_py_26_light.png"
+    },
+    {
+      "name": "童趣",
+      "file": "童趣融底.bdi",
+      "thumb": "童趣融底.bdi_py_26_light_thumb.png",
+      "full": "童趣融底.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の玩偶聚会",
+      "file": "降星の玩偶聚会.bdi",
+      "thumb": "降星の玩偶聚会.bdi_py_26_light_thumb.png",
+      "full": "降星の玩偶聚会.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の简约黑",
+      "file": "降星の简约黑融合底.bdi",
+      "thumb": "降星の简约黑融合底.bdi_py_26_light_thumb.png",
+      "full": "降星の简约黑融合底.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の粉色小猫",
+      "file": "降星の粉色小猫.bdi",
+      "thumb": "降星の粉色小猫.bdi_py_26_light_thumb.png",
+      "full": "降星の粉色小猫.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の秋日序曲",
+      "file": "降星の秋日序曲.bdi",
+      "thumb": "降星の秋日序曲.bdi_py_26_light_thumb.png",
+      "full": "降星の秋日序曲.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の恋爱日记",
+      "file": "降星の恋爱日记.bdi",
+      "thumb": "降星の恋爱日记.bdi_py_26_light_thumb.png",
+      "full": "降星の恋爱日记.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の小狗&小兔",
+      "file": "降星の小狗小兔.bdi",
+      "thumb": "降星の小狗小兔.bdi_py_26_light_thumb.png",
+      "full": "降星の小狗小兔.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の沈星回生日快乐",
+      "file": "降星の沈星回生日快乐融合底.bdi",
+      "thumb": "降星の沈星回生日快乐融合底.bdi_py_26_light_thumb.png",
+      "full": "降星の沈星回生日快乐融合底.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の沈星回生日快乐",
+      "file": "降星の沈星回生日快乐普通底.bdi",
+      "thumb": "降星の沈星回生日快乐普通底.bdi_py_26_light_thumb.png",
+      "full": "降星の沈星回生日快乐普通底.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の恋爱小熊",
+      "file": "降星の恋爱小熊.bdi",
+      "thumb": "降星の恋爱小熊.bdi_py_26_light_thumb.png",
+      "full": "降星の恋爱小熊.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の蝴蝶结小熊",
+      "file": "降星の蝴蝶结小熊.bdi",
+      "thumb": "降星の蝴蝶结小熊.bdi_py_26_light_thumb.png",
+      "full": "降星の蝴蝶结小熊.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の兔熊合体",
+      "file": "降星の兔熊合体.bdi",
+      "thumb": "降星の兔熊合体.bdi_py_26_light_thumb.png",
+      "full": "降星の兔熊合体.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の黑白键",
+      "file": "降星の黑白键.bdi",
+      "thumb": "降星の黑白键.bdi_py_26_light_thumb.png",
+      "full": "降星の黑白键.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の黑白小狗",
+      "file": "降星の黑白小狗.bdi",
+      "thumb": "降星の黑白小狗.bdi_py_26_light_thumb.png",
+      "full": "降星の黑白小狗.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の旺仔小熊",
+      "file": "降星の旺仔小熊.bdi",
+      "thumb": "降星の旺仔小熊.bdi_py_26_light_thumb.png",
+      "full": "降星の旺仔小熊.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の熊熊日记",
+      "file": "降星の熊熊日记.bdi",
+      "thumb": "降星の熊熊日记.bdi_py_26_light_thumb.png",
+      "full": "降星の熊熊日记.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の白眼小狗",
+      "file": "降星の白眼小狗.bdi",
+      "thumb": "降星の白眼小狗.bdi_py_26_light_thumb.png",
+      "full": "降星の白眼小狗.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の森林里的小动物",
+      "file": "降星の森林里的小动物.bdi",
+      "thumb": "降星の森林里的小动物.bdi_py_26_light_thumb.png",
+      "full": "降星の森林里的小动物.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の2026新年快乐",
+      "file": "降星の2026新年快乐.bdi",
+      "thumb": "降星の2026新年快乐.bdi_py_26_light_thumb.png",
+      "full": "降星の2026新年快乐.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の游乐园",
+      "file": "降星の游乐园.bdi",
+      "thumb": "降星の游乐园.bdi_py_26_light_thumb.png",
+      "full": "降星の游乐园.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の恐龙来喽",
+      "file": "降星の恐龙来喽.bdi",
+      "thumb": "降星の恐龙来喽.bdi_py_26_light_thumb.png",
+      "full": "降星の恐龙来喽.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の浪漫小猫",
+      "file": "降星の浪漫小猫.bdi",
+      "thumb": "降星の浪漫小猫.bdi_py_26_light_thumb.png",
+      "full": "降星の浪漫小猫.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の捣蛋鬼",
+      "file": "降星の捣蛋鬼.bdi",
+      "thumb": "降星の捣蛋鬼.bdi_py_26_light_thumb.png",
+      "full": "降星の捣蛋鬼.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の小狗の梦",
+      "file": "降星の小狗の梦.bdi",
+      "thumb": "降星の小狗の梦.bdi_py_26_light_thumb.png",
+      "full": "降星の小狗の梦.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の纯白tu",
+      "file": "降星の纯白tu.bdi",
+      "thumb": "降星の纯白tu.bdi_py_26_light_thumb.png",
+      "full": "降星の纯白tu.bdi_py_26_light.png"
+    },
+    {
+      "name": "降星の小怪物",
+      "file": "降星の小怪物.bds",
+      "thumb": "降星の小怪物.bds_py_26_light_thumb.png",
+      "full": "降星の小怪物.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の青柠一梦",
+      "file": "降星の青柠一梦.bds",
+      "thumb": "降星の青柠一梦.bds_py_26_light_thumb.png",
+      "full": "降星の青柠一梦.bds_py_26_light.png"
+    },
+    {
+      "name": "好朋友",
+      "file": "好朋友融合底.bds",
+      "thumb": "好朋友融合底.bds_py_26_light_thumb.png",
+      "full": "好朋友融合底.bds_py_26_light.png"
+    },
+    {
+      "name": "好朋友",
+      "file": "好朋友普通底.bds",
+      "thumb": "好朋友普通底.bds_py_26_light_thumb.png",
+      "full": "好朋友普通底.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の甜酷兔兔",
+      "file": "降星の甜酷兔兔普底.bds",
+      "thumb": "降星の甜酷兔兔普底.bds_py_26_light_thumb.png",
+      "full": "降星の甜酷兔兔普底.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の碰一碰",
+      "file": "降星の碰一碰.bds",
+      "thumb": "降星の碰一碰.bds_py_26_light_thumb.png",
+      "full": "降星の碰一碰.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の萌物而已",
+      "file": "降星の萌物而已.bds",
+      "thumb": "降星の萌物而已.bds_py_26_light_thumb.png",
+      "full": "降星の萌物而已.bds_py_26_light.png"
+    },
+    {
+      "name": "降星のKitty&水豚",
+      "file": "降星のKitty水豚.bds",
+      "thumb": "降星のKitty水豚.bds_py_26_light_thumb.png",
+      "full": "降星のKitty水豚.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の抽象简笔画",
+      "file": "降星の抽象简笔画彩底.bds",
+      "thumb": "降星の抽象简笔画彩底.bds_py_26_light_thumb.png",
+      "full": "降星の抽象简笔画彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の动物世界",
+      "file": "降星の动物世界.bds",
+      "thumb": "降星の动物世界.bds_py_26_light_thumb.png",
+      "full": "降星の动物世界.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の星花",
+      "file": "降星の星花普通底.bds",
+      "thumb": "降星の星花普通底.bds_py_26_light_thumb.png",
+      "full": "降星の星花普通底.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の冠冕",
+      "file": "降星の冠冕.bds",
+      "thumb": "降星の冠冕.bds_py_26_light_thumb.png",
+      "full": "降星の冠冕.bds_py_26_light.png"
+    },
+    {
+      "name": "童趣",
+      "file": "童趣普底.bds",
+      "thumb": "童趣普底.bds_py_26_light_thumb.png",
+      "full": "童趣普底.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の玩偶聚会",
+      "file": "降星の玩偶聚会.bds",
+      "thumb": "降星の玩偶聚会.bds_py_26_light_thumb.png",
+      "full": "降星の玩偶聚会.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の简约黑",
+      "file": "降星の简约黑普通底.bds",
+      "thumb": "降星の简约黑普通底.bds_py_26_light_thumb.png",
+      "full": "降星の简约黑普通底.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の粉色小猫",
+      "file": "降星の粉色小猫.bds",
+      "thumb": "降星の粉色小猫.bds_py_26_light_thumb.png",
+      "full": "降星の粉色小猫.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の七夕快乐",
+      "file": "降星の七夕快乐.bds",
+      "thumb": "降星の七夕快乐.bds_py_26_light_thumb.png",
+      "full": "降星の七夕快乐.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の秋日序曲",
+      "file": "降星の秋日序曲.bds",
+      "thumb": "降星の秋日序曲.bds_py_26_light_thumb.png",
+      "full": "降星の秋日序曲.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の恋爱日记",
+      "file": "降星の恋爱日记.bds",
+      "thumb": "降星の恋爱日记.bds_py_26_light_thumb.png",
+      "full": "降星の恋爱日记.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の小狗&小兔",
+      "file": "降星の小狗小兔.bds",
+      "thumb": "降星の小狗小兔.bds_py_26_light_thumb.png",
+      "full": "降星の小狗小兔.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の沈星回生日快乐",
+      "file": "降星の沈星回生日快乐普通底.bds",
+      "thumb": "降星の沈星回生日快乐普通底.bds_py_26_light_thumb.png",
+      "full": "降星の沈星回生日快乐普通底.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の恋爱小熊",
+      "file": "降星の恋爱小熊.bds",
+      "thumb": "降星の恋爱小熊.bds_py_26_light_thumb.png",
+      "full": "降星の恋爱小熊.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の蝴蝶结小熊",
+      "file": "降星の蝴蝶结小熊.bds",
+      "thumb": "降星の蝴蝶结小熊.bds_py_26_light_thumb.png",
+      "full": "降星の蝴蝶结小熊.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の兔熊合体",
+      "file": "降星の兔熊合体.bds",
+      "thumb": "降星の兔熊合体.bds_py_26_light_thumb.png",
+      "full": "降星の兔熊合体.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の黑白键",
+      "file": "降星の黑白键.bds",
+      "thumb": "降星の黑白键.bds_py_26_light_thumb.png",
+      "full": "降星の黑白键.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の黑白小狗",
+      "file": "降星の黑白小狗.bds",
+      "thumb": "降星の黑白小狗.bds_py_26_light_thumb.png",
+      "full": "降星の黑白小狗.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の旺仔小熊",
+      "file": "降星の旺仔小熊.bds",
+      "thumb": "降星の旺仔小熊.bds_py_26_light_thumb.png",
+      "full": "降星の旺仔小熊.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の熊熊日记",
+      "file": "降星の熊熊日记.bds",
+      "thumb": "降星の熊熊日记.bds_py_26_light_thumb.png",
+      "full": "降星の熊熊日记.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の白眼小狗",
+      "file": "降星の白眼小狗.bds",
+      "thumb": "降星の白眼小狗.bds_py_26_light_thumb.png",
+      "full": "降星の白眼小狗.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の森林里的小动物",
+      "file": "降星の森林里的小动物.bds",
+      "thumb": "降星の森林里的小动物.bds_py_26_light_thumb.png",
+      "full": "降星の森林里的小动物.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の2026新年快乐",
+      "file": "降星の2026新年快乐.bds",
+      "thumb": "降星の2026新年快乐.bds_py_26_light_thumb.png",
+      "full": "降星の2026新年快乐.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の游乐园",
+      "file": "降星の游乐园.bds",
+      "thumb": "降星の游乐园.bds_py_26_light_thumb.png",
+      "full": "降星の游乐园.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の恐龙来喽",
+      "file": "降星の恐龙来喽.bds",
+      "thumb": "降星の恐龙来喽.bds_py_26_light_thumb.png",
+      "full": "降星の恐龙来喽.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の浪漫小猫",
+      "file": "降星の浪漫小猫.bds",
+      "thumb": "降星の浪漫小猫.bds_py_26_light_thumb.png",
+      "full": "降星の浪漫小猫.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の捣蛋鬼",
+      "file": "降星の捣蛋鬼.bds",
+      "thumb": "降星の捣蛋鬼.bds_py_26_light_thumb.png",
+      "full": "降星の捣蛋鬼.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の小狗の梦",
+      "file": "降星の小狗の梦.bds",
+      "thumb": "降星の小狗の梦.bds_py_26_light_thumb.png",
+      "full": "降星の小狗の梦.bds_py_26_light.png"
+    },
+    {
+      "name": "降星の纯白tu",
+      "file": "降星の纯白tu.bds",
+      "thumb": "降星の纯白tu.bds_py_26_light_thumb.png",
+      "full": "降星の纯白tu.bds_py_26_light.png"
+    }
+  ]
+}
