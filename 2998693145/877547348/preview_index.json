@@ -1,0 +1,43 @@
+{
+  "qq_number": "2998693145",
+  "group_number": "877547348",
+  "updated_at": "2026-02-13T23:42:30.180327",
+  "skins": [
+    {
+      "name": "冬季初雪",
+      "file": "冬季初雪.bdi",
+      "thumb": "冬季初雪.bdi_py_26_default_thumb.png",
+      "full": "冬季初雪.bdi_py_26_default.png"
+    },
+    {
+      "name": "水中游",
+      "file": "水中游.bdi",
+      "thumb": "水中游.bdi_py_26_light_thumb.png",
+      "full": "水中游.bdi_py_26_light.png"
+    },
+    {
+      "name": "水中游 融合底",
+      "file": "水中游融合底.bdi",
+      "thumb": "水中游融合底.bdi_py_26_light_thumb.png",
+      "full": "水中游融合底.bdi_py_26_light.png"
+    },
+    {
+      "name": "冬季初雪",
+      "file": "冬季初雪.bds",
+      "thumb": "冬季初雪.bds_py_26_default_thumb.png",
+      "full": "冬季初雪.bds_py_26_default.png"
+    },
+    {
+      "name": "水中游",
+      "file": "水中游.bds",
+      "thumb": "水中游.bds_py_26_light_thumb.png",
+      "full": "水中游.bds_py_26_light.png"
+    },
+    {
+      "name": "水中游 融合底",
+      "file": "水中游融合底.bds",
+      "thumb": "水中游融合底.bds_py_26_light_thumb.png",
+      "full": "水中游融合底.bds_py_26_light.png"
+    }
+  ]
+}

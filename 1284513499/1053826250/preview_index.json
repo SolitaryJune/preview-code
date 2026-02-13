@@ -1,0 +1,871 @@
+{
+  "qq_number": "1284513499",
+  "group_number": "1053826250",
+  "updated_at": "2026-02-13T23:42:00.773244",
+  "skins": [
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "柿子椒熊不熊.bdi",
+      "thumb": "柿子椒熊不熊.bdi_py_26_light_thumb.png",
+      "full": "柿子椒熊不熊.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "柿子椒熊不熊无漂浮.bdi",
+      "thumb": "柿子椒熊不熊无漂浮.bdi_py_26_light_thumb.png",
+      "full": "柿子椒熊不熊无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "开心日记无漂浮.bdi",
+      "thumb": "开心日记无漂浮.bdi_py_26_light_thumb.png",
+      "full": "开心日记无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "开心日记.bdi",
+      "thumb": "开心日记.bdi_py_26_light_thumb.png",
+      "full": "开心日记.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "杂七杂八凑一家.bdi",
+      "thumb": "杂七杂八凑一家.bdi_py_26_light_thumb.png",
+      "full": "杂七杂八凑一家.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "杂七杂八凑一家无漂浮.bdi",
+      "thumb": "杂七杂八凑一家无漂浮.bdi_py_26_light_thumb.png",
+      "full": "杂七杂八凑一家无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小猫日记.bdi",
+      "thumb": "小猫日记.bdi_py_26_light_thumb.png",
+      "full": "小猫日记.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小猫日记无漂浮.bdi",
+      "thumb": "小猫日记无漂浮.bdi_py_26_light_thumb.png",
+      "full": "小猫日记无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "电子乐园无漂浮.bdi",
+      "thumb": "电子乐园无漂浮.bdi_py_26_light_thumb.png",
+      "full": "电子乐园无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "电子乐园.bdi",
+      "thumb": "电子乐园.bdi_py_26_light_thumb.png",
+      "full": "电子乐园.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "晚安小熊.bdi",
+      "thumb": "晚安小熊.bdi_py_26_light_thumb.png",
+      "full": "晚安小熊.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小熊会魔法无漂浮.bdi",
+      "thumb": "小熊会魔法无漂浮.bdi_py_26_light_thumb.png",
+      "full": "小熊会魔法无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蜡笔下的美好无漂浮.bdi",
+      "thumb": "蜡笔下的美好无漂浮.bdi_py_26_light_thumb.png",
+      "full": "蜡笔下的美好无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "动感蘑菇屋无漂浮.bdi",
+      "thumb": "动感蘑菇屋无漂浮.bdi_py_26_light_thumb.png",
+      "full": "动感蘑菇屋无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小帽儿一戴无漂浮脆.bdi",
+      "thumb": "小帽儿一戴无漂浮脆.bdi_py_26_light_thumb.png",
+      "full": "小帽儿一戴无漂浮脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "西北汪汪队.bdi",
+      "thumb": "西北汪汪队.bdi_py_26_light_thumb.png",
+      "full": "西北汪汪队.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小帽儿一戴闷.bdi",
+      "thumb": "小帽儿一戴闷.bdi_py_26_light_thumb.png",
+      "full": "小帽儿一戴闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "糖炒kitty无漂浮.bdi",
+      "thumb": "糖炒kitty无漂浮.bdi_py_26_light_thumb.png",
+      "full": "糖炒kitty无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "新新当家日记无漂浮.bdi",
+      "thumb": "新新当家日记无漂浮.bdi_py_26_light_thumb.png",
+      "full": "新新当家日记无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "晚安小熊无漂浮.bdi",
+      "thumb": "晚安小熊无漂浮.bdi_py_26_light_thumb.png",
+      "full": "晚安小熊无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "动感蘑菇屋.bdi",
+      "thumb": "动感蘑菇屋.bdi_py_26_light_thumb.png",
+      "full": "动感蘑菇屋.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "西北汪汪队无漂浮.bdi",
+      "thumb": "西北汪汪队无漂浮.bdi_py_26_light_thumb.png",
+      "full": "西北汪汪队无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "迪士尼在逃Yomi无漂浮.bdi",
+      "thumb": "迪士尼在逃Yomi无漂浮.bdi_py_26_light_thumb.png",
+      "full": "迪士尼在逃Yomi无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "咖啡主理人.bdi",
+      "thumb": "咖啡主理人.bdi_py_26_light_thumb.png",
+      "full": "咖啡主理人.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小帽儿一戴无漂浮闷.bdi",
+      "thumb": "小帽儿一戴无漂浮闷.bdi_py_26_light_thumb.png",
+      "full": "小帽儿一戴无漂浮闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小熊会魔法.bdi",
+      "thumb": "小熊会魔法.bdi_py_26_light_thumb.png",
+      "full": "小熊会魔法.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蜡笔下的美好.bdi",
+      "thumb": "蜡笔下的美好.bdi_py_26_light_thumb.png",
+      "full": "蜡笔下的美好.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小帽儿一戴脆.bdi",
+      "thumb": "小帽儿一戴脆.bdi_py_26_light_thumb.png",
+      "full": "小帽儿一戴脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "咖啡主理人无漂浮.bdi",
+      "thumb": "咖啡主理人无漂浮.bdi_py_26_light_thumb.png",
+      "full": "咖啡主理人无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "糖炒kitty.bdi",
+      "thumb": "糖炒kitty.bdi_py_26_light_thumb.png",
+      "full": "糖炒kitty.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "新新当家日记.bdi",
+      "thumb": "新新当家日记.bdi_py_26_light_thumb.png",
+      "full": "新新当家日记.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "迪士尼在逃Yomi.bdi",
+      "thumb": "迪士尼在逃Yomi.bdi_py_26_light_thumb.png",
+      "full": "迪士尼在逃Yomi.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "多吃蔬菜.bdi",
+      "thumb": "多吃蔬菜.bdi_py_26_light_thumb.png",
+      "full": "多吃蔬菜.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "多吃蔬菜无漂浮.bdi",
+      "thumb": "多吃蔬菜无漂浮.bdi_py_26_light_thumb.png",
+      "full": "多吃蔬菜无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "熊熊美柿吧无漂浮.bdi",
+      "thumb": "熊熊美柿吧无漂浮.bdi_py_26_light_thumb.png",
+      "full": "熊熊美柿吧无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "熊熊美柿吧.bdi",
+      "thumb": "熊熊美柿吧.bdi_py_26_light_thumb.png",
+      "full": "熊熊美柿吧.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "你别太抽象奥无漂浮.bdi",
+      "thumb": "你别太抽象奥无漂浮.bdi_py_26_light_thumb.png",
+      "full": "你别太抽象奥无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "你别太抽象奥.bdi",
+      "thumb": "你别太抽象奥.bdi_py_26_light_thumb.png",
+      "full": "你别太抽象奥.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "熊熊韩不韩无漂浮.bdi",
+      "thumb": "熊熊韩不韩无漂浮.bdi_py_26_light_thumb.png",
+      "full": "熊熊韩不韩无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "熊熊韩不韩.bdi",
+      "thumb": "熊熊韩不韩.bdi_py_26_light_thumb.png",
+      "full": "熊熊韩不韩.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "卷毛狗日常无漂浮.bdi",
+      "thumb": "卷毛狗日常无漂浮.bdi_py_26_light_thumb.png",
+      "full": "卷毛狗日常无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "卷毛狗日常.bdi",
+      "thumb": "卷毛狗日常.bdi_py_26_light_thumb.png",
+      "full": "卷毛狗日常.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小奇演唱会无漂浮.bdi",
+      "thumb": "小奇演唱会无漂浮.bdi_py_26_light_thumb.png",
+      "full": "小奇演唱会无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小奇演唱会.bdi",
+      "thumb": "小奇演唱会.bdi_py_26_light_thumb.png",
+      "full": "小奇演唱会.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "快乐家族.bdi",
+      "thumb": "快乐家族.bdi_py_26_light_thumb.png",
+      "full": "快乐家族.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "快乐家族无漂浮.bdi",
+      "thumb": "快乐家族无漂浮.bdi_py_26_light_thumb.png",
+      "full": "快乐家族无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "钱多多的快乐生活.bdi",
+      "thumb": "钱多多的快乐生活.bdi_py_26_light_thumb.png",
+      "full": "钱多多的快乐生活.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "钱多多的快乐生活无漂浮.bdi",
+      "thumb": "钱多多的快乐生活无漂浮.bdi_py_26_light_thumb.png",
+      "full": "钱多多的快乐生活无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "钱多多的快乐生活下沉动效.bdi",
+      "thumb": "钱多多的快乐生活下沉动效.bdi_py_26_light_thumb.png",
+      "full": "钱多多的快乐生活下沉动效.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "钱多多的快乐生活下沉动效无漂浮.bdi",
+      "thumb": "钱多多的快乐生活下沉动效无漂浮.bdi_py_26_light_thumb.png",
+      "full": "钱多多的快乐生活下沉动效无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "我的童年无漂浮.bdi",
+      "thumb": "我的童年无漂浮.bdi_py_26_light_thumb.png",
+      "full": "我的童年无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "我的童年.bdi",
+      "thumb": "我的童年.bdi_py_26_light_thumb.png",
+      "full": "我的童年.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "幼稚园的1天无漂浮.bdi",
+      "thumb": "幼稚园的1天无漂浮.bdi_py_26_light_thumb.png",
+      "full": "幼稚园的1天无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "幼稚园的1天.bdi",
+      "thumb": "幼稚园的1天.bdi_py_26_light_thumb.png",
+      "full": "幼稚园的1天.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "比巴卜熊.bdi",
+      "thumb": "比巴卜熊.bdi_py_26_light_thumb.png",
+      "full": "比巴卜熊.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "比巴卜熊无漂浮.bdi",
+      "thumb": "比巴卜熊无漂浮.bdi_py_26_light_thumb.png",
+      "full": "比巴卜熊无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小涂鸦大梦想无漂浮.bdi",
+      "thumb": "小涂鸦大梦想无漂浮.bdi_py_26_light_thumb.png",
+      "full": "小涂鸦大梦想无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小涂鸦大梦想.bdi",
+      "thumb": "小涂鸦大梦想.bdi_py_26_light_thumb.png",
+      "full": "小涂鸦大梦想.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "有点甜.bdi",
+      "thumb": "有点甜.bdi_py_26_light_thumb.png",
+      "full": "有点甜.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "有点甜无漂浮.bdi",
+      "thumb": "有点甜无漂浮.bdi_py_26_light_thumb.png",
+      "full": "有点甜无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "不做抽象派无漂浮.bdi",
+      "thumb": "不做抽象派无漂浮.bdi_py_26_light_thumb.png",
+      "full": "不做抽象派无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "不做抽象派.bdi",
+      "thumb": "不做抽象派.bdi_py_26_light_thumb.png",
+      "full": "不做抽象派.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "熊仔运动会.bdi",
+      "thumb": "熊仔运动会.bdi_py_26_light_thumb.png",
+      "full": "熊仔运动会.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "熊仔运动会无漂浮.bdi",
+      "thumb": "熊仔运动会无漂浮.bdi_py_26_light_thumb.png",
+      "full": "熊仔运动会无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "简笔涂鸦无漂浮.bdi",
+      "thumb": "简笔涂鸦无漂浮.bdi_py_26_light_thumb.png",
+      "full": "简笔涂鸦无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "简笔涂鸦.bdi",
+      "thumb": "简笔涂鸦.bdi_py_26_light_thumb.png",
+      "full": "简笔涂鸦.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小猫系冠军.bdi",
+      "thumb": "小猫系冠军.bdi_py_26_light_thumb.png",
+      "full": "小猫系冠军.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小猫系冠军无漂浮.bdi",
+      "thumb": "小猫系冠军无漂浮.bdi_py_26_light_thumb.png",
+      "full": "小猫系冠军无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小熊O泡.bdi",
+      "thumb": "小熊O泡.bdi_py_26_light_thumb.png",
+      "full": "小熊O泡.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小熊O泡无漂浮.bdi",
+      "thumb": "小熊O泡无漂浮.bdi_py_26_light_thumb.png",
+      "full": "小熊O泡无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "软绵绵的小女孩.bdi",
+      "thumb": "软绵绵的小女孩.bdi_py_26_light_thumb.png",
+      "full": "软绵绵的小女孩.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "软绵绵的小女孩无漂浮.bdi",
+      "thumb": "软绵绵的小女孩无漂浮.bdi_py_26_light_thumb.png",
+      "full": "软绵绵的小女孩无漂浮.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "柿子椒熊不熊无漂浮.bds",
+      "thumb": "柿子椒熊不熊无漂浮.bds_py_26_light_thumb.png",
+      "full": "柿子椒熊不熊无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "柿子椒熊不熊.bds",
+      "thumb": "柿子椒熊不熊.bds_py_26_light_thumb.png",
+      "full": "柿子椒熊不熊.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "开心日记无漂浮.bds",
+      "thumb": "开心日记无漂浮.bds_py_26_light_thumb.png",
+      "full": "开心日记无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "开心日记.bds",
+      "thumb": "开心日记.bds_py_26_light_thumb.png",
+      "full": "开心日记.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "杂七杂八凑一家.bds",
+      "thumb": "杂七杂八凑一家.bds_py_26_light_thumb.png",
+      "full": "杂七杂八凑一家.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "杂七杂八凑一家无漂浮.bds",
+      "thumb": "杂七杂八凑一家无漂浮.bds_py_26_light_thumb.png",
+      "full": "杂七杂八凑一家无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小猫日记.bds",
+      "thumb": "小猫日记.bds_py_26_light_thumb.png",
+      "full": "小猫日记.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小猫日记无漂浮.bds",
+      "thumb": "小猫日记无漂浮.bds_py_26_light_thumb.png",
+      "full": "小猫日记无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "电子乐园无漂浮.bds",
+      "thumb": "电子乐园无漂浮.bds_py_26_light_thumb.png",
+      "full": "电子乐园无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "电子乐园.bds",
+      "thumb": "电子乐园.bds_py_26_light_thumb.png",
+      "full": "电子乐园.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "熊熊美柿吧无漂浮.bds",
+      "thumb": "熊熊美柿吧无漂浮.bds_py_26_light_thumb.png",
+      "full": "熊熊美柿吧无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "熊熊美柿吧.bds",
+      "thumb": "熊熊美柿吧.bds_py_26_light_thumb.png",
+      "full": "熊熊美柿吧.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "你别太抽象奥.bds",
+      "thumb": "你别太抽象奥.bds_py_26_light_thumb.png",
+      "full": "你别太抽象奥.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "你别太抽象奥无漂浮.bds",
+      "thumb": "你别太抽象奥无漂浮.bds_py_26_light_thumb.png",
+      "full": "你别太抽象奥无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "熊熊韩不韩无漂浮.bds",
+      "thumb": "熊熊韩不韩无漂浮.bds_py_26_light_thumb.png",
+      "full": "熊熊韩不韩无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "熊熊韩不韩.bds",
+      "thumb": "熊熊韩不韩.bds_py_26_light_thumb.png",
+      "full": "熊熊韩不韩.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "卷毛狗日常无漂浮.bds",
+      "thumb": "卷毛狗日常无漂浮.bds_py_26_light_thumb.png",
+      "full": "卷毛狗日常无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "卷毛狗日常.bds",
+      "thumb": "卷毛狗日常.bds_py_26_light_thumb.png",
+      "full": "卷毛狗日常.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小奇演唱会无漂浮.bds",
+      "thumb": "小奇演唱会无漂浮.bds_py_26_light_thumb.png",
+      "full": "小奇演唱会无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小奇演唱会.bds",
+      "thumb": "小奇演唱会.bds_py_26_light_thumb.png",
+      "full": "小奇演唱会.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "快乐家族.bds",
+      "thumb": "快乐家族.bds_py_26_light_thumb.png",
+      "full": "快乐家族.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "快乐家族无漂浮.bds",
+      "thumb": "快乐家族无漂浮.bds_py_26_light_thumb.png",
+      "full": "快乐家族无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "迪士尼在逃Yomi无漂浮.bds",
+      "thumb": "迪士尼在逃Yomi无漂浮.bds_py_26_light_thumb.png",
+      "full": "迪士尼在逃Yomi无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "动感蘑菇屋.bds",
+      "thumb": "动感蘑菇屋.bds_py_26_light_thumb.png",
+      "full": "动感蘑菇屋.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "迪士尼在逃Yomi.bds",
+      "thumb": "迪士尼在逃Yomi.bds_py_26_light_thumb.png",
+      "full": "迪士尼在逃Yomi.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "动感蘑菇屋无漂浮.bds",
+      "thumb": "动感蘑菇屋无漂浮.bds_py_26_light_thumb.png",
+      "full": "动感蘑菇屋无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "咖啡主理人.bds",
+      "thumb": "咖啡主理人.bds_py_26_light_thumb.png",
+      "full": "咖啡主理人.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "咖啡主理人无漂浮.bds",
+      "thumb": "咖啡主理人无漂浮.bds_py_26_light_thumb.png",
+      "full": "咖啡主理人无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "糖炒kitty无漂浮.bds",
+      "thumb": "糖炒kitty无漂浮.bds_py_26_light_thumb.png",
+      "full": "糖炒kitty无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "晚安小熊无漂浮.bds",
+      "thumb": "晚安小熊无漂浮.bds_py_26_light_thumb.png",
+      "full": "晚安小熊无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "晚安小熊.bds",
+      "thumb": "晚安小熊.bds_py_26_light_thumb.png",
+      "full": "晚安小熊.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蜡笔下的美好.bds",
+      "thumb": "蜡笔下的美好.bds_py_26_light_thumb.png",
+      "full": "蜡笔下的美好.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蜡笔下的美好无漂浮.bds",
+      "thumb": "蜡笔下的美好无漂浮.bds_py_26_light_thumb.png",
+      "full": "蜡笔下的美好无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "糖炒kitty.bds",
+      "thumb": "糖炒kitty.bds_py_26_light_thumb.png",
+      "full": "糖炒kitty.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小帽儿一戴无漂浮闷.bds",
+      "thumb": "小帽儿一戴无漂浮闷.bds_py_26_light_thumb.png",
+      "full": "小帽儿一戴无漂浮闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小帽儿一戴无漂浮脆.bds",
+      "thumb": "小帽儿一戴无漂浮脆.bds_py_26_light_thumb.png",
+      "full": "小帽儿一戴无漂浮脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小帽儿一戴脆.bds",
+      "thumb": "小帽儿一戴脆.bds_py_26_light_thumb.png",
+      "full": "小帽儿一戴脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "西北汪汪队.bds",
+      "thumb": "西北汪汪队.bds_py_26_light_thumb.png",
+      "full": "西北汪汪队.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小帽儿一戴闷.bds",
+      "thumb": "小帽儿一戴闷.bds_py_26_light_thumb.png",
+      "full": "小帽儿一戴闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "西北汪汪队无漂浮.bds",
+      "thumb": "西北汪汪队无漂浮.bds_py_26_light_thumb.png",
+      "full": "西北汪汪队无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小熊会魔法.bds",
+      "thumb": "小熊会魔法.bds_py_26_light_thumb.png",
+      "full": "小熊会魔法.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小熊会魔法无漂浮.bds",
+      "thumb": "小熊会魔法无漂浮.bds_py_26_light_thumb.png",
+      "full": "小熊会魔法无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "新新当家日记.bds",
+      "thumb": "新新当家日记.bds_py_26_light_thumb.png",
+      "full": "新新当家日记.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "新新当家日记无漂浮.bds",
+      "thumb": "新新当家日记无漂浮.bds_py_26_light_thumb.png",
+      "full": "新新当家日记无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "钱多多的快乐生活无漂浮.bds",
+      "thumb": "钱多多的快乐生活无漂浮.bds_py_26_light_thumb.png",
+      "full": "钱多多的快乐生活无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "钱多多的快乐生活.bds",
+      "thumb": "钱多多的快乐生活.bds_py_26_light_thumb.png",
+      "full": "钱多多的快乐生活.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "钱多多的快乐生活下沉动效无漂浮.bds",
+      "thumb": "钱多多的快乐生活下沉动效无漂浮.bds_py_26_light_thumb.png",
+      "full": "钱多多的快乐生活下沉动效无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "钱多多的快乐生活下沉动效.bds",
+      "thumb": "钱多多的快乐生活下沉动效.bds_py_26_light_thumb.png",
+      "full": "钱多多的快乐生活下沉动效.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "我的童年无漂浮.bds",
+      "thumb": "我的童年无漂浮.bds_py_26_light_thumb.png",
+      "full": "我的童年无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "我的童年.bds",
+      "thumb": "我的童年.bds_py_26_light_thumb.png",
+      "full": "我的童年.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "幼稚园的1天无漂浮.bds",
+      "thumb": "幼稚园的1天无漂浮.bds_py_26_light_thumb.png",
+      "full": "幼稚园的1天无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "幼稚园的1天.bds",
+      "thumb": "幼稚园的1天.bds_py_26_light_thumb.png",
+      "full": "幼稚园的1天.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "比巴卜熊无漂浮.bds",
+      "thumb": "比巴卜熊无漂浮.bds_py_26_light_thumb.png",
+      "full": "比巴卜熊无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "比巴卜熊.bds",
+      "thumb": "比巴卜熊.bds_py_26_light_thumb.png",
+      "full": "比巴卜熊.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小涂鸦大梦想无漂浮.bds",
+      "thumb": "小涂鸦大梦想无漂浮.bds_py_26_light_thumb.png",
+      "full": "小涂鸦大梦想无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小涂鸦大梦想.bds",
+      "thumb": "小涂鸦大梦想.bds_py_26_light_thumb.png",
+      "full": "小涂鸦大梦想.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "有点甜.bds",
+      "thumb": "有点甜.bds_py_26_light_thumb.png",
+      "full": "有点甜.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "有点甜无漂浮.bds",
+      "thumb": "有点甜无漂浮.bds_py_26_light_thumb.png",
+      "full": "有点甜无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "不做抽象派无漂浮.bds",
+      "thumb": "不做抽象派无漂浮.bds_py_26_light_thumb.png",
+      "full": "不做抽象派无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "不做抽象派.bds",
+      "thumb": "不做抽象派.bds_py_26_light_thumb.png",
+      "full": "不做抽象派.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "熊仔运动会.bds",
+      "thumb": "熊仔运动会.bds_py_26_light_thumb.png",
+      "full": "熊仔运动会.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "熊仔运动会无漂浮.bds",
+      "thumb": "熊仔运动会无漂浮.bds_py_26_light_thumb.png",
+      "full": "熊仔运动会无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "简笔涂鸦无漂浮.bds",
+      "thumb": "简笔涂鸦无漂浮.bds_py_26_light_thumb.png",
+      "full": "简笔涂鸦无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "简笔涂鸦.bds",
+      "thumb": "简笔涂鸦.bds_py_26_light_thumb.png",
+      "full": "简笔涂鸦.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小猫系冠军.bds",
+      "thumb": "小猫系冠军.bds_py_26_light_thumb.png",
+      "full": "小猫系冠军.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小猫系冠军无漂浮.bds",
+      "thumb": "小猫系冠军无漂浮.bds_py_26_light_thumb.png",
+      "full": "小猫系冠军无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小熊O泡.bds",
+      "thumb": "小熊O泡.bds_py_26_light_thumb.png",
+      "full": "小熊O泡.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小熊O泡无漂浮.bds",
+      "thumb": "小熊O泡无漂浮.bds_py_26_light_thumb.png",
+      "full": "小熊O泡无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "多吃蔬菜无漂浮.bds",
+      "thumb": "多吃蔬菜无漂浮.bds_py_26_light_thumb.png",
+      "full": "多吃蔬菜无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "多吃蔬菜.bds",
+      "thumb": "多吃蔬菜.bds_py_26_light_thumb.png",
+      "full": "多吃蔬菜.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "软绵绵的小女孩.bds",
+      "thumb": "软绵绵的小女孩.bds_py_26_light_thumb.png",
+      "full": "软绵绵的小女孩.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "软绵绵的小女孩无漂浮.bds",
+      "thumb": "软绵绵的小女孩无漂浮.bds_py_26_light_thumb.png",
+      "full": "软绵绵的小女孩无漂浮.bds_py_26_light.png"
+    }
+  ]
+}

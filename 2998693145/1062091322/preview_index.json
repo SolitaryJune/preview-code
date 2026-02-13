@@ -1,0 +1,259 @@
+{
+  "qq_number": "2998693145",
+  "group_number": "1062091322",
+  "updated_at": "2026-02-13T23:42:00.531661",
+  "skins": [
+    {
+      "name": "阿诺？！",
+      "file": "阿诺.bdi",
+      "thumb": "阿诺.bdi_py_26_light_thumb.png",
+      "full": "阿诺.bdi_py_26_light.png"
+    },
+    {
+      "name": "银谷快板音",
+      "file": "银谷快板音.bdi",
+      "thumb": "银谷快板音.bdi_py_26_light_thumb.png",
+      "full": "银谷快板音.bdi_py_26_light.png"
+    },
+    {
+      "name": "银谷闷闷音",
+      "file": "银谷闷闷音.bdi",
+      "thumb": "银谷闷闷音.bdi_py_26_light_thumb.png",
+      "full": "银谷闷闷音.bdi_py_26_light.png"
+    },
+    {
+      "name": "祷告",
+      "file": "祷告.bdi",
+      "thumb": "祷告.bdi_py_26_default_thumb.png",
+      "full": "祷告.bdi_py_26_default.png"
+    },
+    {
+      "name": "祷告融合底",
+      "file": "祷告融合底.bdi",
+      "thumb": "祷告融合底.bdi_py_26_default_thumb.png",
+      "full": "祷告融合底.bdi_py_26_default.png"
+    },
+    {
+      "name": "圣光",
+      "file": "圣光.bdi",
+      "thumb": "圣光.bdi_py_26_default_thumb.png",
+      "full": "圣光.bdi_py_26_default.png"
+    },
+    {
+      "name": "丛雨",
+      "file": "丛雨.bdi",
+      "thumb": "丛雨.bdi_py_26_light_thumb.png",
+      "full": "丛雨.bdi_py_26_light.png"
+    },
+    {
+      "name": "柿柿如意 彩底",
+      "file": "柿柿如意彩底.bdi",
+      "thumb": "柿柿如意彩底.bdi_py_26_light_thumb.png",
+      "full": "柿柿如意彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "柿柿如意 融合底",
+      "file": "柿柿如意融合底.bdi",
+      "thumb": "柿柿如意融合底.bdi_py_26_light_thumb.png",
+      "full": "柿柿如意融合底.bdi_py_26_light.png"
+    },
+    {
+      "name": "在庭院",
+      "file": "在庭院.bdi",
+      "thumb": "在庭院.bdi_py_26_light_thumb.png",
+      "full": "在庭院.bdi_py_26_light.png"
+    },
+    {
+      "name": "米娜桑",
+      "file": "米娜桑.bdi",
+      "thumb": "米娜桑.bdi_py_26_default_thumb.png",
+      "full": "米娜桑.bdi_py_26_default.png"
+    },
+    {
+      "name": "唉哎爱彩底",
+      "file": "唉哎爱彩底.bdi",
+      "thumb": "唉哎爱彩底.bdi_py_26_light_thumb.png",
+      "full": "唉哎爱彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "唉哎爱融合底",
+      "file": "唉哎爱融合底.bdi",
+      "thumb": "唉哎爱融合底.bdi_py_26_light_thumb.png",
+      "full": "唉哎爱融合底.bdi_py_26_light.png"
+    },
+    {
+      "name": "冷杉",
+      "file": "冷杉.bdi",
+      "thumb": "冷杉.bdi_py_26_default_thumb.png",
+      "full": "冷杉.bdi_py_26_default.png"
+    },
+    {
+      "name": "萌 候选字黑",
+      "file": "萌候选字黑.bdi",
+      "thumb": "萌候选字黑.bdi_py_26_default_thumb.png",
+      "full": "萌候选字黑.bdi_py_26_default.png"
+    },
+    {
+      "name": "戒断",
+      "file": "戒断.bdi",
+      "thumb": "戒断.bdi_py_26_default_thumb.png",
+      "full": "戒断.bdi_py_26_default.png"
+    },
+    {
+      "name": "滑稽",
+      "file": "滑稽.bdi",
+      "thumb": "滑稽.bdi_py_26_default_thumb.png",
+      "full": "滑稽.bdi_py_26_default.png"
+    },
+    {
+      "name": "褪色",
+      "file": "褪色.bdi",
+      "thumb": "褪色.bdi_py_26_default_thumb.png",
+      "full": "褪色.bdi_py_26_default.png"
+    },
+    {
+      "name": "病症院",
+      "file": "病症院.bdi",
+      "thumb": "病症院.bdi_py_26_default_thumb.png",
+      "full": "病症院.bdi_py_26_default.png"
+    },
+    {
+      "name": "似梦非梦",
+      "file": "似梦非梦.bdi",
+      "thumb": "似梦非梦.bdi_py_26_default_thumb.png",
+      "full": "似梦非梦.bdi_py_26_default.png"
+    },
+    {
+      "name": "晦涩季",
+      "file": "晦涩季.bdi",
+      "thumb": "晦涩季.bdi_py_26_default_thumb.png",
+      "full": "晦涩季.bdi_py_26_default.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "阿诺.bds",
+      "thumb": "阿诺.bds_py_26_light_thumb.png",
+      "full": "阿诺.bds_py_26_light.png"
+    },
+    {
+      "name": "银谷快板音",
+      "file": "银谷快板音.bds",
+      "thumb": "银谷快板音.bds_py_26_light_thumb.png",
+      "full": "银谷快板音.bds_py_26_light.png"
+    },
+    {
+      "name": "银谷闷闷音",
+      "file": "银谷闷闷音.bds",
+      "thumb": "银谷闷闷音.bds_py_26_light_thumb.png",
+      "full": "银谷闷闷音.bds_py_26_light.png"
+    },
+    {
+      "name": "祷告",
+      "file": "祷告.bds",
+      "thumb": "祷告.bds_py_26_default_thumb.png",
+      "full": "祷告.bds_py_26_default.png"
+    },
+    {
+      "name": "祷告 融合底",
+      "file": "祷告融合底.bds",
+      "thumb": "祷告融合底.bds_py_26_default_thumb.png",
+      "full": "祷告融合底.bds_py_26_default.png"
+    },
+    {
+      "name": "圣光",
+      "file": "圣光.bds",
+      "thumb": "圣光.bds_py_26_default_thumb.png",
+      "full": "圣光.bds_py_26_default.png"
+    },
+    {
+      "name": "丛雨",
+      "file": "丛雨.bds",
+      "thumb": "丛雨.bds_py_26_light_thumb.png",
+      "full": "丛雨.bds_py_26_light.png"
+    },
+    {
+      "name": "柿柿如意彩底",
+      "file": "柿柿如意彩底.bds",
+      "thumb": "柿柿如意彩底.bds_py_26_light_thumb.png",
+      "full": "柿柿如意彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "柿柿如意融合底",
+      "file": "柿柿如意融合底.bds",
+      "thumb": "柿柿如意融合底.bds_py_26_light_thumb.png",
+      "full": "柿柿如意融合底.bds_py_26_light.png"
+    },
+    {
+      "name": "在庭院",
+      "file": "在庭院.bds",
+      "thumb": "在庭院.bds_py_26_light_thumb.png",
+      "full": "在庭院.bds_py_26_light.png"
+    },
+    {
+      "name": "米娜桑",
+      "file": "米娜桑.bds",
+      "thumb": "米娜桑.bds_py_26_default_thumb.png",
+      "full": "米娜桑.bds_py_26_default.png"
+    },
+    {
+      "name": "唉哎爱彩底",
+      "file": "唉哎爱彩底.bds",
+      "thumb": "唉哎爱彩底.bds_py_26_light_thumb.png",
+      "full": "唉哎爱彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "唉哎爱融合底",
+      "file": "唉哎爱融合底.bds",
+      "thumb": "唉哎爱融合底.bds_py_26_light_thumb.png",
+      "full": "唉哎爱融合底.bds_py_26_light.png"
+    },
+    {
+      "name": "冷杉",
+      "file": "冷杉.bds",
+      "thumb": "冷杉.bds_py_26_default_thumb.png",
+      "full": "冷杉.bds_py_26_default.png"
+    },
+    {
+      "name": "萌 候选字黑",
+      "file": "萌候选字黑.bds",
+      "thumb": "萌候选字黑.bds_py_26_default_thumb.png",
+      "full": "萌候选字黑.bds_py_26_default.png"
+    },
+    {
+      "name": "戒断",
+      "file": "戒断.bds",
+      "thumb": "戒断.bds_py_26_default_thumb.png",
+      "full": "戒断.bds_py_26_default.png"
+    },
+    {
+      "name": "滑稽",
+      "file": "滑稽.bds",
+      "thumb": "滑稽.bds_py_26_default_thumb.png",
+      "full": "滑稽.bds_py_26_default.png"
+    },
+    {
+      "name": "褪色",
+      "file": "褪色.bds",
+      "thumb": "褪色.bds_py_26_default_thumb.png",
+      "full": "褪色.bds_py_26_default.png"
+    },
+    {
+      "name": "病症院",
+      "file": "病症院.bds",
+      "thumb": "病症院.bds_py_26_default_thumb.png",
+      "full": "病症院.bds_py_26_default.png"
+    },
+    {
+      "name": "似梦非梦",
+      "file": "似梦非梦.bds",
+      "thumb": "似梦非梦.bds_py_26_default_thumb.png",
+      "full": "似梦非梦.bds_py_26_default.png"
+    },
+    {
+      "name": "晦涩迹",
+      "file": "晦涩季.bds",
+      "thumb": "晦涩季.bds_py_26_default_thumb.png",
+      "full": "晦涩季.bds_py_26_default.png"
+    }
+  ]
+}
